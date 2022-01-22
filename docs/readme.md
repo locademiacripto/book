@@ -1,6 +1,6 @@
-# book
+# LocademiaCripto Book
 
-El libro está en redacción. 
+_El libro está en redacción_ 
 
 ## LocademiaCripto
 
