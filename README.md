@@ -2,7 +2,8 @@
 
 El libro está en redacción. 
 
-Versión actual: v.0 alpha
+Versión actual: 
+[![](https://badgen.net/github/tag/locademiacripto/book)](https://github.com/locademiacripto/book/releases/latest)
 
 Se actualizarán distintas versiones en la parte de [RELEASE](https://github.com/locademiacripto/book/releases) de este repositorio.
 
