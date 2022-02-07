@@ -127,7 +127,7 @@ El riesgo por operación se puede calcular con una fórmula similar:
 R = (Precio objetivo – Precio de entrada) / (Precio de entrada – Stop Loss)
 
 
-#### Ejemplo práctico
+**Ejemplo práctico**
 
 Se desea comprar Bitcoin con USD a $ 10,000 y:
 
@@ -141,5 +141,42 @@ Su cantidad ingresada será:
 A = (($5,000 * 0,026) / ($6,000 - $4,500)) * $6,000 = $520
 
 Esto significa que la inversión ideal en este trato es de $520, o el 10,4 % del capital total por operación.
+
+#### Cálculo de “Tiburones y Pirañas” por Elder
+Este concepto fue creado por el comerciante profesional _Alexander Elder_ y pretendía diversificar las inversiones. Elder dijo que cada posición debe limitarse a un riesgo del 2%. Puedes arriesgarte más, pero esto puede ser tan destructivo para ti como la mordedura de un tiburón.
+
+Al mismo tiempo, limitar las sesiones de negociación al 6% por sesión es como el ataque de una piraña. Claro, puede perder algo, pero en pequeñas cantidades ya largo plazo.
+
+#### Criterio de kelly
+Creado por John Kelly hace 65 años, este método es adecuado para comerciantes a largo plazo. Su objetivo principal es definir el porcentaje de capital a apostar mediante esta fórmula:
+
+A = (% de éxito / Relación de pérdidas en Stop Loss) – ((1 - % de éxito / Relación de ganancias en Take Profit)
+
+Aquí hay un ejemplo de esta fórmula, donde:
+
+Éxito = 70%
+Ratio de siniestralidad en stop loss = 1,30
+Proporción de beneficio en Take Profit = 1,40
+A = (0,7 / 1,30) - ((1 - 0,7) / 1,40) = 0,32
+
+Tal resultado muestra que no debe arriesgar más del 32% del capital que tiene.
+
+### Stop loss + toma de ganancias
+Estas son órdenes, o comandos, que hace un comerciante cuando el precio de alguna moneda sube o baja hasta un punto específico. Por lo tanto, con el primero, puede evitar acuerdos no rentables, mientras que el segundo lo ayuda a cerrar el trato antes de que el mercado se vuelva en su contra. Por lo general, los comerciantes usan programas específicos para obtener las señales que necesitan. Algunos programas avanzados pueden bloquear o desbloquear la posibilidad de operar, dependiendo del precio de una moneda.
+
+***
+
+## Consejos para tener éxito
+Ahora, es momento de hablarte de algunos tips y consejos que pueden ayudarte a no perder tu dinero. Para que descubras cómo beneficiarte del movimiento del mercado de criptomonedas en el comercio de criptomonedas, primero debes darte cuenta de que:
+
+- Perder está bien. No puedes ganar todo el tiempo, pero, al aceptar tus propios fracasos, puedes aprender y evitar algunos riesgos en el futuro.
+- Analizar el pasado y el estado actual del mercado. El análisis es una gran herramienta que ayuda a los comerciantes a saber exactamente cuándo y qué criptomoneda subirá de precio (o no). El mercado y todos sus movimientos son cíclicos. Conocer sus patrones lo ayudará a medir el ciclo y predecir eventos futuros.
+- Concéntrese en su objetivo. Pregúntese por qué comercia y qué desea lograr. Obtenga una comprensión clara de su propósito comercial para evitar riesgos innecesarios y concéntrese en lo que tiene y lo que necesita. Un buen ejemplo es el comercio diario de criptomonedas, cuyas reglas permiten a los usuarios especular en el mercado. El objetivo es obtener la mayor ganancia posible en 24 horas. Por lo tanto, los comerciantes logran sus objetivos sin prestar atención a los detalles innecesarios y todos los riesgos asociados con ellos.
+
+
+## Resumen
+Calcular los riesgos comerciales potenciales lo ayuda a salvar sus activos al operar. Con el tiempo, adquirirás más experiencia en este ámbito y, con la educación adecuada, podrás detectar todos los resultados posibles, tanto negativos como positivos.
+
+***
 
 >! Falta completar todos estos puntos con mejores ejemplos
