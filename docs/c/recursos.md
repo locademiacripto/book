@@ -1,6 +1,7 @@
 # Recursos Web
 
 - TradingView: https://bit.ly/LocaTrading
+- CoinMarketCup: https://bit.ly/LocaCoinmarket
 - Binance: https://bit.ly/LocaBinance
 - Huobi: https://bit.ly/cripto-obi-one
 - OKX: https://bit.ly/LocaOkx
