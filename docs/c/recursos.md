@@ -13,3 +13,7 @@
 
 Para reportar scam la única web "seria" que he encontrado es esta:
 * [CoinHolmes](https://forms.coinholmes.com/)
+
+## Trackers
+
+- [Central Bank Digital Currency Tracker](https://cbdctracker.org/)
