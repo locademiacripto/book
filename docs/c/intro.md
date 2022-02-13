@@ -15,13 +15,13 @@ No hay UNA cadena de bloques, cuando en internet leen sobre Blockchain hablan de
 
 ## El big bang (de Bitcoin)
 
-?> “Me gustaría ayudar con Bitcoin si hay algo que pueda hacer.”
-?> 
-?> -- [Martti Malmi](https://twitter.com/marttimalmi ':ignore') a Satoshi Nakamoto
+> “Me gustaría ayudar con Bitcoin si hay algo que pueda hacer.”
+>
+> -- _Martti Malmi_ a _Satoshi Nakamoto_
 
 La historia de lo que ocurrió está en miles de sitios web del Internet, puedes leerlo en cualquier portal que leas. Pero lo importante aquí es lo que nadie dice: Colaboración Descentralizada.
 
-Así como los científicos aún hasta el día de hoy atribuyen a distintas hipótesis el cómo ocurre el Big Bang que le da origen al universo, hablan de la “chispa” que hizo explotar miles de partículas que dan origen a los planetas por ejemplo, bueno algo similar ocurrió cuando toda la tecnología pre-existente se unió en distintas conversaciones y “lluvia de ideas” a través de la colaboración descentralizada tal como ocurrió después del mensaje que le envió un tal Marttti a un tal Satoshi, y fue espectacular. Bitcoin no sería lo que es hoy si no fuese propiedad del Internet. Y para que comprendas lo que te estoy diciendo en estas palabras, debes abrir tu mente al siguiente video.
+Así como los científicos aún hasta el día de hoy atribuyen a distintas hipótesis el cómo ocurre el Big Bang que le da origen al universo, hablan de la “chispa” que hizo explotar miles de partículas que dan origen a los planetas por ejemplo, bueno algo similar ocurrió cuando toda la tecnología pre-existente se unió en distintas conversaciones y “lluvia de ideas” a través de la colaboración descentralizada tal como ocurrió después del mensaje que le envió un tal Martti a un tal Satoshi, y fue espectacular. Bitcoin no sería lo que es hoy si no fuese propiedad del Internet. Y para que comprendas lo que te estoy diciendo en estas palabras, debes abrir tu mente al siguiente video.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DjYbsq3FXfM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -34,3 +34,21 @@ Si quieres disfrutar de la historia, mejor dicho la UTOPÍA que está viviendo l
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P6vYyqHG54Y?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Lo que ves se llama “Criyptopia” (una suerte de cripto-utopía) en formato película, está en español (doblada) para que sea de fácil entendimiento. Y lo que sea que no entiendas de esta película, podes escribirme un mensaje privado directo, y lo conversamos sin costo alguno.
+
+### Martti Malmi
+Si te estás preguntando quién es Martti, está perfecto. Nadie habla de él, o tiene menor "fama" que Satoshi Nakamoto. Pero lo expongo adelante de Satoshi porque al menos este señor, salió del anonimato que provee el Internet y se muestra tal como es, y hasta cuenta cómo ha vendido muchísimos de sus bitcoins, lo que los medios más sensasionalistas por supuesto lo publican como pérdidas de miles de millones de dólares. En fin, Martti forma parte de la historia de Bitcoin, y es un ser humano que podemos ver, conocer, y hasta podes probar contactarlo en Twitter: [Martti Malmi](https://twitter.com/marttimalmi ':ignore')
+
+### Satoshi Nakamoto
+Nadie ha confirmado si detrás de este "nickname" hay UNA o varias personas. Tranquilamente podría ser un grupo. Como sea, un súper cerebro o varios, bajo este pseudónimo se crearon las primeras líneas de lo que hoy es BITCOIN como protocolo, y moneda que gobierna el Internet de una economía descentralizada. Digamos que comenzó la ola, creó las bases, explotó y motivó los cerebros de quienes se unieron al movimiento.
+
+## Cambio de Paradigma
+Bitcoin es UN uso al blockchain, pero no el único.
+
+Lo que desató haber conocido bitcoin es sin lugar a dudas un conocimiento libre que motivará a miles de millones de personas alrededor del mundo, y sea de donde sea que estés leyendo esto, la idea que se ocurra, podrá cambiar la vida de millones. La web 3.0 está en camino, y miles de ideas relacionadas a lo que planteó Bitcoin están también en camino. 
+
+### Bases de datos LIBRES
+¿Te has puesto a pensar por qué el hospital donde vas no te da la información sobre tu historia clínica? ¿Qué pasaría se tienes un accidente en otro país? ¿El hospital del extranjero, podría acceder a tu historia clínica? ¿Por qué no? ¿Quién es tu hospital para ser dueño de tu historia clínica? ¿Cuándo cediste los derechos sobre lo que saben de tí a nivel salud? ¿Tienes una copia de lo que firmaste? 
+
+¿Y si existiede una base de datos en el internet, totalmente descentralizada, donde solo tú puedas con un código, acceder y darle permisos de lectura a cualquier hospital? Historias clínicas descentralizadas, en poder de cada persona, con acceso libre de cualquier hospital del mundo, eso es posible en Blockchain.
+
+_... continuará_
