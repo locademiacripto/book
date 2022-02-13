@@ -6,6 +6,10 @@
   <meta charset="UTF-8">
   <title>LocademiaCripto Book</title>
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
+  <link href='https://locademiacripto.github.io/web/assets/img/favicon/apple-touch-icon.png' rel='apple-touch-icon' sizes='180x180'/>
+  <link href='https://locademiacripto.github.io/web/assets/img/favicon/favicon-32x32.png' rel='icon' sizes='32x32' type='image/png'/>
+  <link href='https://locademiacripto.github.io/web/assets/img/favicon/favicon-16x16.png' rel='icon' sizes='16x16' type='image/png'/>
+  <link href='https://locademiacripto.github.io/web/assets/site.webmanifest' rel='manifest'/>
   <style>
     a[href^="//"]:after, 
     a[href^="http://"]:after, 
@@ -27,23 +31,33 @@
   <script>
     window.$docsify = {
       repo: '',
-      maxLevel: 2,
+      maxLevel: 4,
+      subMaxLevel: 2,
       hideSidebar: false,
       loadSidebar: true,
       name: 'LocademiaCripto Book',
       onlyCover: false,
-      coverpage: true,
+      coverpage: true, // Carga del _coverpage.md si es true
+      loadNavbar: false, // Loads navbar from the Markdown file _navbar.md if true
+      mergeNavbar: true,
       auto2top: true,
+      search: 'auto',
         search: {
         maxAge: 86400000, // Expiration time, the default one day
         paths: 'auto', // [] or 'auto'
         placeholder: 'Buscar',
         noData: '¡Sin Resultados!',
         depth: 5 },
+      pagination: {
+        previousText: 'Anterior',
+        nextText: 'Siguiente',
+        crossChapter: true,
+        crossChapterText: true},
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script>
   if (typeof navigator.serviceWorker !== 'undefined') {
     navigator.serviceWorker.register('sw.js')
