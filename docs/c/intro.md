@@ -15,8 +15,9 @@ No hay UNA cadena de bloques, cuando en internet leen sobre Blockchain hablan de
 
 ## El big bang (de Bitcoin)
 
-> “Me gustaría ayudar con Bitcoin si hay algo que pueda hacer.” 
-> -- Martti Malmi a Satoshi Nakamoto
+?> “Me gustaría ayudar con Bitcoin si hay algo que pueda hacer.”
+?> 
+?> -- [Martti Malmi](https://twitter.com/marttimalmi ':ignore') a Satoshi Nakamoto
 
 La historia de lo que ocurrió está en miles de sitios web del Internet, puedes leerlo en cualquier portal que leas. Pero lo importante aquí es lo que nadie dice: Colaboración Descentralizada.
 
