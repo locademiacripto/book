@@ -1,7 +1,5 @@
 # LocademiaCripto Book
 
-_El libro está en redacción_ 
-
 ## LocademiaCripto
 
 - Telegram: [@LocademiaCripto](https://t.me/LocademiaCripto)
@@ -22,3 +20,5 @@ El manual / libro / ebook / curso o como quieras llamarle, se publica en PDF. Pr
 
 Podes compartirlo con quien vos quieras.
 La versión final se compartirá en este repositorio.
+
+[Book](#book)
