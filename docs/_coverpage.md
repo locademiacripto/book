@@ -1,4 +1,4 @@
-# LocademiaCripto Book <small>02a</small>
+# LocademiaCripto Book <small>03a</small>
 
 >La parte teórica al alcance de tus dedos
 
