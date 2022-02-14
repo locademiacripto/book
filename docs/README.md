@@ -2,7 +2,7 @@
 
 _Esto está en constante producción, edición, prueba y error -- Por eso es versión alpha, si estás leyendo esto, llegaste temprano_
 
-!> Se buscan **colaboradores**, si te interesa ayudar, mandame un privado al telegram: [Walddo](https://t.me/walddo)
+!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/walddo)
 
 ## ¿Quién es WaLddo?
 Quería empezar presentándome, pues estoy seguro que te interesa saber quién soy, y por qué te estoy escribiendo esto.
