@@ -10,7 +10,7 @@ Puedes hacer un seguimiento de estos proyectos aquí: https://cbdctracker.org/
 
 Volviendo al caos, no puedo en un mismo libro cubrir el caos que generan los gobiernos del mundo intentando regular algo que es libre y que está en el internet. Pueden manipular a la población, asustarla con multas, presionarte para que “declares” cuántas criptomonedas tienes, donde las tienes, etcétera. Desde aquí, solo te recuerdo lo que te dije al principio de este libro: **¡Van por tu dinero!** Está en ti si quieres regalar tu información, y con ella, tu dinero.
 
-## Regulación
+## Regulación :id=regulacion
 
 Temas de “regulación” de criptomonedas lo analizaremos puntualmente por país en nuestro repositorio libre, donde cada uno puede aportar su grano de arena. Desde ya, que no estoy de acuerdo con la regulación de las criptomonedas. Si bien creo que la palabra “regulación” implica aceptación de que hay o habrá mayor adopción del tema cripto, y por ese lado podría ser positivo, pero habría que ver bien, y analizar bien, qué y cómo quieren regular. Quienes quieren regular. Y por qué.
 

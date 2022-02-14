@@ -102,7 +102,9 @@ Entonces, te creas la cuenta, me sigues dentro de TradingView, y ya estás listo
 #### CoinMarketCap
 Este poderoso ranking de criptomonedas es el más usado y debe ser parte de tu “google” cuando te sumerges en el mundo de las criptomonedas. Si aún no tienes cuenta, puedes participar de ganar “diamantes” que podrás cambiar por premios y otros beneficios que ofrece el sitio web, lee más sobre esto aquí: https://bit.ly/LocaCoinmarket
 
-Una vez registrado es imprescindible que mires este video, donde te presento toda la plataforma: (imagen)
+Una vez registrado es imprescindible que mires este video, donde te presento toda la plataforma:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0xVMXy_EZQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Binance
 Creando una cuenta y verificando tu identidad con este enlace: https://bit.ly/LocaBinance, recibirás de bonus 20% de descuento en todas las comisiones por trading en spot que hagas. Descuentos en futuros, y acceso a otros beneficios por ser alumno verificado de LocademiaCripto.
@@ -114,7 +116,7 @@ No vamos a hablar de la plataforma, directamente les muestro en modo “cuadro�
 Estos gráficos se irán actualizando y se les irá agregando más contenido, y temas para ir tratando.
 
 #### Huobi
-Sumando esta plataforma a tu lista de alternativas para las criptomonedas a través  nuestro enlace: https://bit.ly/cripto-obi-one, recibirás 20% de descuento en spot, más en futuros, y además, 5 dólares de bonificación para quienes hagan trading con unos 50 usdt en cualquier par (menos en pares de stable-coins), y los beneficios de pertenecer a la comunidad de LocademiaCripto como alumno verificado.
+Sumando esta plataforma a tu lista de alternativas para las criptomonedas a través  nuestro enlace: https://bit.ly/cripto-obi-one, recibirás descuentos importantes.
 
 Habrá otras plataformas de intercambio para ir por el mundo o universo cripto. Pero por ahora, nos concentraremos en estas dos: Binance y Huobi.
 

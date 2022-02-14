@@ -1,10 +1,15 @@
 # Capítulo 0
 
-¿Por qué Capítulo CERO?
+>¿Por qué Capítulo CERO?
 
 Seguramente te habrá llamado la atención que arrancamos por el cero. Primer rotura del molde, y verdad empírica, en cualquier plano de la vida, se comienza en cero. Cero coma cero, cero, cero, cero, cero (… suspenso que tiende a infinito) y después un UNO. Es importante destacar esto, porque en el universo al que viajaremos pronto, es decir, el de las criptomonedas, el valor de las mismas también comienza en cero. Y es algo que tenemos que entender, y naturalizar. Es así con los mercados de valores también: las acciones de empresas como Coca Cola, Apple, o Microsoft, también comenzaron en cero aunque cueste creerlo, y de hecho, podrían volver a valer cero coma (algo…) y después uno!
 
 Este libro se actualizará a medida que voy recibiendo retroalimentación de las distintas versiones que lees. No tengas miedo ni timidez de decirme cualquier cosa que veas que está mal, o que le falta desarrollo, [estoy aquí](/#¿quién-es-walddo).
+
+## Cómo aprender a invertir
+Hace poco una persona desconocida me contó que nadie comparte el cómo invertir. Todos forman parte de grupos enormes en internet y están hablando sobre temas de criptomonedas e inversiones, pero nadie comparte el conocimiento realmente. Nadie indica dónde y cómo hacer algo para ganar más dinero. Y que por eso, las personas que buscan ganar dinero, terminan siendo estafadas porque los estafadores son buenos diciendo cómo invertir, les cuentan paso por paso cómo dejar su dinero en determinadas plataformas, las cuales al final de cuenta pueden terminar siendo estafas, pero las personas no identifican esto con una estafa porque confían en las personas.
+
+Aquí mucho cuidado. Aprender a invertir será una misión compleja y un viaje hermoso por el Internet, que te hará estar al frente de estafadores en más de una ocasión y esto es así porque esas personas inservibles, los estafadores, solo quieren tu dinero, y harán lo que sea para conseguirlo. Si tienen que mentirte, lo harán.
 
 ## Curso Particular (tú y yo) - Demo Gratis
 Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de [recomendaciones](recomendaciones.md). Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso

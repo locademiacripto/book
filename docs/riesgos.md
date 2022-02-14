@@ -21,13 +21,6 @@ Cuando trabajamos con dinero, siempre hay negociación. Y este proceso (el de ne
 - Riesgo de Mercado
 - Riesgo Operacional
 
-	
-## Estrategias en la Gestión de Riesgos
-
-- Relación Riesgo / Recompensa
-- Tamaño de la posición
-- Stop Loss / Take Profit
-
 Era necesario que entiendas esto, para usar las herramientas cripto correctamente y que inviertas aprovechando el estudio a tu favor, porque es necesario que entiendas, abraces, y disminuyas el riesgo de cada operación que hagas con tu dinero.
 
 ### Riesgo de Fraude
@@ -35,10 +28,19 @@ Gracias al Internet, por su descentralización y al no tener jurisdicción, cual
 
 ¿Te suena familiar? Estoy seguro que sí, y si aún no te has cruzado con estos riesgos, quédate tranquilo, pronto vas a poder identificarlos, estudiarlos, y descartarlos.
 
+?> [Listado de sitios web de Fraudes y Estafas](https://www.locademiadigital.com/p/scam-alert.html)
+
+#### Los Bots <!-- {docsify-ignore} -->
+Hay a través de distintos sitios de internet programas, sistemas, inventos que venden como bots (robots) para inversiones automáticas. Aquí hay que tener especial cuidado, una cosa es un sistema con reputación de muchos usuarios y tiempo en el mercado, como podría decirse de plataformas de trading automático como 3Commas, o xCapit.
+
+Pero algo totalmente distinto es el tema bots en telegram, donde los usuarios tienen que invitar a otras personas (hacer spam), para hacer crecer su base de referidos. También invertir un mínimo de 10 dólares, que se les multiplicará por 1,5 diariamente, y al término de 134 días (o un plazo similar), supuestamente este robot pagará el resultado final. Todo esto, es una estafa, un vil engaño para mentes curiosas dispuestas al dinero fácil.
+
 ### Riesgo Legal
 Este riesgo es el que crea cada país, tu país, donde vives ahora, podría mañana decir que las criptomonedas son ilegales, o ir contra una plataforma particular, y decir que es ilegal que uses esa plataforma. Ejemplo de esto último ocurrió hace pocos años atrás cuando el gobierno de Reino Unido emitió un comunicado contra la empresa Binance, exigiendo a todos los ciudadanos que NO operen con ella, hasta que Binance “regule” sus operaciones en el país. Hoy, Binance tiene su propio dominio “UK”, con términos y condiciones específicos para ese país, y únicamente podrías trabajar con binance.uk si vives en Reino Unido. Lo mismo que ocurre con binance.us si vives en Estados Unidos. 
 
 Este riesgo legal, es el que existe gracias a los legisladores de cada país. El riesgo de que algo libre -como el aire, sea “regulado” y que nuestro país (el tuyo) quiera controlarlo y cobrar impuestos por eso.
+
+?> Ampliar tema [Regulación en Tu país](/tu-pais.md#regulacion)
 
 ### Riesgo de Liquidez
 Sabemos que la liquidez es la cualidad que tienen los activos para ser convertidos en dinero efectivo de forma inmediata, sin pérdida significativa de su valor.
@@ -56,12 +58,12 @@ Este tipo de riesgo está asociado a la tecnología propia o la del proyecto don
 Inclusive si has mitigado todos los riesgos operativos propios de tus operaciones, ¿qué ocurre si la web donde debes trabajar tus inversiones está en mantenimiento? ¿Si está caída? ¿Si no funciona tan rápido como debería?
 Todo esto, es riesgo operacional.
 Una de las situaciones más comunes es cuando un comerciante participa en el comercio, pero no puede completar una transacción debido a una mala conexión a Internet, o cuando un intercambio está temporalmente inactivo debido a que demasiados comerciantes inundan el sistema.
-	
+
 ## Estrategias en la Gestión de Riesgos
+
 El comercio de criptomonedas es un negocio lleno de riesgos, pero lo mejor para los comerciantes es aprender cómo evitarlos o al menos mitigarlos. Aquí es donde las estrategias de gestión de riesgos son útiles.
 
 Las estrategias de gestión de riesgos te ayudan a analizar el mercado y los posibles riesgos comerciales. Se basan en cambios de precios, cantidades de monedas negociadas y comparaciones. 
-
 
 Hay tres enfoques principales:
 
@@ -179,4 +181,6 @@ Calcular los riesgos comerciales potenciales lo ayuda a salvar sus activos al op
 
 ***
 
->! Falta completar todos estos puntos con mejores ejemplos
+### Help Wanted! <!-- {docsify-ignore} -->
+
+!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/walddo)
