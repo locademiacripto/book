@@ -1,0 +1,64 @@
+# Capítulo 0
+
+¿Por qué Capítulo CERO?
+
+Seguramente te habrá llamado la atención que arrancamos por el cero. Primer rotura del molde, y verdad empírica, en cualquier plano de la vida, se comienza en cero. Cero coma cero, cero, cero, cero, cero (… suspenso que tiende a infinito) y después un UNO. Es importante destacar esto, porque en el universo al que viajaremos pronto, es decir, el de las criptomonedas, el valor de las mismas también comienza en cero. Y es algo que tenemos que entender, y naturalizar. Es así con los mercados de valores también: las acciones de empresas como Coca Cola, Apple, o Microsoft, también comenzaron en cero aunque cueste creerlo, y de hecho, podrían volver a valer cero coma (algo…) y después uno!
+
+Este libro se actualizará a medida que voy recibiendo retroalimentación de las distintas versiones que lees. No tengas miedo ni timidez de decirme cualquier cosa que veas que está mal, o que le falta desarrollo, [estoy aquí](/#quién-es-walddo).
+
+## Curso Particular (tú y yo) - Demo Gratis
+Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de recomendaciones. Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso
+
+Para quienes ya tienen cuentas en las plataformas donde trabajaremos, pueden seguir leyendo este sitio web aunque no contarán con las clases particulares conmigo, o bien, pueden tomar clases particulares (no gratuitas).
+
+Por ahora, las clases particulares son una introducción, no es un curso donde vas a salir siendo un _master yoda_ de las criptomonedas, ni se entregarán certificados ni nada de eso. Y hablo de “Demo Gratis” porque muchos de mis alumnos le tienen miedo y respeto a lo desconocido, que solicitan “demostración” de lo que es este tema de las criptomonedas. He incluido un “demo” en las clases particulares, para que vean con sus propios ojos cómo es invertir, trabajar, y usar todo, y puedan así, ver que no es una ciencia imposible. 
+
+## ¿Qué es todo esto? ¿A dónde te estás metiendo?
+En todas las redes sociales sobre plataformas referidas a las criptomonedas, siempre hay personas preguntando cómo hacer dinero. Cómo ganar dinero sin poner dinero. ¿Es posible algo así? ¿Qué alternativas tenemos? ¿Qué puede hacer una plataforma? 
+
+Este e-book brindará información para ser tu guía, para que conozcas todas las alternativas, todas las posibilidades, lo que puedes hacer con y sin dinero, cómo ahorrar, cómo generar ingresos pasivos, cómo comprar bitcoin sin tener lo que sale 1 BTC! Cómo ganar dinero cada 24 horas, cómo aprovechar los “lanzamientos” de nuevas criptomonedas, cómo comprar barato, y vender más caro, qué es eso de ganar dinero mientras el mercado “baja”, y un montón de temas más… tantos, que no podría mencionarlos a todos en una página!!!
+
+Las criptomonedas ¿son una estafa? ¿Son las plataformas manejadas por robots que le roban el dinero a las personas? ¿Hay hackers robando tu dinero en internet? Encontrarás preguntas de este tipo, y muchas otras teorías locas o psicodélicas sobre las criptomonedas y el dinero en general, porque… honestamente, todo lo que involucra dinero, también involucra personas con malas intenciones que solo usan su inteligencia para robarte, o bien, hacer que tú mismo (sí, TU MISMO) les regales el dinero.
+
+Este libro también te ayudará a abrir los ojos con estas cuestiones. Debes desconfiar de todo, si alguien se te acerca en la calle, querrá tu dinero. Si alguien se te acerca en el Internet… ¿adivinaste?
+
+QUERRA TU DINERO! Abre los ojos, porque usarán métodos de ingeniería social para hacerse los amigos, conocidos de amigos, o lo que sea, para que tú bajes las defensas, y confíes… cuando confíes, harás lo que ellos quieran, y si ellos quieren que tú les regales dinero, ¡lo harás porque confías!  
+
+Es muy importante que sepas todo esto ANTES de seguir, porque en el eterno Internet, habrá trampas, sitios web falsos, influencers en YouTube que te dirán “pon tu dinero aquí, así ganas el doble para el fin de semana”, o cosas por el estilo… y quiero que estés preparado para decirle NO a esas tentaciones de dinero fácil! 
+
+### ¡Cuidado con lo que DIGAS!
+Hay una enorme creencia general donde si le mencionas a alguien que tienes criptomonedas, o una máquina de minería (para criptomonedas), ya creen que tienes mucho dinero. Así que cuidado, ojo a dónde comentas la información. Trata de ser perfil bajo, y me refiero a que no debes hablar de dinero, ni de criptomonedas!
+En este mundo, puedes ver personas en la calle, quizás pienses que son simples ciudadanos, pero en el fondo de su pieza (donde duermen) tienen una máquina de minería brindando un servicio a la blockchain: minar (encriptar datos), y a cambio de ese servicio, ganan dinero. ¡Es justo!
+
+¡Ampliaremos el tema de la minería en próximos capítulos!
+
+Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando. Y la única excepción a esta regla de oro, es que seas un Cripto-Reclutador de LocademiaCripto.   ;-)
+
+Y hablando de dinero…
+Este ebook y su contenido es absolutamente gratis, no se exige ninguna contribución monetaria de ningún tipo, podes haberlo bajado de internet, de alguna red social, o te lo pasó un amigo/a por WhatsApp!
+
+Si alguien te vendió este libro, por favor avísanos ahora mismo  a través de nuestro formulario de contacto aquí: https://www.locademiadigital.com/p/contacto.html
+
+## Preguntas Frecuentes
+
+### ¡No tengo TIEMPO de leer todo esto! 
+
+¿Existe una forma más fácil y directa de aprender lo que dice este manual?
+
+Todos estamos ocupados, tenemos nuestra vida, y el conocimiento no entrará a nuestra mente por osmosis o por solo leerlo. Estoy seguro de que no tienes tiempo para leer y comprender todo lo que diré en este e-book.
+
+También pensé en esto, y si no quieres aprender gratis leyendo y haciendo lo que dice este e-book, brindo clases particulares 1 a 1, tú y yo, fines de semana, horario a coordinar, para que charlemos sobre lo que tú quieras (del tema cripto), y aprenderás directo de la fuente. Más info sobre esto en el ANEXO
+
+### ¿Por qué darme de alta en estas empresas? 
+LocademiaCripto es una comunidad libre, te dejamos hacer lo que quieras hacer, pero usaremos las plataformas que recomendamos para llevarte por el camino del conocimiento cripto, y estaría buenísimo que sigas nuestras recomendaciones, también para apoyar a la comunidad.
+
+Igual tranquilo, porque veremos paso por paso como darse de alta y cómo registrarse en las distintas plataformas. Este manual cripto es tu guía general para todo, no debes preocuparte por nada.
+
+### ¿Por qué se recomienda tener usuario verificado en más de una empresa?
+Más adelante estudiaremos conceptos básicos sobre finanzas personales y como diversificar el riesgo, no tener todas nuestras inversiones en una misma canasta (hay distintas variables del refrán dependiendo de qué país seas). Veremos el tema “verificación KYC” más adelante, para entender por qué hay que verificar (y cuando no hacerlo).
+
+### ¿Qué ocurre si no quieres darte de alta en estas empresas que son requisitos de este curso? 
+Pues no pasa nada realmente, no tendrás los beneficios que tienen los “alumnos verificados” de LocademiaCripto. En el ANEXO se explica si queres acceder a cursos privados y de forma particular conmigo.
+
+### ¿Ya tienes cuenta verificada en las plataformas?
+Si es tu caso, debes pasar al ANEXO de este manual, para seguir instrucciones especiales, y si te sumas al equipo, podrás gozar de los beneficios de ser alumno verifica aún si ya tuvieses cuentas previas a nuestras recomendaciones.
