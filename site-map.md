@@ -1,5 +1,6 @@
 # Estructura
 
+```
 .
 └── docs
     ├── README.md
@@ -18,3 +19,4 @@
 
 .
 └── pdf (proyectado)
+```
