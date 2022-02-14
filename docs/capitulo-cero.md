@@ -47,7 +47,7 @@ Si alguien te vendió este libro, por favor avísanos ahora mismo  a través de 
 
 Todos estamos ocupados, tenemos nuestra vida, y el conocimiento no entrará a nuestra mente por osmosis o por solo leerlo. Estoy seguro de que no tienes tiempo para leer y comprender todo lo que diré en este e-book.
 
-También pensé en esto, y si no quieres aprender gratis leyendo y haciendo lo que dice este e-book, brindo clases particulares 1 a 1, tú y yo, fines de semana, horario a coordinar, para que charlemos sobre lo que tú quieras (del tema cripto), y aprenderás directo de la fuente. Más info sobre esto en el ANEXO
+También pensé en esto, y si no quieres aprender gratis leyendo y haciendo lo que dice este e-book, brindo clases particulares 1 a 1, tú y yo, fines de semana, horario a coordinar, para que charlemos sobre lo que tú quieras (del tema cripto), y aprenderás directo de la fuente. Más info sobre esto en el [ANEXO](/anexo.md)
 
 ### ¿Por qué darme de alta en estas empresas? 
 LocademiaCripto es una comunidad libre, te dejamos hacer lo que quieras hacer, pero usaremos las plataformas que recomendamos para llevarte por el camino del conocimiento cripto, y estaría buenísimo que sigas nuestras recomendaciones, también para apoyar a la comunidad.
@@ -58,7 +58,7 @@ Igual tranquilo, porque veremos paso por paso como darse de alta y cómo registr
 Más adelante estudiaremos conceptos básicos sobre finanzas personales y como diversificar el riesgo, no tener todas nuestras inversiones en una misma canasta (hay distintas variables del refrán dependiendo de qué país seas). Veremos el tema “verificación KYC” más adelante, para entender por qué hay que verificar (y cuando no hacerlo).
 
 ### ¿Qué ocurre si no quieres darte de alta en estas empresas que son requisitos de este curso? 
-Pues no pasa nada realmente, no tendrás los beneficios que tienen los “alumnos verificados” de LocademiaCripto. En el ANEXO se explica si queres acceder a cursos privados y de forma particular conmigo.
+Pues no pasa nada realmente, no tendrás los beneficios que tienen los “alumnos verificados” de LocademiaCripto. En el [ANEXO](/anexo.md) se explica si queres acceder a cursos privados y de forma particular conmigo.
 
 ### ¿Ya tienes cuenta verificada en las plataformas?
-Si es tu caso, debes pasar al ANEXO de este manual, para seguir instrucciones especiales, y si te sumas al equipo, podrás gozar de los beneficios de ser alumno verifica aún si ya tuvieses cuentas previas a nuestras recomendaciones.
+Si es tu caso, debes pasar al [ANEXO](/anexo.md) de este manual, para seguir instrucciones especiales, y si te sumas al equipo, podrás gozar de los beneficios de ser alumno verifica aún si ya tuvieses cuentas previas a nuestras recomendaciones.

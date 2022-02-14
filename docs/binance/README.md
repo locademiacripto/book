@@ -1,5 +1,7 @@
 # Binance
 
+_Aquí iré publicando puntos relevantes a Binance_
+
 ***
 
 ### Help Wanted! <!-- {docsify-ignore} -->

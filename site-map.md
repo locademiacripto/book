@@ -14,6 +14,7 @@
     ├── tu-pais.md
     ├── biblografia.md
     ├── anexo.md
+    ├── glosario.md
     └── c
         ├── README.md
         ├── cefi.md
