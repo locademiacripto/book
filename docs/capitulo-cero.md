@@ -4,7 +4,7 @@
 
 Seguramente te habrá llamado la atención que arrancamos por el cero. Primer rotura del molde, y verdad empírica, en cualquier plano de la vida, se comienza en cero. Cero coma cero, cero, cero, cero, cero (… suspenso que tiende a infinito) y después un UNO. Es importante destacar esto, porque en el universo al que viajaremos pronto, es decir, el de las criptomonedas, el valor de las mismas también comienza en cero. Y es algo que tenemos que entender, y naturalizar. Es así con los mercados de valores también: las acciones de empresas como Coca Cola, Apple, o Microsoft, también comenzaron en cero aunque cueste creerlo, y de hecho, podrían volver a valer cero coma (algo…) y después uno!
 
-Este libro se actualizará a medida que voy recibiendo retroalimentación de las distintas versiones que lees. No tengas miedo ni timidez de decirme cualquier cosa que veas que está mal, o que le falta desarrollo, [estoy aquí](/#quién-es-walddo).
+Este libro se actualizará a medida que voy recibiendo retroalimentación de las distintas versiones que lees. No tengas miedo ni timidez de decirme cualquier cosa que veas que está mal, o que le falta desarrollo, [estoy aquí](/#¿quién-es-walddo).
 
 ## Curso Particular (tú y yo) - Demo Gratis
 Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de recomendaciones. Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso
