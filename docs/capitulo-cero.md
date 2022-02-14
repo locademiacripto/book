@@ -7,7 +7,7 @@ Seguramente te habrá llamado la atención que arrancamos por el cero. Primer ro
 Este libro se actualizará a medida que voy recibiendo retroalimentación de las distintas versiones que lees. No tengas miedo ni timidez de decirme cualquier cosa que veas que está mal, o que le falta desarrollo, [estoy aquí](/#¿quién-es-walddo).
 
 ## Curso Particular (tú y yo) - Demo Gratis
-Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de recomendaciones. Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso
+Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de [recomendaciones](recomendaciones.md). Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso
 
 Para quienes ya tienen cuentas en las plataformas donde trabajaremos, pueden seguir leyendo este sitio web aunque no contarán con las clases particulares conmigo, o bien, pueden tomar clases particulares (no gratuitas).
 
@@ -28,11 +28,12 @@ Es muy importante que sepas todo esto ANTES de seguir, porque en el eterno Inter
 
 ### ¡Cuidado con lo que DIGAS!
 Hay una enorme creencia general donde si le mencionas a alguien que tienes criptomonedas, o una máquina de minería (para criptomonedas), ya creen que tienes mucho dinero. Así que cuidado, ojo a dónde comentas la información. Trata de ser perfil bajo, y me refiero a que no debes hablar de dinero, ni de criptomonedas!
+
 En este mundo, puedes ver personas en la calle, quizás pienses que son simples ciudadanos, pero en el fondo de su pieza (donde duermen) tienen una máquina de minería brindando un servicio a la blockchain: minar (encriptar datos), y a cambio de ese servicio, ganan dinero. ¡Es justo!
 
 ¡Ampliaremos el tema de la minería en próximos capítulos!
 
-Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando. Y la única excepción a esta regla de oro, es que seas un Cripto-Reclutador de LocademiaCripto.   ;-)
+Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando. Y la única excepción a esta regla de oro, es que seas un Cripto-Reclutador de LocademiaCripto. 😃
 
 Y hablando de dinero…
 Este ebook y su contenido es absolutamente gratis, no se exige ninguna contribución monetaria de ningún tipo, podes haberlo bajado de internet, de alguna red social, o te lo pasó un amigo/a por WhatsApp!
