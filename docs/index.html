@@ -29,6 +29,48 @@
 <body>
   <div id="app"></div>
   <script>
+    // Edit page ini
+      var gitLinkRepoURL = '';
+      var editThisPageLinkText = 'Modifica este contenido';
+        // Get value from GET-parameter in URL
+        // @param {string} name Parameter-name
+        // @param {*} isTrue Return if found
+        // @param {*} isFalse Return if not found
+        // @returns {string|null} Parameter-value
+      function getURLParameterByName(name, isTrue = null, isFalse = null, url = window.location.href) {
+
+      let exists = false;
+
+        if (Array.isArray(name)) {
+
+          name.forEach(element => {
+            if (getURLParameterByName(element)) {
+              exists = true;
+            }
+          });
+
+        } else {
+
+          name = name.toLowerCase().replace(/[\[\]]/g, '\\$&');
+
+          var regex = new RegExp('[?&]' + name + '(=([^&#]*)|&|#|$)');
+          var results = regex.exec(url.toLowerCase());
+
+          exists = (results && results[2]) ? true : false;
+        }
+
+        if (exists && isTrue) {
+          return isTrue;
+        }
+
+        if (!exists && isFalse) {
+          return isFalse;
+        }
+
+        return exists;
+      }
+    // Edit page fin
+
     window.$docsify = {
       repo: '',
       maxLevel: 4,
