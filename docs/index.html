@@ -83,6 +83,7 @@
       loadNavbar: false, // Loads navbar from the Markdown file _navbar.md if true
       mergeNavbar: true,
       auto2top: true,
+      formatUpdated: '{DD}/{MM}/{YYYY} {HH}:{mm}',
     // PLUGIN SETTINGS
     // -----------------------------------------------------------------      
       search: 'auto',
@@ -110,6 +111,8 @@
                   url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
                 var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
+
+                return (editHtml + html)
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
