@@ -83,6 +83,8 @@
       loadNavbar: false, // Loads navbar from the Markdown file _navbar.md if true
       mergeNavbar: true,
       auto2top: true,
+    // PLUGIN SETTINGS
+    // -----------------------------------------------------------------      
       search: 'auto',
         search: {
         maxAge: 86400000, // Expiration time, the default one day
@@ -95,6 +97,32 @@
         nextText: 'Siguiente',
         crossChapter: true,
         crossChapterText: true},
+    // CUSTOM PLUGINS
+    // -----------------------------------------------------------------
+        plugins: [
+            function (hook, vm) {
+              hook.beforeEach(function (html) {
+                if (/githubusercontent\.com/.test(vm.route.file)) {
+                  url = vm.route.file
+                    .replace('raw.githubusercontent.com', 'github.com')
+                    .replace(/\/master/, '/blob/master')
+                } else {
+                  url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
+                }
+                var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
+
+                // Adjust GitHub displayable image URL format to also work in Docsify
+                html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
+
+                if ((!(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                  return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
+                } else {
+                  return html
+                }
+
+              })
+            }
+          ]
     };
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
