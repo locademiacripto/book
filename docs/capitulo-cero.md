@@ -11,6 +11,8 @@ Hace poco una persona desconocida me contó que nadie comparte el cómo invertir
 
 Aquí mucho cuidado. Aprender a invertir será una misión compleja y un viaje hermoso por el Internet, que te hará estar al frente de estafadores en más de una ocasión y esto es así porque esas personas inservibles, los estafadores, solo quieren tu dinero, y harán lo que sea para conseguirlo. Si tienen que mentirte, lo harán.
 
+?> Si aún no estás al tanto de todas las estafas a las que podrías exponerte, dale una leída a nuestro capítulo sobre [EL RIESGO](riesgos.md).
+
 ## Curso Particular (tú y yo) - Demo Gratis
 Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de [recomendaciones](recomendaciones.md). Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso
 
@@ -27,9 +29,11 @@ Las criptomonedas ¿son una estafa? ¿Son las plataformas manejadas por robots q
 
 Este libro también te ayudará a abrir los ojos con estas cuestiones. Debes desconfiar de todo, si alguien se te acerca en la calle, querrá tu dinero. Si alguien se te acerca en el Internet… ¿adivinaste?
 
-QUERRA TU DINERO! Abre los ojos, porque usarán métodos de ingeniería social para hacerse los amigos, conocidos de amigos, o lo que sea, para que tú bajes las defensas, y confíes… cuando confíes, harás lo que ellos quieran, y si ellos quieren que tú les regales dinero, ¡lo harás porque confías!  
+**¡QUERRA TU DINERO!** Abre los ojos, porque usarán métodos de ingeniería social para hacerse los amigos, conocidos de amigos, o lo que sea, para que tú bajes las defensas, y confíes… cuando confíes, harás lo que ellos quieran, y si ellos quieren que tú les regales dinero, ¡lo harás porque confías!  
 
-Es muy importante que sepas todo esto ANTES de seguir, porque en el eterno Internet, habrá trampas, sitios web falsos, influencers en YouTube que te dirán “pon tu dinero aquí, así ganas el doble para el fin de semana”, o cosas por el estilo… y quiero que estés preparado para decirle NO a esas tentaciones de dinero fácil! 
+Es muy importante que sepas todo esto ANTES de seguir, porque en el eterno Internet, habrá trampas, sitios web falsos, influencers en YouTube que te dirán “pon tu dinero aquí, así ganas el doble para el fin de semana”, o cosas por el estilo… y quiero que estés preparado para decirle NO a esas tentaciones de dinero fácil!
+
+?> Lectura recomendada: [RIESGOS](riesgos.md)
 
 ### ¡Cuidado con lo que DIGAS!
 Hay una enorme creencia general donde si le mencionas a alguien que tienes criptomonedas, o una máquina de minería (para criptomonedas), ya creen que tienes mucho dinero. Así que cuidado, ojo a dónde comentas la información. Trata de ser perfil bajo, y me refiero a que no debes hablar de dinero, ni de criptomonedas!

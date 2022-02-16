@@ -28,12 +28,9 @@ Gracias al Internet, por su descentralización y al no tener jurisdicción, cual
 
 ¿Te suena familiar? Estoy seguro que sí, y si aún no te has cruzado con estos riesgos, quédate tranquilo, pronto vas a poder identificarlos, estudiarlos, y descartarlos.
 
-?> [Listado de sitios web de Fraudes y Estafas](https://www.locademiadigital.com/p/scam-alert.html)
+#### Estafas <!-- {docsify-ignore} -->
 
-#### Los Bots <!-- {docsify-ignore} -->
-Hay a través de distintos sitios de internet programas, sistemas, inventos que venden como bots (robots) para inversiones automáticas. Aquí hay que tener especial cuidado, una cosa es un sistema con reputación de muchos usuarios y tiempo en el mercado, como podría decirse de plataformas de trading automático como 3Commas, o xCapit.
-
-Pero algo totalmente distinto es el tema bots en telegram, donde los usuarios tienen que invitar a otras personas (hacer spam), para hacer crecer su base de referidos. También invertir un mínimo de 10 dólares, que se les multiplicará por 1,5 diariamente, y al término de 134 días (o un plazo similar), supuestamente este robot pagará el resultado final. Todo esto, es una estafa, un vil engaño para mentes curiosas dispuestas al dinero fácil.
+- Tema desarrollado: [Estafas](estafas.md)
 
 ### Riesgo Legal
 Este riesgo es el que crea cada país, tu país, donde vives ahora, podría mañana decir que las criptomonedas son ilegales, o ir contra una plataforma particular, y decir que es ilegal que uses esa plataforma. Ejemplo de esto último ocurrió hace pocos años atrás cuando el gobierno de Reino Unido emitió un comunicado contra la empresa Binance, exigiendo a todos los ciudadanos que NO operen con ella, hasta que Binance “regule” sus operaciones en el país. Hoy, Binance tiene su propio dominio “UK”, con términos y condiciones específicos para ese país, y únicamente podrías trabajar con binance.uk si vives en Reino Unido. Lo mismo que ocurre con binance.us si vives en Estados Unidos. 

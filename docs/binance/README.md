@@ -2,6 +2,10 @@
 
 _Aquí iré publicando puntos relevantes a Binance_
 
+## Binance P2P
+
+- [Comerciante por bloques](https://www.binance.com/es-LA/blog/p2p/lo-que-debes-saber-sobre-el-comercio-en-bloque-421499824684903353)
+
 ***
 
 ### Help Wanted! <!-- {docsify-ignore} -->
