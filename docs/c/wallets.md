@@ -9,3 +9,5 @@ Las Wallets son las "billeteras virtuales", han ido ganando terreno y pronto nad
 Te recomiendo leer: [¿Billeteras para Criptomonedas?](https://www.locademiadigital.com/2017/12/wallet-billetera-o-monedero.html)
 
 Es muy importante que comprendas los conceptos que se explico en ese artículo.
+
+## Llaves privadas

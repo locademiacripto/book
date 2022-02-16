@@ -1,5 +1,7 @@
 # Estructura
 
+>La finalidad de este documento es listar los archivos que contiene el repositorio, a fin de evitar que se genere contenido duplicado para los colaboradores que quieran contribuir.
+
 ```
 .
 └── docs
@@ -20,7 +22,10 @@
         ├── README.md
         ├── cefi.md
         ├── defi.md
-        └── bitcoin.md    
+        ├── bitcoin.md
+        ├── nft.md
+        ├── web3.md
+        └── wallets.md
     └── u
         ├── README.md
         ├── capitulo1.md
