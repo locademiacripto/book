@@ -114,7 +114,7 @@
                 var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n';
                 var wikihtml = ' '+'<a href='+gitWiki+'>Leer cómo colaborar</a>';
 
-                return (editHtml + html)
+                return (editHtml + wikihtml + html)
 
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
