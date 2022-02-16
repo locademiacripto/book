@@ -31,6 +31,7 @@
   <script>
     // Edit page ini
       var gitLinkRepoURL = 'https://github.com/locademiacripto/book/';
+      var gitWiki = 'https://github.com/locademiacripto/book/wiki';
       var editThisPageLinkText = 'Modifica este contenido';
         // Get value from GET-parameter in URL
         // @param {string} name Parameter-name
@@ -110,7 +111,8 @@
                 } else {
                   url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
-                var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n'
+                var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n';
+                var wikihtml = ' '+'<a href='+gitWiki+'>Leer cómo colaborar</a>';
 
                 return (editHtml + html)
 
