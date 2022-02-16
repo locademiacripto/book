@@ -19,7 +19,7 @@ Tipos de estafas más conocidos relacionados a las criptomonedas:
 - Triangulación
 - Robo de llaves privadas
 
-?> <div style="color:red">ADVERTENCIA: No te gustará leer esto:</div> en el mundo de las criptomonedas, si le regalas el dinero a alguien (porque te manipularon, o bajo el método que sea), no podrás recuperarlo. En este universo, no hay policías. Tú eres el único que puede proteger tu propio dinero. Si eres estafado, no hay a quién demandar. 
+<span style="color:red">ADVERTENCIA: No te gustará leer esto:</span> en el mundo de las criptomonedas, si le regalas el dinero a alguien (porque te manipularon, o bajo el método que sea), no podrás recuperarlo. En este universo, no hay policías. Tú eres el único que puede proteger tu propio dinero. Si eres estafado, no hay a quién demandar. 
 
 #### Los Bots <!-- {docsify-ignore} -->
 Hay a través de distintos sitios de internet programas, sistemas, inventos que venden como bots (robots) para inversiones automáticas. Aquí hay que tener especial cuidado, una cosa es un sistema con reputación de muchos usuarios y tiempo en el mercado, como podría decirse de plataformas de trading automático como 3Commas, o xCapit.
