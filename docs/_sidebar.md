@@ -2,7 +2,6 @@
 * [Capítulo Cero](/capitulo-cero.md)
   * [Recomendaciones](recomendaciones.md)
   * [Intro](/intro.md)
-    * [Finanzas](/finanzas.md)
   * [Riesgos](/riesgos.md)
     * [Estafas](estafas.md)
 * [Tu país](tu-pais.md)
