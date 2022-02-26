@@ -14,6 +14,8 @@ Herramientas que usaremos en LocademiaCripto
 - CoinBase: https://bit.ly/LocaCoinbase
 - FTX: https://bit.ly/LocaFTX
 - Kucoin: https://bit.ly/LocaKucoin
+- xCapit Wallet: https://bit.ly/LocaXcapit
+- 3Commas: https://bit.ly/3criptos
 - La que tú propongas para tu caso particular
 
 Es importante que vayas registrándote en las tres primeras plataformas. Si te interesan las “gemas”, Kucoin es la plataforma que todos usan.
@@ -27,8 +29,11 @@ Con este curso, busco introducirte en conceptos del mercado de valores, el estud
 
 **CoinMarketCup** será tu aliado para investigar los distintos proyectos, analizar su riesgo, analizar cuándo surgieron, qué son, quién los desarrolla, cuál es su sitio web oficial o comunidad oficial detrás de determinado proyecto. 
 
-**Binance** es la empresa más grande del mundo en cuanto a cantidad de usuarios, cantidad de transacciones, y liquidez del mercado. **Huobi** es su competidor más directo, además de tener amplia presencia en países de habla hispana y ha pasado nuestra evaluación de calidad para dar el curso de introducción a las criptomonedas. **Okx** (anteriormente conocido como Okex) es el competidor de Huobi, está haciendo importante carrera para introducirse en el mercado de habla hispana, y para aquellas personas que buscan diversificar, es una importante alternativa. Entre empresas yankis si se quiere decir así, recomendamos **CoinBase** y **FTX**. Ambas presentan excelente reputación y transparencia.
-Al último de la lista coloqué a **Kucoin**, pues me lo solicitaron varios alumnos, porque se considera Exchange que presenta lindas oportunidades de “gemas”. Veremos este tema más adelante, no te preocupes.
+**Binance** es la empresa más grande del mundo en cuanto a cantidad de usuarios, cantidad de transacciones, y liquidez del mercado. **Huobi** es su competidor más directo, además de tener amplia presencia en países de habla hispana y ha pasado nuestra evaluación de calidad para dar el curso de introducción a las criptomonedas. **Okx** (anteriormente conocido como Okex) es el competidor de Huobi, está haciendo importante carrera para introducirse en el mercado de habla hispana, y para aquellas personas que buscan diversificar, es una importante alternativa. Entre empresas yankis si se quiere decir así, recomendamos **CoinBase** y **FTX**. Ambas presentan excelente reputación y transparencia. Coloqué a **Kucoin**, pues me lo solicitaron varios alumnos, porque se considera Exchange que presenta lindas oportunidades de “gemas”. Veremos este tema más adelante, no te preocupes.
+
+Como podrás observar también recomiendo **xCapit Wallet**, es una empresa de Argentina que ha trabajado desarrollando una app, que ofrece resguardo a tus criptos, de forma non-custodial (es decir, te brinda las llaves privadas, no almacena cripto en sus servidores), y a la vez, ofrecen apartado de inversiones para staking, y un sistema automatizado para invertir en Binance (una suerte de bot que compra/vende criptos y busca mayor rentabilidad). En paralelo con un sistema automático y mejor interfaz para usuarios un poco más avanzados, recomendamos **3Commas**, goza de reputación internacional y mucho tiempo en el mercado de las criptomonedas, donde su interfaz conecta con la mayoría de los exchanges del mundo.
+
+?> ¿Confundido por tantas plataformas? No te preocupes, guarda esta página en tus favoritos o el enlace corto: https://bit.ly/LocaBook para que apenas actualicemos el contenido puedas aprender más sobre las criptomonedas y todas las plataformas que recomendamos.
 
 Seguramente estás pensando que son muchas plataformas, que no tienes tiempo, que no tienes ganas, etcétera. Lo haces en 30 min o menos, simplemente debes hacer clic en los enlaces que te mostré, registrarte, te llega un correo de verificación, lo validas (verifica que eres tú el que ha solicitado la cuenta) y ya.
 
