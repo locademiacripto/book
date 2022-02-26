@@ -49,4 +49,4 @@ Se actualizarán distintas versiones en la parte de [RELEASE](https://github.com
 
 Junto con distintos colaboradores de LocademiaCripto, buscamos presentar este sitio como una guía fácil para que cualquier persona sin conocimientos en informática ni finanzas pueda entender y poder sumergirse en el mar de conocimientos sobre criptomonedas.
 
-Recomendamos comenzar por el principio, por lo que hemos realizado una [INTRO](intro.md) (de introducción al tema).
+Recomendamos comenzar por el principio, por lo que hemos realizado una serie de artículos que comienzan por el [**Capítulo CERO**](capitulo-cero.md).
