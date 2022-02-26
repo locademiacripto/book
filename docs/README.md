@@ -35,7 +35,7 @@ Este libro es más práctico, e interactivo que lo que seguramente estás acostu
 
 Los enlaces salientes (para tu navegador web) están marcados con un icono de salida como este: ![icono](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/External.svg/12px-External.svg.png), mientras que los enlaces internos al mismo sitio web (este que estás leyendo), para navegar dentro del mismo libro, carecen de dicho icono. Esto ayudará a entender cuándo el enlace abrirá una nueva pestaña, y cuando no.
 
-Habrá una barra de navegación a la derecha de la página para guiarte entre temas principales. Y si es necesario, aparecerá un menú superior derecho, para temas segundarios. Esto no siempre aparecerá, solo algunos temas complejos presentarán este apartado.
+Habrá una barra de navegación a la izquierda de la página para guiarte entre temas principales. Y si es necesario, aparecerá un menú superior derecho, para temas segundarios. Esto no siempre aparecerá, solo algunos temas complejos presentarán este apartado.
 
 ### Versión actual
 
@@ -43,3 +43,10 @@ Habrá una barra de navegación a la derecha de la página para guiarte entre te
 
 Se actualizarán distintas versiones en la parte de [RELEASE](https://github.com/locademiacripto/book/releases) de este repositorio.
 
+## Comenzar
+
+¿Por dónde arrancar? Esta es una pregunta válida en un mar de temas tan profundo.
+
+Junto con distintos colaboradores de LocademiaCripto, buscamos presentar este sitio como una guía fácil para que cualquier persona sin conocimientos en informática ni finanzas pueda entender y poder sumergirse en el mar de conocimientos sobre criptomonedas.
+
+Recomendamos comenzar por el principio, por lo que hemos realizado una [INTRO](intro.md) (de introducción al tema).

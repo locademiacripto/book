@@ -1,13 +1,16 @@
 # El Universo Cripto y el Planeta Tierra
 
-El universo es infinito, cualquier universo, hay más de los que tú conoces!!! Aquí usaré analogía con la astronomía (y capaz no compartas conmigo la pasión por el espacio y las estrellas), pero es para entender a dónde estamos parados, y cómo mirar más allá de lo que entendemos.
+El universo es infinito, cualquier universo, hay más de los que tú conoces! Aquí usaré analogía con la astronomía (y capaz no compartas conmigo la pasión por el espacio y las estrellas), pero es para entender a dónde estamos parados, y cómo mirar más allá de lo que entendemos.
 
-Pues, como en nuestro Planeta Tierra, desde ahí -donde sea que estes ahora lector- no comprendes qué hay más allá de la Vía Láctea. Con el universo de las criptomonedas es igual, surgió de un -le digamos- “Big Bang”, una cadena de bloques original, la primera, que fue la que le dio nacimiento al Bitcoin tal como hoy lo conocemos (más de 13 años después). Y con el avance de la ciencia, la tecnología y muchas mentes brillantes y anónimas, fueron creando distintos proyectos relacionados (o no) a lo que es bitcoin. Fueron surgiendo distintos ecosistemas, o galaxias inclusive.
+Pues, como en nuestro Planeta Tierra, desde ahí _-donde sea que estes ahora lector-_ no comprendes qué hay más allá de la Vía Láctea. Con el universo de las criptomonedas es igual, surgió de un -le digamos- “Big Bang”, una cadena de bloques original, la primera, que fue la que le dio nacimiento al Bitcoin tal como hoy lo conocemos (como moneda, surgió en año 2009). Y con el avance de la ciencia, la tecnología y muchas mentes brillantes y anónimas, fueron creando distintos proyectos relacionados (o no) a lo que es bitcoin. Fueron surgiendo distintos ecosistemas, o galaxias inclusive.
+
+Decimos ecosistemas o galaxias porque cada criptomoneda requiere de una tecnología que la haga realidad. Gran parte de las criptos actuales corren en BlockChain (cadena de bloques). No quiero entrar en tecnisismos complicados en la introducción pero es necesario que desde el comienzo entendamos que no existe una única criptomoneda, ni un único ecosistema.
 
 Y así tenemos lo que hoy se conoce como:
-- CEFI
-- DEFI
-- MetaVersos
+
+- CEFI (finanzas centralizadas)
+- DEFI (finanzas descentralizadas)
+- MetaVersos (espacios virtuales donde existen personajes virtuales)
 
 Entre estos conceptos, hay universos paralelos, TODOS relacionados, e interactuando con un concepto en común que los aglutina: BlockChain (la cadena de bloques).
 
