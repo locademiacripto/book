@@ -21,9 +21,10 @@
     ├── finanzas.md
     └── c
         ├── README.md
+        ├── bitcoin.md
         ├── cefi.md
         ├── defi.md
-        ├── bitcoin.md
+        ├── fiat.md
         ├── nft.md
         ├── web3.md
         └── wallets.md
@@ -32,7 +33,8 @@
         ├── capitulo1.md
         └── capitulo2.md
     └── binance
-        └── README.md
+        ├── README.md
+        └── binance-p2p.md
 .
 └── pdf (proyectado)
 

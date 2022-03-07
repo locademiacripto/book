@@ -2,14 +2,16 @@
 
 Las finanzas son una rama de la administración y de la economía que estudia el intercambio de capital entre individuos, empresas, o Estados y con la incertidumbre y el riesgo que estas actividades conllevan. Se dedica al estudio de la obtención de capital para la inversión en bienes productivos y de las decisiones de inversión de los ahorradores.
 
-Así mismo, su estudio se basa en la obtención y la administración del dinero para lograr sus respectivos objetivos, tomando en cuenta todos los riesgos que ella implica, basándose en todos y cada uno de sus componentes que la integra para mantener un buen control.
+Así mismo, su estudio se basa en la obtención y la administración del [dinero](c/fiat.md) para lograr sus respectivos objetivos, tomando en cuenta todos los riesgos que ella implica, basándose en todos y cada uno de sus componentes que la integra para mantener un buen control.
 
-Las finanzas estudian cómo los agentes económicos (empresas, familias o Estado) deben tomar decisiones de inversión, ahorro y gasto en condiciones de incertidumbre. Al momento de tomar estas decisiones los agentes pueden optar por diversos tipos de recursos financieros tales como: dinero, bonos, acciones o derivados, incluyendo la compra de bienes de capital como maquinarias, edificios y otras infraestructuras. Ver diferencia entre ahorro e inversión.
+Las finanzas estudian cómo los agentes económicos (empresas, familias o Estado) deben tomar decisiones de inversión, ahorro y gasto en condiciones de incertidumbre. Al momento de tomar estas decisiones los agentes pueden optar por diversos tipos de recursos financieros tales como: [dinero fiat](c/fiat.md), bonos, acciones o derivados, incluyendo la compra de bienes de capital como maquinarias, edificios y otras infraestructuras. Ver diferencia entre ahorro e inversión.
 
 Las Finanzas se clasifican en dos ramas:
 
 - Finanzas Privadas (personales)
 - Finanzas Públicas (la del Estado)
+
+Antes de pasar a la explicación puntual de cada rama de las finanzas, tengamos en cuenta que como personas que viviemos en sociedad, no estaremos solos. Todo está conectado en la economía.
 
 ## Finanzas Personales
 
@@ -21,10 +23,13 @@ Las finanzas privadas incluyen:
 - riesgos laborales
 - planes de retiros
 - préstamos personales
+- deudas
 - inversiones en el mercado de valores
 - inversiones en el mercado de las criptomonedas
 - gestión de los impuestos
 - tarjetas de crédito / débito / otras
+- aspectos contables de los negocios
+
 
 ## Finanzas Públicas
 

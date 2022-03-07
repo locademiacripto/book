@@ -21,4 +21,6 @@ El protocolo tiene una tasa de emisión de tokens que se reduce a la mitad cada 
 
 A diferencia de las infraestructuras públicas de blockchain que respaldan el desarrollo de aplicaciones descentralizadas (Ethereum), el protocolo Bitcoin se usa principalmente solo para pagos y solo tiene un soporte muy limitado para funcionalidades similares a contratos inteligentes (Bitcoin "Script" se usa principalmente para crear ciertas condiciones antes de que bitcoins se utilizan para gastar).
 
+## Valor de Bitcoin
 
+El tema es que Bitcoin es un activo muy volátil. Si el precio de bitcoin cae fuerte, nuestra billetera de Binance nos dirá cuánto dinero estamos perdiendo, pero CUIDADO aquí, esto no significa que sea pérdida real de dinero. Suponiendo que el precio de Bitcoin esté 10% más arriba que el momento de nuestra compra de bitcoin, la billetera de Binance nos dirá cuánto hemos ganado, y este importe tampoco representa la ganancia REAL en efectivo. Pues no habrá ganancia ni pérdida de dinero hasta que llevemos Bitcoin a una moneda estable, es decir, vendamos Bitcoin por USDT o una moneda que no sea volátil. 

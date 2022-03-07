@@ -4,7 +4,7 @@
 
 Seguramente te habrá llamado la atención que arrancamos por el cero. Primer rotura del molde, y verdad empírica, en cualquier plano de la vida, se comienza en cero. Cero coma cero, cero, cero, cero, cero (… suspenso que tiende a infinito) y después un UNO. Es importante destacar esto, porque en el universo al que viajaremos pronto, es decir, el de las criptomonedas, el valor de las mismas también comienza en cero. Y es algo que tenemos que entender, y naturalizar. Es así con los mercados de valores también: las acciones de empresas como Coca Cola, Apple, o Microsoft, también comenzaron en cero aunque cueste creerlo, y de hecho, podrían volver a valer cero coma (algo…) y después uno!
 
-Este libro se actualizará a medida que voy recibiendo retroalimentación de las distintas versiones que lees. No tengas miedo ni timidez de decirme cualquier cosa que veas que está mal, o que le falta desarrollo, [estoy aquí](/#¿quién-es-walddo).
+Este libro se actualizará a medida que voy recibiendo retroalimentación sobre lo que lees. No tengas miedo ni timidez de decirme cualquier cosa que veas que está mal, o que le falta desarrollo, [estoy aquí](/#soy-waldo), inclusive podes editarlo, mejorarlo, y proponer tus cambios a esta página web, aquí explico [cómo colaborar con el conocimiento](https://github.com/locademiacripto/book/wiki) (sin dinero).
 
 ## Cómo aprender a invertir
 Hace poco una persona desconocida me contó que nadie comparte el cómo invertir. Todos forman parte de grupos enormes en internet y están hablando sobre temas de criptomonedas e inversiones, pero nadie comparte el conocimiento realmente. Nadie indica dónde y cómo hacer algo para ganar más dinero. Y que por eso, las personas que buscan ganar dinero, terminan siendo estafadas porque los estafadores son buenos diciendo cómo invertir, les cuentan paso por paso cómo dejar su dinero en determinadas plataformas, las cuales al final de cuenta pueden terminar siendo estafas, pero las personas no identifican esto con una estafa porque confían en las personas.
@@ -12,6 +12,20 @@ Hace poco una persona desconocida me contó que nadie comparte el cómo invertir
 Aquí mucho cuidado. Aprender a invertir será una misión compleja y un viaje hermoso por el Internet, que te hará estar al frente de estafadores en más de una ocasión y esto es así porque esas personas inservibles, los estafadores, solo quieren tu dinero, y harán lo que sea para conseguirlo. Si tienen que mentirte, lo harán.
 
 ?> Si aún no estás al tanto de todas las estafas a las que podrías exponerte, dale una leída a nuestro capítulo sobre [EL RIESGO](riesgos.md).
+
+### Expectativas
+
+Muchas veces a quienes me solicitan ayuda sobre criptomonedas, les pregunto cuáles son tus expectativas! Y se quedan pensando. No saben bien qué finalidad persiguen cuando se aventuran en el universo de las criptomonedas. Algunos tienen claro que es cambiar su nivel de vida. Si con la economía que llevan, no están conformes, saben que algo deberían cambiar para mejorar. Es aquí donde entran las [finanzas personales](finanzas.md) y conceptos de inversión, ahorro, e inflación.
+
+La finalidad de invertir en criptomonedas puede abrir distintas posibilidades:
+
+- Ahorro puro (paso mi dinero a billeteras virtuales, más seguras que tener el dinero en tu casa)
+- Liquidez internacional (paso dólares a una billetera virtual para enviarle dinero a cualquier persona del mundo, sin tener que pedirle permiso a nadie)
+- Menor inflación (paso mi dinero local a una moneda fuerte, estable, dolarizada)
+- Prestamos Cripto (pongo mis criptomonedas como garantía y saco préstamos en dólar cripto para re-invertir o retirar en billete físico)
+- Trading
+- Ahorros (poner a trabajar el dinero, para que genere más dinero)
+
 
 ## Curso Particular (tú y yo) - Demo Gratis
 Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de [recomendaciones](recomendaciones.md). Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso

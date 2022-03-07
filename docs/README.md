@@ -4,7 +4,7 @@ _Esto está en constante producción, edición, prueba y error -- Por eso es ver
 
 !> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/walddo)
 
-## ¿Quién es WaLddo?
+## Soy Waldo
 Quería empezar presentándome, pues estoy seguro que te interesa saber quién soy, y por qué te estoy escribiendo esto.
 
 Me dicen Waldo. Soy de Córdoba, Argentina, y desde el año 2008 soy Contador Público Nacional. Salí a la calle a “picar piedra” (como quien dice) allá por el año 2006 y tengo experiencia con criptomonedas desde el año 2016.
