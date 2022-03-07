@@ -6,18 +6,18 @@
 .
 └── docs
     ├── README.md
-    ├── capitulo-cero.md
-    ├── intro.md
-    ├── riesgos.md
-    ├── estafas.md
+    ├── capitulo-cero.md (s)
+    ├── intro.md (s)
+    ├── riesgos.md (s)
+    ├── estafas.md (s)
     ├── lecturas.md
-    ├── recursos.md
-    ├── recomendaciones.md
+    ├── recursos.md (s)
+    ├── recomendaciones.md (s)
     ├── gemas.md
-    ├── tu-pais.md
+    ├── tu-pais.md (s)
     ├── biblografia.md
-    ├── anexo.md
-    ├── glosario.md
+    ├── anexo.md (s)
+    ├── glosario.md (s)
     ├── finanzas.md
     └── c
         ├── README.md
@@ -39,3 +39,5 @@
 └── pdf (proyectado)
 
 ```
+
+?> Referencia: `(s)` significa que el archivo está enlazado en `_sidebar.md` (en el menú izquierdo del sitio web)

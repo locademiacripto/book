@@ -32,7 +32,7 @@ Lo más probable es que, viendo ese video, no entiendas nada. Y está bien! No e
 
 Nadie sabe quién es “Satoshi Nakamoto” que colabora activamente cuando Martti le dice: “Me gustaría ayudar”, y tal como se visualiza en el video, muchísimas personas colaboran en el proyecto, no significa que una sola persona (o grupo de personas) sea el dueño de Bitcoin. El proyecto es el resultado de la colaboración descentralizada, e internacional. Esto no tiene jurisdicción, ni país, ni banderas, ni política. Esto es un regalo de la humanidad, y se desarrolló inicialmente en el año 2009.
 
-Si quieres disfrutar de la historia, mejor dicho la UTOPÍA que está viviendo la humanidad, aquellos que abrazamos la tecnología de las criptomonedas, para comprender todo esto, ponte cómodo porque hay una película (libre, y gratuita) al alcance del mundo: <!-- https://youtu.be/P6vYyqHG54Y?t=30 -->
+Si quieres disfrutar de la historia, mejor dicho la UTOPÍA que está viviendo la humanidad, aquellos que abrazamos la tecnología de las criptomonedas, para comprender todo esto, ponte cómodo porque hay una película (libre, y gratuita) al alcance del mundo: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P6vYyqHG54Y?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -54,4 +54,3 @@ Lo que desató haber conocido bitcoin es sin lugar a dudas un conocimiento libre
 
 ¿Y si existiede una base de datos en el internet, totalmente descentralizada, donde solo tú puedas con un código, acceder y darle permisos de lectura a cualquier hospital? Historias clínicas descentralizadas, en poder de cada persona, con acceso libre de cualquier hospital del mundo, eso es posible en Blockchain.
 
-_... continuará_
