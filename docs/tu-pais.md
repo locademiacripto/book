@@ -17,4 +17,4 @@ Temas de “regulación” de criptomonedas lo analizaremos puntualmente por pa�
 ## Plataforma Local = No necesito justificar nada <!-- {docsify-ignore} -->
 Quería escribir sobre este punto porque muchos me preguntan por qué usar plataformas internacionales, cuando cada país tiene sus plataformas “locales”.
 
-Hay un mito, o creencia popular que indica que si usas una plataforma local, el gobierno ya sabe que tienes criptomonedas, entonces no te será necesario declarar nada, ni pagar impuestos, etcétera. Pues todo esto es una gran confusión y dependerá de varios factores que no hablaré en este libro. Pero puedes unirte al debate sobre estas cuestiones aquí: [Github.com/locademiacripto/foro/.../regulacion](https://github.com/locademiacripto/foro/discussions/categories/regulación)
+Hay un mito, o creencia popular que indica que si usas una plataforma local, el gobierno ya sabe que tienes criptomonedas, entonces no te será necesario declarar nada, ni pagar impuestos, etcétera. Pues todo esto es una gran confusión y dependerá de varios factores que no hablaré por ahora.

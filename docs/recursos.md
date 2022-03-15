@@ -17,8 +17,6 @@
 Para reportar scam la única web "seria" que he encontrado es esta:
 * [CoinHolmes](https://forms.coinholmes.com/)
 
-Debate sobre estafas: [Foro: Estafas Cripto](https://github.com/locademiacripto/foro/discussions/categories/estafas)
-
 ## Trackers
 
 - [Central Bank Digital Currency Tracker](https://cbdctracker.org/)
