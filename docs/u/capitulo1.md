@@ -17,7 +17,7 @@ Pero ANTES de hablar de las plataformas puramente sobre criptomonedas, algo que 
 
 Amigarte con tu correo electrónico cambiará mucho de tu organización digital, y si puedes, aprende también a dominar las herramientas relacionadas a tu correo… por ejemplo con la cuenta de Gmail, tienes acceso a Google Calendario, y ahí dentro, puedes configurar recordatorios, puedes hacerlos semanales, o mensuales, te servirá para organizar lanzamientos de criptomonedas, y no perderte eventos importantes relacionados al tema de las inversiones.
 
-Por supuesto en el Internet, puedes encontrar otras herramientas gratuitas para hacer este tema de los recordatorios, si ya posees un poco de más experiencia o quieres hacer un uso más avanzado del tema organización digital, yo siempre uso TRELLO. 
+Por supuesto en el Internet, puedes encontrar otras herramientas gratuitas para hacer este tema de los recordatorios, si ya posees un poco de más experiencia o quieres hacer un uso más avanzado del tema organización digital, yo siempre uso [TRELLO](https://trello.com/os_/recommend). 
 
 ### Tu seguridad digital
 Y aquí, ATENCIÓN máxima, porque no es una cuestión menor, viviendo en un mundo digital, la seguridad también será digital. ¿Qué hacemos para protegernos? Son cinco los pasos básicos que debes dominar para sentirte seguro, y ya hablé de esto en este artículo: “Cinco (5) claves para la seguridad digital” (Lectura recomendada en el enlace previo)

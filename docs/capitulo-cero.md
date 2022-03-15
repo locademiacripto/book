@@ -13,9 +13,11 @@ Aquí mucho cuidado. Aprender a invertir será una misión compleja y un viaje h
 
 ?> Si aún no estás al tanto de todas las estafas a las que podrías exponerte, dale una leída a nuestro capítulo sobre [EL RIESGO](riesgos.md).
 
+Y es muy complicado aprender a invertir. ¿Por dónde comenzamos? ¿Qué hacemos? ¿Cuánto dinero necesito para aprender?
+
 ### Expectativas
 
-Muchas veces a quienes me solicitan ayuda sobre criptomonedas, les pregunto cuáles son tus expectativas! Y se quedan pensando. No saben bien qué finalidad persiguen cuando se aventuran en el universo de las criptomonedas. Algunos tienen claro que es cambiar su nivel de vida. Si con la economía que llevan, no están conformes, saben que algo deberían cambiar para mejorar. Es aquí donde entran las [finanzas personales](finanzas.md) y conceptos de inversión, ahorro, e inflación.
+Muchas veces a quienes me solicitan ayuda sobre temas de inversión, les pregunto cuáles son sus expectativas! Y se quedan pensando. No saben bien qué finalidad persiguen cuando se aventuran en el universo de las criptomonedas. Algunos tienen claro que es cambiar su nivel de vida. Si con la economía que llevan, no están conformes, saben que algo deberían cambiar para mejorar. Es aquí donde entran las [finanzas personales](finanzas.md) y conceptos de dinero, inversión, ahorro, e inflación.
 
 La finalidad de invertir en criptomonedas puede abrir distintas posibilidades:
 
@@ -28,7 +30,7 @@ La finalidad de invertir en criptomonedas puede abrir distintas posibilidades:
 
 
 ## Curso Particular (tú y yo) - Demo Gratis
-Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de [recomendaciones](recomendaciones.md). Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es verificarte como alumno de nuestra comunidad completando este formulario para darte de alta en las clases virtuales: https://bit.ly/LocaCurso
+Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de [recomendaciones](recomendaciones.md). Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es mandarme un mensaje privado a través de Telegram, así verifico tu usuario y comenzamos cuanto antes.
 
 Para quienes ya tienen cuentas en las plataformas donde trabajaremos, pueden seguir leyendo este sitio web aunque no contarán con las clases particulares conmigo, o bien, pueden tomar clases particulares (no gratuitas).
 
