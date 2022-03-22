@@ -1,4 +1,4 @@
-* <a href="/book/#/?id=book" target="_self">Inicio</a>
+* <a href="/#/?id=book" target="_self">Inicio</a>
 * [Capítulo Cero](/capitulo-cero.md)
   * [Recomendaciones](recomendaciones.md)
   * [Intro](/intro.md)
