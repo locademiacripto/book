@@ -1,21 +1,22 @@
-# book
+# Curso
 
-El libro está en redacción. 
+El libro está en constante redacción. 
 
 Versión actual: 
 [![](https://badgen.net/github/tag/locademiacripto/book)](https://github.com/locademiacripto/book/releases/latest)
 
 Se actualizarán distintas versiones en la parte de [RELEASE](https://github.com/locademiacripto/book/releases) de este repositorio.
 
-El manual / libro / ebook / curso o como quieras llamarle, se publica en PDF. 
+El manual / libro / ebook / curso o como quieras llamarle, se publicará en PDF. 
 Podes compartirlo con quien vos quieras.
-La versión final se compartirá en este repositorio.
+Siempre, la última versión estará en esta web.
 
 ## LocademiaCripto
 
+- Sitio oficial: [LocademiaCripto.com](https://www.locademiacripto.com)
 - Telegram: [@LocademiaCripto](https://t.me/LocademiaCripto)
 - YouTube: [LocademiaCripto](https://www.youtube.com/LocademiaCripto)
 
 ## Acerca del autor
 
-- Respondido en ["QUIENES SOMOS"](https://www.locademiadigital.com/p/quienes-somos.html)
+- Podes leer sobre mí en [Soy Waldo](docs/README.md#soy-waldo)

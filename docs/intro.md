@@ -4,13 +4,13 @@ El universo es infinito, cualquier universo, hay más de los que tú conoces! Aq
 
 Pues, como en nuestro Planeta Tierra, desde ahí _-donde sea que estes ahora lector-_ no comprendes qué hay más allá de la Vía Láctea. Con el universo de las criptomonedas es igual, surgió de un -le digamos- “Big Bang”, una cadena de bloques original, la primera, que fue la que le dio nacimiento al Bitcoin tal como hoy lo conocemos (como moneda, surgió en año 2009). Y con el avance de la ciencia, la tecnología y muchas mentes brillantes y anónimas, fueron creando distintos proyectos relacionados (o no) a lo que es bitcoin. Fueron surgiendo distintos ecosistemas, o galaxias inclusive.
 
-Decimos ecosistemas o galaxias porque cada criptomoneda requiere de una tecnología que la haga realidad. Gran parte de las criptos actuales corren en BlockChain (cadena de bloques). No quiero entrar en tecnisismos complicados en la introducción pero es necesario que desde el comienzo entendamos que no existe una única criptomoneda, ni un único ecosistema.
+Decimos ecosistemas o galaxias porque cada criptomoneda requiere de una tecnología que la haga realidad. Gran parte de las criptos actuales corren sobre BlockChain (cadena de bloques). No quiero entrar en tecnisismos complicados en la introducción pero es necesario que desde el comienzo entendamos que no existe una única criptomoneda.
 
 Y así tenemos lo que hoy se conoce como:
 
-- CEFI (finanzas centralizadas)
-- DEFI (finanzas descentralizadas)
-- MetaVersos (espacios virtuales donde existen personajes virtuales)
+- CEFI (que son las "finanzas centralizadas")
+- DEFI (que son las "finanzas descentralizadas")
+- MetaVersos (espacios virtuales donde existen personajes virtuales, entre otras cosas)
 
 Entre estos conceptos, hay universos paralelos, TODOS relacionados, e interactuando con un concepto en común que los aglutina: BlockChain (la cadena de bloques).
 
@@ -53,4 +53,20 @@ Lo que desató haber conocido bitcoin es sin lugar a dudas un conocimiento libre
 ¿Te has puesto a pensar por qué el hospital donde vas no te da la información sobre tu historia clínica? ¿Qué pasaría se tienes un accidente en otro país? ¿El hospital del extranjero, podría acceder a tu historia clínica? ¿Por qué no? ¿Quién es tu hospital para ser dueño de tu historia clínica? ¿Cuándo cediste los derechos sobre lo que saben de tí a nivel salud? ¿Tienes una copia de lo que firmaste? 
 
 ¿Y si existiede una base de datos en el internet, totalmente descentralizada, donde solo tú puedas con un código, acceder y darle permisos de lectura a cualquier hospital? Historias clínicas descentralizadas, en poder de cada persona, con acceso libre de cualquier hospital del mundo, eso es posible en Blockchain.
+
+## Llaves Privadas
+
+Dentro de "la cadena de bloques", en lo que es el bloque en sí, donde se almacena cada línea del registro que tiene la transacción (donde dice qué cantidad se mueve, entre otras cosas), hay información encriptada. Esta "encriptación" se realiza con un proceso complejo de resolución de problemas matemáticos... lo que se verá más adelante cuando hablemos de Minería de Criptomonedas.
+
+Lo que hay que destacar en esta parte, es que la encriptación se realiza con llaves públicas y privadas.
+
+?>"Not your keys, not your coins"
+
+Esta frase la sentirás siempre, y la traducción al español tiene distintas variantes:
+"Sin tus llaves, no es tu dinero", o bien "Sin tus llaves, no son tus monedas".
+
+Es una regla de oro que se aplica en contra de la centralización, principalmente contra lo que es CeFi (Finanzas Centralizadas).
+
+Por ejemplo: cuando compramos Bitcoin a una empresa como Binance, estamos pasando nuestro papel dinero a un intermediario (binance), para comprar btc. La cantidad "x" de btc que compramos, la tendremos en una billetera interna dentro de Binance.com
+¿Tenemos las llaves privadas de esa billetera de Binance? La respuesta es no, ya que Binance.com no ofrece esta información a sus usuarios. Lo que significa que, si el día de mañana, Binance.com se cae, desaparece, o el Internet se pierde, no podremos acceder a nuestras monedas.
 
