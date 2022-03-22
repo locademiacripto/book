@@ -6,5 +6,3 @@
     * [Estafas](estafas.md)
 * [Tu país](tu-pais.md)
 * [Recursos Web](/recursos.md)
-* [Glosario](glosario.md)
-* [Anexo](anexo.md)
