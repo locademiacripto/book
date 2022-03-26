@@ -99,3 +99,10 @@ Imaginate que alguien, dentro de una plataforma web, entra a comprar algo y esa 
 Cuando hablamos de descentralización gracias a la cadena de bloques, a poder ser libres y hacer lo que querramos con nuestro dinero, a poder entrar y salir de mercados sin tener que decir quiénes somos, y de dónde sacamos nuestro dinero, nos sentimos realmente LIBRES. El KYC es un límite, es una figura que aparece y nos detiente, ya que nos exige nuestra identidad. Por eso, las personas que persiguen la descentralización en internet "lloran" cuando aparecen KYC en las plataformas web que usan.
 
 Aún hay plataformas libres, por ejemplo las conocidas como DEX, son "exchanges descentralizados". Un icono de éstas es por ejemplo PancakeSwap. Ahí podes intercambiar cualquier criptomoneda SIN verificar tu identidad. Pero... ¿es esto SEGURO? Así como cualquier persona puede entrar, salir, crear una criptomoneda ahí dentro, vender algo como el próximo bitcoin, si te estafan... ¿a quién perseguirás? PIENSALO.
+
+<section class='cover show' style='height: auto; width: auto;'>
+<div class='cover-main'>
+<!-- [Capítulo 1](/u/capitulo1.md) -->
+<p><a href='#/u/capitulo1'>Capítulo 1</a></p>
+</div>
+</section>

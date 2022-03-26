@@ -122,3 +122,10 @@ Habrá otras plataformas de intercambio para ir por el mundo o universo cripto. 
 
 #### 2FA: Authy
 2FA es la sigla para hacer referencia al tema “Autenticación en Dos Pasos”, y quiero ser muy directo con esta recomendación: NO USES GOOGLE Authenticator; usa el programa Authy.
+
+<section class='cover show' style='height: auto; width: auto;'>
+<div class='cover-main'>
+<!-- [Capítulo 2](/u/capitulo2.md) -->
+<p><a href='#'>Capítulo 2 (próximamente)</a></p>
+</div>
+</section>
