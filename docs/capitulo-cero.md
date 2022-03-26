@@ -86,4 +86,9 @@ Pues no pasa nada realmente. Cada uno es libre de hacer lo que le plazca.
 
 ## Capítulo 1: La introducción
 
-- Continúa aquí: [La Introducción](intro.md)
+<section class='cover show' style='height: auto; width: auto;'>
+<div class='cover-main'>
+<!-- - Continúa aquí: [La Introducción](intro.md) -->
+<p><a href='#/intro'>La Introducción</a></p>
+</div>
+</section>
