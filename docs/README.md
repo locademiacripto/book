@@ -54,6 +54,9 @@ Junto con distintos colaboradores de LocademiaCripto, buscamos presentar este si
 
 Podes comenzar por donde quieras, al costado izquierdo el sitio tiene un buscador, y podes buscar por la palabra que quieras. También tenes un menú izquierdo, con temas principales, dandole cierto "orden" de lectura.
 
+<section class='cover show'>
 <div class='cover-main'>
-Si estás en nivel cero, recomendamos comenzar por el principio... hemos realizado una serie de artículos que comienzan por el [**Capítulo CERO**](capitulo-cero.md).
+<!-- [**Capítulo CERO**](capitulo-cero.md) -->
+<a href='#/capitulo-cero'>Capítulo Cero</a>
 </div>
+</section>
