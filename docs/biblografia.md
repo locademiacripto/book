@@ -11,3 +11,7 @@ La idea de este documento es citar de forma simple, las distintas fuentes que se
 ## Finanzas
 
 - [Wikipedia: Mercado Financiero](https://es.wikipedia.org/wiki/Mercado_financiero) - Desde este enlace se usó información para la redacción de todo el contenido sobre finanzas. Se ahondó en otros conceptos dentro de Wikipedia.
+
+## Recursos
+
+- Las analíticas se tomaron de la [Academia de DefiLatam](https://academia.defilatam.com/herramientas/analiticas).
