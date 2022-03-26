@@ -39,3 +39,11 @@ Seguramente estás pensando que son muchas plataformas, que no tienes tiempo, qu
 
 ### ¿Por qué no hay plataformas locales?
 Si prestas atención, todas las herramientas que he recomendado son internacionales. No hay ninguna que sea de determinado país y puede que tú te hayas registrado en alguna plataforma de tu país, por ejemplo un Exchange. Cada país tiene regulación específica para criptomonedas, y prefiero que NO entremos en esos temas por ahora. Le he dedicado unas líneas al respecto en el capítulo: “[Tu país, tu caos](tu-pais.md)"
+
+## “Criyptopia” <!-- {docsify-ignore} -->
+
+Si quieres disfrutar de la historia de las criptomonedas, mejor dicho la UTOPÍA que está viviendo la humanidad, aquellos que abrazamos la tecnología de las criptomonedas, para comprender todo esto, ponte cómodo porque hay una película (libre, y gratuita) al alcance del mundo: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6vYyqHG54Y?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Lo que ves se llama “Criyptopia” (una suerte de cripto-utopía) en formato película, está en español (doblada) para que sea de fácil entendimiento. Y lo que sea que no entiendas de esta película, podes escribirme un mensaje privado directo, y lo conversamos sin costo alguno.

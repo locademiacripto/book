@@ -13,3 +13,5 @@ La idea de este documento es citar de forma simple, las distintas fuentes que se
   - Las analíticas se tomaron de la [Academia de DefiLatam](https://academia.defilatam.com/herramientas/analiticas).
 - Poap
   - [Poap](http://academia.defilatam.com/poap)
+- Intro
+  - Parte de [Kyc](https://www.electronicid.eu/es/blog/post/que-es-kyc-know-customer/es)

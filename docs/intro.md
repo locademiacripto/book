@@ -32,12 +32,6 @@ Lo más probable es que, viendo ese video, no entiendas nada. Y está bien! No e
 
 Nadie sabe quién es “Satoshi Nakamoto” que colabora activamente cuando Martti le dice: “Me gustaría ayudar”, y tal como se visualiza en el video, muchísimas personas colaboran en el proyecto, no significa que una sola persona (o grupo de personas) sea el dueño de Bitcoin. El proyecto es el resultado de la colaboración descentralizada, e internacional. Esto no tiene jurisdicción, ni país, ni banderas, ni política. Esto es un regalo de la humanidad, y se desarrolló inicialmente en el año 2009.
 
-Si quieres disfrutar de la historia, mejor dicho la UTOPÍA que está viviendo la humanidad, aquellos que abrazamos la tecnología de las criptomonedas, para comprender todo esto, ponte cómodo porque hay una película (libre, y gratuita) al alcance del mundo: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6vYyqHG54Y?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Lo que ves se llama “Criyptopia” (una suerte de cripto-utopía) en formato película, está en español (doblada) para que sea de fácil entendimiento. Y lo que sea que no entiendas de esta película, podes escribirme un mensaje privado directo, y lo conversamos sin costo alguno.
-
 ### Martti Malmi
 Si te estás preguntando quién es Martti, está perfecto. Nadie habla de él, o tiene menor "fama" que Satoshi Nakamoto. Pero lo expongo adelante de Satoshi porque al menos este señor, salió del anonimato que provee el Internet y se muestra tal como es, y hasta cuenta cómo ha vendido muchísimos de sus bitcoins, lo que los medios más sensasionalistas por supuesto lo publican como pérdidas de miles de millones de dólares. En fin, Martti forma parte de la historia de Bitcoin, y es un ser humano que podemos ver, conocer, y hasta podes probar contactarlo en Twitter: [Martti Malmi](https://twitter.com/marttimalmi ':ignore')
 
@@ -91,4 +85,18 @@ Los problemas comienzan cuando el dinero es "mucho" y aparecen los intermediario
 
 ## KYC
 
-Del tema "privacidad" se deriva un tema controvertido, los formularios KYC (siglas para "Know your customer/client").
+Del tema "privacidad" se deriva un tema controvertido, los formularios KYC (siglas para "Know your customer").
+
+KYC o, por sus siglas en inglés “Know Your Customer (Conoce a Tu Cliente)”, es la práctica que realizan las compañías para verificar la identidad de sus clientes cumpliendo con las exigencias legales, las normativas y regulaciones vigentes.
+
+El extenso uso de las nuevas tecnologías e internet hace necesario la definición de unas normas que ayuden a luchar contra el fraude online.
+
+El proceso Know Your Customer consiste en **verificar que el cliente es quien dice ser**, y de esta forma darle título y acceso a los servicios o productos que quiera contratar y a los que desee acceder. Esta verificación se lleva a cabo a través de distintos métodos, aunque no todos cumplen con las exigencias legales.
+
+**¿Qué ocurriría si estuviésemos en un mercado donde UNA persona, tiene 100 clones?**
+Imaginate que alguien, dentro de una plataforma web, entra a comprar algo y esa misma persona pone 100 dólares, pero 100 veces juntas, porque usa un sistema para clonarse a sí mismo. O peor aún, ¿qué pasaría si le compras criptomonedas a una persona que no existe realmente, sino que es un ser ficticio? Todo esto, se elimina desde el momento que las empresas o plataformas web, piden formularios KYC. El hecho de demostrar quién eres, pasar validación facil, o bien subir documentación legal, ya auyenta a todos los estafadores y clonadores de identidades.
+
+### ¿Por qué existe internet se queja del KYC?
+Cuando hablamos de descentralización gracias a la cadena de bloques, a poder ser libres y hacer lo que querramos con nuestro dinero, a poder entrar y salir de mercados sin tener que decir quiénes somos, y de dónde sacamos nuestro dinero, nos sentimos realmente LIBRES. El KYC es un límite, es una figura que aparece y nos detiente, ya que nos exige nuestra identidad. Por eso, las personas que persiguen la descentralización en internet "lloran" cuando aparecen KYC en las plataformas web que usan.
+
+Aún hay plataformas libres, por ejemplo las conocidas como DEX, son "exchanges descentralizados". Un icono de éstas es por ejemplo PancakeSwap. Ahí podes intercambiar cualquier criptomoneda SIN verificar tu identidad. Pero... ¿es esto SEGURO? Así como cualquier persona puede entrar, salir, crear una criptomoneda ahí dentro, vender algo como el próximo bitcoin, si te estafan... ¿a quién perseguirás? PIENSALO.
