@@ -57,6 +57,6 @@ Podes comenzar por donde quieras, al costado izquierdo el sitio tiene un buscado
 <section class='cover show'>
 <div class='cover-main'>
 <!-- [**Capítulo CERO**](capitulo-cero.md) -->
-<a href='#/capitulo-cero'>Capítulo Cero</a>
+<p><a href='#/capitulo-cero'>Capítulo Cero</a></p>
 </div>
 </section>
