@@ -80,12 +80,11 @@ Para empezar, cuando era 1 dólar, la persona que tenía 1 dólar y quería gast
 Ahora bien, y si quiero gastar 1 bitcoin? Serían muchas galletas. Quizás si el kiosko acepta bitcoin no habría problema alguno.
 Los problemas comienzan cuando el dinero es "mucho" y aparecen los intermediarios. Pulpos del sistema tradicional a querer cobrar sus "comisiones" (por existir?).
 
-?>El tema de la privacidad es un súper tema que da para muchas páginas de estudio y supuestos.
-?>Quizás tengamos que crear una página dedicada a la privacidad pronto. ¿Lo crees conveniente? [Contanos AQUI](https://github.com/locademiacripto/book/issues/5)
+?>El tema de la privacidad es un súper tema que da para muchas páginas de estudio y supuestos. Quizás tengamos que crear una página dedicada a la privacidad pronto. ¿Lo crees conveniente? [Contanos AQUI](https://github.com/locademiacripto/book/issues/5)
 
 ## KYC
 
-Del tema "privacidad" se deriva un tema controvertido, los formularios KYC (siglas para "Know your customer").
+Del tema "privacidad" se deriva un tema controvertido, los formularios <abbr title="Know Your Customer">KYC</abbr>.
 
 KYC o, por sus siglas en inglés “Know Your Customer (Conoce a Tu Cliente)”, es la práctica que realizan las compañías para verificar la identidad de sus clientes cumpliendo con las exigencias legales, las normativas y regulaciones vigentes.
 
