@@ -100,6 +100,8 @@ Cuando hablamos de descentralización gracias a la cadena de bloques, a poder se
 
 Aún hay plataformas libres, por ejemplo las conocidas como DEX, son "exchanges descentralizados". Un icono de éstas es por ejemplo PancakeSwap. Ahí podes intercambiar cualquier criptomoneda SIN verificar tu identidad. Pero... ¿es esto SEGURO? Así como cualquier persona puede entrar, salir, crear una criptomoneda ahí dentro, vender algo como el próximo bitcoin, si te estafan... ¿a quién perseguirás? PIENSALO.
 
+***
+
 <section class='cover show' style='height: auto; width: auto;'>
 <div class='cover-main'>
 <!-- [Capítulo 1](/u/capitulo1.md) -->

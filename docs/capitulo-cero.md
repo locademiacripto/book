@@ -84,7 +84,7 @@ Más adelante estudiaremos conceptos básicos sobre finanzas personales y como d
 ### ¿Qué ocurre si no quieres darte de alta en estas empresas que son requisitos de este curso? 
 Pues no pasa nada realmente. Cada uno es libre de hacer lo que le plazca.
 
-## Capítulo 1: La introducción
+***
 
 <section class='cover show' style='height: auto; width: auto;'>
 <div class='cover-main'>
