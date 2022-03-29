@@ -66,3 +66,14 @@ Nos concentremos rápido en el autmento del capital.
 ## CNV
 
 >La "CNV" es la "Comisión Nacional de Valores" y se encuentra en todos los países que "regulan" la actividad donde los ciudadanos de dicho país deben pagarle comisiones a dicha comisión por dicha intervención.
+
+***
+
+## Lectura recomendada <!-- {docsify-ignore} -->
+
+<section class='cover show' style='height: auto; width: auto;'>
+<div class='cover-main'>
+<!-- [ORO](/c/oro.md) -->
+<p><a href='#/c/oro'>El "ORO"</a></p>
+</div>
+</section>

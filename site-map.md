@@ -26,6 +26,7 @@
         ├── defi.md
         ├── fiat.md
         ├── nft.md
+        ├── oro.md
         ├── poap.md
         ├── web3.md
         └── wallets.md

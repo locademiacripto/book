@@ -15,3 +15,5 @@ La idea de este documento es citar de forma simple, las distintas fuentes que se
   - [Poap](http://academia.defilatam.com/poap)
 - Intro
   - Parte de [Kyc](https://www.electronicid.eu/es/blog/post/que-es-kyc-know-customer/es)
+- Oro
+  - [Patrón Oro](https://es.wikipedia.org/wiki/Patr%C3%B3n_oro)
