@@ -6,19 +6,19 @@
 .
 └── docs
     ├── README.md
-    ├── capitulo-cero.md (s)
-    ├── intro.md (s)
-    ├── riesgos.md (s)
-    ├── estafas.md (s)
-    ├── lecturas.md
-    ├── recursos.md (s)
-    ├── recomendaciones.md (s)
-    ├── gemas.md
-    ├── tu-pais.md (s)
-    ├── biblografia.md
     ├── anexo.md (s)
-    ├── glosario.md (s)
+    ├── biblografia.md
+    ├── capitulo-cero.md (s)
+    ├── estafas.md (s)
     ├── finanzas.md
+    ├── gemas.md
+    ├── glosario.md (s)
+    ├── intro.md (s)
+    ├── lecturas.md
+    ├── recomendaciones.md (s)
+    ├── recursos.md (s)
+    ├── riesgos.md (s)
+    ├── tu-pais.md (s)
     └── c
         ├── README.md
         ├── bitcoin.md
@@ -28,8 +28,9 @@
         ├── nft.md
         ├── oro.md
         ├── poap.md
-        ├── web3.md
-        └── wallets.md
+        ├── tradingview.md
+        ├── wallets.md
+        └── web3.md
     └── u
         ├── README.md
         ├── capitulo1.md
