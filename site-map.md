@@ -28,6 +28,7 @@
         ├── nft.md
         ├── oro.md
         ├── poap.md
+        ├── trading.md
         ├── tradingview.md
         ├── wallets.md
         └── web3.md

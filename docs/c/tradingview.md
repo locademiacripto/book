@@ -98,5 +98,3 @@ alertcondition(strategy.short, "HS close long", "message")
 ```
 
 ***
-
-<script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
