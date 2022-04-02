@@ -10,7 +10,7 @@ Una lista de palabras con significados cortos, en español. Aquí no habrá tér
 ## Lista
 
 - Trader: persona física que hace “trading”. Nada más, no es necesario que sea titulado, ni un genio en el mercado de valores.
-- Trading: actividad de trade, intercambio de activos o criptoactivos. Comprar, vender, o bien hacer operaciones con derivados financieros ya es hacer trading.
+- Trading: actividad de trade, intercambio de activos o criptoactivos. Comprar, vender, o bien hacer operaciones con derivados financieros ya es hacer trading. Leer: [Trading](c/trading.md)
 - Jerga Cripto: la “jerga” es la forma de hablar en determinados contextos. Jerga Cripto es la forma de hablar en contexto de criptomonedas.
 - Liquidez: la liquidez representa la cualidad de los activos para ser convertidos en dinero efectivo de forma inmediata sin pérdida significativa de su valor. De tal manera que cuanto más fácil es convertir un activo en dinero se dice que es más líquido.
 - Psicología del Mercado: La psicología de los mercados es una disciplina que estudia los atajos y trampas mentales que los inversores suelen experimentar a la hora de llevar a cabo sus inversiones, e intenta atenuarlos con el objetivo de no dejarse llevar por las emociones.

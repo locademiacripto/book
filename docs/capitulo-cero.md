@@ -25,7 +25,7 @@ La finalidad de invertir en criptomonedas puede abrir distintas posibilidades:
 - Liquidez internacional (paso dólares a una billetera virtual para enviarle dinero a cualquier persona del mundo, sin tener que pedirle permiso a nadie)
 - Menor inflación (paso mi dinero local a una moneda fuerte, estable, dolarizada)
 - Prestamos Cripto (pongo mis criptomonedas como garantía y saco préstamos en dólar cripto para re-invertir o retirar en billete físico)
-- Trading (comprar y vender criptomonedas para ganar rendimiento/comisiones por esas operaciones)
+- Trading (comprar y vender criptomonedas para ganar rendimiento/comisiones por esas operaciones). Leer más en [Trading](c/trading.md)
 - Ahorros (poner a trabajar el dinero, para que genere más dinero)
 
 

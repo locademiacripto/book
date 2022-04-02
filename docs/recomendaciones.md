@@ -27,6 +27,8 @@ Ejemplo de gráfico muy simple:
 
 Con este curso, busco introducirte en conceptos del mercado de valores, el estudio de los mismos, donde aprenderás sobre cómo visualizar, marcar, y estudiar un gráfico, y para todo esto usaremos la herramienta **TradingView** que es el sitio web líder en el mundo, además de que ofrece cuentas gratuitas y nos permite estudiar y perderle el miedo a los gráficos sin necesidad de pagar por ello.
 
+- Hablaremos más sobre [TradingView](c/trading.md)
+
 **CoinMarketCup** será tu aliado para investigar los distintos proyectos, analizar su riesgo, analizar cuándo surgieron, qué son, quién los desarrolla, cuál es su sitio web oficial o comunidad oficial detrás de determinado proyecto. 
 
 **Binance** es la empresa más grande del mundo en cuanto a cantidad de usuarios, cantidad de transacciones, y liquidez del mercado. **Huobi** es su competidor más directo, además de tener amplia presencia en países de habla hispana y ha pasado nuestra evaluación de calidad para dar el curso de introducción a las criptomonedas. **Okx** (anteriormente conocido como Okex) es el competidor de Huobi, está haciendo importante carrera para introducirse en el mercado de habla hispana, y para aquellas personas que buscan diversificar, es una importante alternativa. Entre empresas yankis si se quiere decir así, recomendamos **CoinBase** y **FTX**. Ambas presentan excelente reputación y transparencia. Coloqué a **Kucoin**, pues me lo solicitaron varios alumnos, porque se considera Exchange que presenta lindas oportunidades de “gemas”. Veremos este tema más adelante, no te preocupes.
