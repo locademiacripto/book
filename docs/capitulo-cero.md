@@ -54,7 +54,7 @@ Hay una enorme creencia general donde si le mencionas a alguien que tienes cript
 
 En este mundo, puedes ver personas en la calle, quizás pienses que son simples ciudadanos, pero en el fondo de su pieza (donde duermen) tienen una máquina de minería brindando un servicio a la blockchain: minar (encriptar datos), y a cambio de ese servicio, ganan dinero. ¡Es justo!
 
-¡Ampliaremos el tema de la minería en próximos capítulos!
+¡Ampliaremos el tema de la [minería](mineria.md) en próximos capítulos!
 
 Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando. Y la única excepción a esta regla de oro, es que seas un Cripto-Reclutador de LocademiaCripto. 😃
 

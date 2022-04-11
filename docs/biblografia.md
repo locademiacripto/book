@@ -17,3 +17,7 @@ La idea de este documento es citar de forma simple, las distintas fuentes que se
   - Parte de [Kyc](https://www.electronicid.eu/es/blog/post/que-es-kyc-know-customer/es)
 - Oro
   - [Patrón Oro](https://es.wikipedia.org/wiki/Patr%C3%B3n_oro)
+- Stable Coins
+  - [Hilo sobre stables](https://twitter.com/JohnGalt_is_www/status/1512858349628530693)
+- Bridge
+  - [Hilo sobre bridge y ataque a Ronin](https://twitter.com/tobalgarcia_/status/1509331572423602178)

@@ -2,6 +2,11 @@
 
 >La finalidad de este documento es listar los archivos que contiene el repositorio, a fin de evitar que se genere contenido duplicado para los colaboradores que quieran contribuir.
 
+- La carpeta "docs" contiene el índice, es decir, en la url del sitio, el archivo va directo.
+- La carpeta "c" contiene "contenido" específico.
+- La carpeta "u" es para "unidades" (pensando en un curso orientado por unidades de estudio)
+
+
 ```
 .
 └── docs
@@ -15,6 +20,8 @@
     ├── glosario.md (s)
     ├── intro.md (s)
     ├── lecturas.md
+    ├── mineria.md
+    ├── privacidad.md
     ├── recomendaciones.md (s)
     ├── recursos.md (s)
     ├── riesgos.md (s)
@@ -22,12 +29,14 @@
     └── c
         ├── README.md
         ├── bitcoin.md
+        ├── bridge.md
         ├── cefi.md
         ├── defi.md
         ├── fiat.md
         ├── nft.md
         ├── oro.md
         ├── poap.md
+        ├── stable-coins.md
         ├── trading.md
         ├── tradingview.md
         ├── wallets.md

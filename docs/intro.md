@@ -55,7 +55,7 @@ Con una base de datos en Blockchain descentralizada, no existe el error humano. 
 
 ## Llaves Privadas
 
-Dentro de "la cadena de bloques", en lo que es el bloque en sí, donde se almacena cada línea del registro que tiene la transacción (donde dice qué cantidad se mueve, entre otras cosas), hay información encriptada. Esta "encriptación" se realiza con un proceso complejo de resolución de problemas matemáticos... lo que se verá más adelante cuando hablemos de Minería de Criptomonedas.
+Dentro de "la cadena de bloques", en lo que es el bloque en sí, donde se almacena cada línea del registro que tiene la transacción (donde dice qué cantidad se mueve, entre otras cosas), hay información encriptada. Esta "encriptación" se realiza con un proceso complejo de resolución de problemas matemáticos... lo que se verá más adelante cuando hablemos de [Minería](mineria.md) de Criptomonedas.
 
 Lo que hay que destacar en esta parte, es que la encriptación se realiza con llaves públicas y privadas.
 
@@ -71,16 +71,13 @@ Por ejemplo: cuando compramos Bitcoin a una empresa como Binance, estamos pasand
 
 ## Privacidad
 
-¿Te has puesto a pensar en quién sabe qué haces con el dinero?
+- ¿Te has puesto a pensar en quién sabe qué haces con el dinero?
+- ¿Por qué el Estado debe saber todo lo que haces con TU dinero?
+- ¿Quién sabe lo que haces?
+- ¿Usar criptomonedas es ser anónimo y tener máxima privacidad?
 
-Pensemos un segundo una idea ... si en tu billetera tienes una moneda de 1 dólar. Y se la regalas a un desconocido, esa persona luego va, y gasta ese dinero en un kiosko. Estoy seguro que nadie se volverá loco ni nada. Ahora repite el mismo proceso con 1 bitcoin. Al momento que escribo esto, el valor de 1 BTC = 44 mil dólares. La persona que recibió 1 btc, lo cambia por 44 mil dólares, y ... adivina qué. No podrá gastarlo como si nada, de la misma forma que lo hubiese hecho si fuese 1 dólar, ¿por qué?
+>Responderemos a estas cuestiones en la parte de [Privacidad](privacidad.md).
 
-Para empezar, cuando era 1 dólar, la persona que tenía 1 dólar y quería gastarlo era completamente anónima. ¿Razones? Quizás podemos analizar que tenía 1 dólar en efectivo. Y el dinero en efectivo es anónimo ¿verdad? Si quieres comprar una galleta en un kiosko, quien te atiende no te pedirá la identidad. Buen punto.
-
-Ahora bien, y si quiero gastar 1 bitcoin? Serían muchas galletas. Quizás si el kiosko acepta bitcoin no habría problema alguno.
-Los problemas comienzan cuando el dinero es "mucho" y aparecen los intermediarios. Pulpos del sistema tradicional a querer cobrar sus "comisiones" (por existir?).
-
-?>El tema de la privacidad es un súper tema que da para muchas páginas de estudio y supuestos. Quizás tengamos que crear una página dedicada a la privacidad pronto. ¿Lo crees conveniente? [Contanos AQUI](https://github.com/locademiacripto/book/issues/5)
 
 ## KYC
 
@@ -99,6 +96,13 @@ Imaginate que alguien, dentro de una plataforma web, entra a comprar algo y esa 
 Cuando hablamos de descentralización gracias a la cadena de bloques, a poder ser libres y hacer lo que querramos con nuestro dinero, a poder entrar y salir de mercados sin tener que decir quiénes somos, y de dónde sacamos nuestro dinero, nos sentimos realmente LIBRES. El KYC es un límite, es una figura que aparece y nos detiente, ya que nos exige nuestra identidad. Por eso, las personas que persiguen la descentralización en internet "lloran" cuando aparecen KYC en las plataformas web que usan.
 
 Aún hay plataformas libres, por ejemplo las conocidas como DEX, son "exchanges descentralizados". Un icono de éstas es por ejemplo PancakeSwap. Ahí podes intercambiar cualquier criptomoneda SIN verificar tu identidad. Pero... ¿es esto SEGURO? Así como cualquier persona puede entrar, salir, crear una criptomoneda ahí dentro, vender algo como el próximo bitcoin, si te estafan... ¿a quién perseguirás? PIENSALO.
+
+### Cripto Identidad
+Pero el problema del KYC no termina ahí, quienes impulsan la LIBERTAD y la descentralización del dinero se quejan porque las entidades reguladoras, ponen de excusa el tema del lavado de dinero, proteger al usuario contra el terrorismo, la venta de armas el narcotráfico y todas esas pendejadas, y afirman que todo intercambio de dinero debe ser regulado por el Estado.
+
+Recientemente, Abril 2022, el parlamento de la UE está analizando un documento para regular todo el comercio de cripto activos en la Unión Europea, y pone especial énfasis (y presión) sobre las empresas de intercambio cripto, que deben IDENTIFICAR a sus usuarios, y aquí viene lo crítico: quieren que el usuario identifique a las billeteras no custodial. Apunta a identificar a las billeteras frías, entonces si tenes una Cold-Wallet (Trezor, SafePal, o la que sea), para poder hacer envío de dinero a esas billeteras tenes que prestar una declaración jurada donde aceptas que estás enviando dinero a algo de tu propiedad, y de no ser así, tienes que decir de quién es.
+
+>La `regulación 2015/847` es una propuesta de modificación de la regulación que establece normas sobre la información de los pagadores y beneficiarios (ordenantes y beneficiarios para las criptotransacciones), que acompañan a las transferencias de fondos y criptoactivos, con el fin de ayudar a prevenir, detectar e investigar el blanqueo de capitales y la financiación del terrorismo. Ya estaba en vigor para entidades no cripto, lo que se pretende ahora es hacerla extensiva a proveedores de servicios cripto (en adelante, VASPs). - [Ampliar información aquí](https://criscarrascosa.substack.com/p/21-carta-abierta-al-parlamento-europeo)
 
 ***
 
