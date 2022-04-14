@@ -11,3 +11,4 @@ El concepto web3 tiene como objetivo crear una Internet descentralizada, pero se
 ## Lecturas
 
 - [Web 1.0, Web 2.0 & Web3 Explained](https://dev.to/narottam04/web-10-web-20-web-30-explained-591n)
+- [Guía Web 3.0](https://www.cryptonary.com/cryptoschool/guide-web-3-0/)
