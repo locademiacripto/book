@@ -38,3 +38,4 @@ Una lista de palabras con significados cortos, en español. Aquí no habrá tér
 - Due Diligence (DD): término técnico que se puede traducir como "diligencia debida", significa que la gente inteligente toma sus decisiones en base a hechos.
 - Anti Money Laundering (AML): en español "Antilavado de dinero", son regulaciones que evitan que los criminales oculten sus fondos.
 - VASP: proveedores de servicios de activos virtuales
+- CBDC: Central Bank Digital Currency

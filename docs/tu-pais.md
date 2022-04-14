@@ -14,6 +14,8 @@ Volviendo al caos, no puedo en un mismo libro cubrir el caos que generan los gob
 
 Temas de “regulación” de criptomonedas lo analizaremos puntualmente por país en nuestro repositorio libre, donde cada uno puede aportar su grano de arena. Desde ya, que no estoy de acuerdo con la regulación de las criptomonedas. Si bien creo que la palabra “regulación” implica aceptación de que hay o habrá mayor adopción del tema cripto, y por ese lado podría ser positivo, pero habría que ver bien, y analizar bien, qué y cómo quieren regular. Quienes quieren regular. Y por qué.
 
+- Guías _(en PDF)_ de países que tienen regulación cripto: [Coinfirm's Regional Crypto Regulation Guides](https://www.coinfirm.com/crypto-regulations/)
+
 ## Plataforma Local = No necesito justificar nada <!-- {docsify-ignore} -->
 Quería escribir sobre este punto porque muchos me preguntan por qué usar plataformas internacionales, cuando cada país tiene sus plataformas “locales”.
 
