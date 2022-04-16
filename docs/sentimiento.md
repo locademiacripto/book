@@ -11,3 +11,19 @@ Esto se actualiza ahora, HOY estamos así:
 ## Cambio distributivo en Binance
 
 Si vamos al "Resumen de Mercados" en la sección [Mercados de Binance](https://www.binance.com/es/markets) veremos en tiempo real si el sentimiento es negativo (que el precio baja) o positivo (que el precio subirá). Pocas veces es neutral (que lateraliza)
+
+## Analizador de Criptomonedas
+
+La plataforma de análisis técnico por definición es TradingView, la misma tiene un sector en cada análisis de criptomonedas, que te da una forma de "señal técnica", de 5 niveles:
+
+- Compra
+- Compra Fuerte
+- Neutral
+- Venta
+- Venta Fuerte
+
+Un ejemplo del Crypto Screener:
+
+![](assets/img/indicador-compra-venta.png)
+
+El ["Crypto Screener" podemos verlo aquí](https://es.tradingview.com/crypto-screener/?share_your_love=waldd0), y en esta sección está la columna "Rating Técnico".
