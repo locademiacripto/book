@@ -4,7 +4,9 @@ Cuando hacemos análisis del mercado, siempre es importante tener en cuenta cier
 
 ## Miedo y Codicia
 
-<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" />
+Esto se actualiza ahora, HOY estamos así:
+
+<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" title="Indicador de miedo o codicia" />
 
 ## Cambio distributivo en Binance
 
