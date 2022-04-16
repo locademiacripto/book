@@ -1,18 +1,3 @@
 # Hola
 
 No deberías estar leyendo, este archivo solo sirve de acceso rápido a ciertos códigos
-
-## Ignorar
-
-<!-- {docsify-ignore} -->
-
-## Botón
-
-<section class='cover show' style='height: auto; width: auto;'>
-<div class='cover-main'>
-<!-- [ORO](/c/oro.md) -->
-<p><a href='#/c/oro'>ORO</a></p>
-</div>
-</section>
-
-## Regulación :id=regulacion
