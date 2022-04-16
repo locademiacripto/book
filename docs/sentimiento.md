@@ -2,11 +2,18 @@
 
 Cuando hacemos análisis del mercado, siempre es importante tener en cuenta ciertas páginas que nos brindan una suerte de indicadores del sentimiento del mercado. Así podemos saber cómo "siente" o cómo "ve" el mercado bajo una teoría de grandes números.
 
+En esta página analizaremos indicadores de emociones. Por eso se dice que es un sentimiento de mercado, estas son emociones. En muchas oportunidades veremos que el mercado se comporta en contra de la lógica. Por más que los indicadores técnicos, por estudios matemáticos, proyecciones basadas en hechos históricos, demuestren que el mercado se tendría que comportar de otra forma, en muchas oportunidades veremos que se comporta de forma irracional. Es culpa de los sentimientos del mercado.
+
 ## Miedo y Codicia
+
+- FEAR = Miedo
+- GREED = Codicia
 
 Esto se actualiza ahora, HOY estamos así:
 
-<img src="https://alternative.me/crypto/fear-and-greed-index.png" alt="Latest Crypto Fear & Greed Index" title="Indicador de miedo o codicia" />
+<img src="https://alternative.me/crypto/fear-and-greed-index.png" width="200" height="200" alt="Latest Crypto Fear & Greed Index" title="Indicador de miedo o codicia" />
+
+¿Cómo se lee ésto? Por lo general, cuando hay "miedo" en el mercado, los precios bajan. Esto es así porque muchas personas por el miedo, venden. En cambio, cuando hay mucha codicia, las personas compran. Incluso cuando estamos en precios máximos, los niveles de codicia son más altos, y la gente sigue comprando (en contra de toda lógica). 
 
 ## Cambio distributivo en Binance
 
