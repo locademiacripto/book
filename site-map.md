@@ -25,6 +25,7 @@
     ├── recomendaciones.md (s)
     ├── recursos.md (s)
     ├── riesgos.md (s)
+    ├── sentimiento.md
     ├── tu-pais.md (s)
     └── c
         ├── README.md

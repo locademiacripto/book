@@ -14,3 +14,5 @@ No deberías estar leyendo, este archivo solo sirve de acceso rápido a ciertos 
 <p><a href='#/c/oro'>ORO</a></p>
 </div>
 </section>
+
+## Regulación :id=regulacion
