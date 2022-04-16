@@ -11,7 +11,7 @@ En esta página analizaremos indicadores de emociones. Por eso se dice que es un
 
 Esto se actualiza ahora, HOY estamos así:
 
-<img src="https://alternative.me/crypto/fear-and-greed-index.png" width="200" height="200" alt="Latest Crypto Fear & Greed Index" title="Indicador de miedo o codicia" />
+<img src="https://alternative.me/crypto/fear-and-greed-index.png" width="500" height="500" alt="Latest Crypto Fear & Greed Index" title="Indicador de miedo o codicia" />
 
 ¿Cómo se lee ésto? Por lo general, cuando hay "miedo" en el mercado, los precios bajan. Esto es así porque muchas personas por el miedo, venden. En cambio, cuando hay mucha codicia, las personas compran. Incluso cuando estamos en precios máximos, los niveles de codicia son más altos, y la gente sigue comprando (en contra de toda lógica). 
 
@@ -31,6 +31,6 @@ La plataforma de análisis técnico por definición es TradingView, la misma tie
 
 Un ejemplo del Crypto Screener:
 
-![](assets/img/indicador-compra-venta.png)
+![](assets/img/indicador-compra-venta.png) { width=50% }
 
 El ["Crypto Screener" podemos verlo aquí](https://es.tradingview.com/crypto-screener/?share_your_love=waldd0), y en esta sección está la columna "Rating Técnico".
