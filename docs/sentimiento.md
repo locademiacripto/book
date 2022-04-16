@@ -31,6 +31,6 @@ La plataforma de análisis técnico por definición es TradingView, la misma tie
 
 Un ejemplo del Crypto Screener:
 
-![](assets/img/indicador-compra-venta.png) { width=50% }
+![Indicador Compra o venta](assets/img/indicador-compra-venta.png)
 
 El ["Crypto Screener" podemos verlo aquí](https://es.tradingview.com/crypto-screener/?share_your_love=waldd0), y en esta sección está la columna "Rating Técnico".
