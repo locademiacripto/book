@@ -20,7 +20,7 @@ Amigarte con tu correo electrónico cambiará mucho de tu organización digital,
 Por supuesto en el Internet, puedes encontrar otras herramientas gratuitas para hacer este tema de los recordatorios, si ya posees un poco de más experiencia o quieres hacer un uso más avanzado del tema organización digital, yo siempre uso [TRELLO](https://trello.com/os_/recommend). 
 
 ### Tu seguridad digital
-Y aquí, ATENCIÓN máxima, porque no es una cuestión menor, viviendo en un mundo digital, la seguridad también será digital. ¿Qué hacemos para protegernos? Son cinco los pasos básicos que debes dominar para sentirte seguro, y ya hablé de esto en este artículo: “Cinco (5) claves para la seguridad digital” (Lectura recomendada en el enlace previo)
+Y aquí, ATENCIÓN máxima, porque no es una cuestión menor, viviendo en un mundo digital, la seguridad también será digital. ¿Qué hacemos para protegernos? Son cinco los pasos básicos que debes dominar para sentirte seguro, y ya hablé de esto en este artículo: “[Cinco (5) claves para la seguridad digital](https://www.locademiadigital.com/2021/06/5-claves-seguridad-digital.html)” (Lectura recomendada en el enlace previo)
 
 Hay cinco puntos clave que debes dominar antes de seguir sumergiéndote en el universo cripto
 
