@@ -61,7 +61,7 @@ Son usados para reunir a aquellos que necesitan recursos financieros con aquello
 
 ### Mercado de Capitales
 
-Nos concentremos rápido en el autmento del capital.
+...
 
 ## CNV
 

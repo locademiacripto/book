@@ -21,6 +21,7 @@
     ├── intro.md (s)
     ├── lecturas.md
     ├── mineria.md
+    ├── oportunidad.md (s)
     ├── privacidad.md
     ├── recomendaciones.md (s)
     ├── recursos.md (s)
@@ -48,8 +49,9 @@
         ├── capitulo1.md
         └── capitulo2.md
     └── binance
-        ├── README.md
-        └── binance-p2p.md
+        ├── binance-bot.md
+        ├── binance-p2p.md
+        └── README.md
 .
 └── pdf (proyectado)
 
