@@ -22,7 +22,7 @@ Seas del país que seas, salvo que en tu país la economía esté 100% dolarizad
 Pues, una de las principales críticas que los clásicos tienen cuando leen sobre criptomonedas es: "NO tienen respaldo, se van a cero".
 
 Entonces, puntos que debemos entender:
-- Las criptomonedas SI tienen respaldo
+- Las criptomonedas [SI tienen respaldo](../intro.md#respaldo)
 - La moneda digital de tu país NO tiene respaldo (salvo me digas que tú confías en los políticos, por el hecho de ser políticos)
 
 
