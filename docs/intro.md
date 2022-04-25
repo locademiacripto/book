@@ -1,3 +1,21 @@
+# Criptomonedas
+
+- Qué es una criptomoneda
+- Quién o qué respalda las criptomonedas
+
+## Respaldo
+
+Antes de hablar del respaldo en criptomonedas, dale una leída al tema [RESPALDO de tu dinero físico](c/fiat.md#respaldo). Quizás creas que alguien o algo físico respalda el dinero que tienes en tu banco o en tu billetera. El papel moneda.
+
+Las criptomonedas, bajo ellas, tiene un sistema que les da origen. Funcionan bajo una tecnología. Habrá variaciones, cada criptomoneda presentará su propio proyecto y sistema. Y así habrá criptomonedas que dependen de una empresa (por ejemplo la cripto BNB _-Binance coin_, dependerá de la empresa Binance), otras en cambio no dependen de ninguna empresa, son descentralizadas, por ejemplo Bitcoin o bien la llamada Ethereum. 
+
+Atrás de Bitcoin no hay empresa, no hay "jefe", ni "director", ni "creador". Es una criptomoneda 100% libre, no depende de nadie. Vive gracias a un sistema programado por miles de personas (quizás millones), cualquier persona puede ver el código del sistema, bajarlo, probarlo, y proponerle cambios. Si los miles de desarrolladores están de acuerdo, se crea un sistema mejor, sino, tus cambios no pasarán.
+
+Pero... entonces, ¿quién respalda las criptomonedas?
+En términos simples, un programa informático. Un SISTEMA.
+
+***
+
 # El Universo Cripto y el Planeta Tierra
 
 El universo es infinito, cualquier universo, hay más de los que tú conoces! Aquí usaré analogía con la astronomía (y capaz no compartas conmigo la pasión por el espacio y las estrellas), pero es para entender a dónde estamos parados, y cómo mirar más allá de lo que entendemos.
