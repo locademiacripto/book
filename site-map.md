@@ -20,6 +20,7 @@
     ├── glosario.md (s)
     ├── intro.md (s)
     ├── lecturas.md
+    ├── locamision.md
     ├── mineria.md
     ├── oportunidad.md (s)
     ├── privacidad.md
