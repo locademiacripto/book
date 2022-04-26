@@ -10,7 +10,7 @@ Se generará contenido en distintas redes, de ese contenido generado, se deberá
 
 ## SPONSORS
 
-Si brindas servicios relacionados a las criptomonedas, servicios profesionales de negocios, tenes un negocio, o lo que sea que quieras promocionar, podemos mencionar a tu empresa en los sorteos. Podes [mandarme un privado ahora mismo](/docs/README.md#contacto).
+Si brindas servicios relacionados a las criptomonedas, servicios profesionales de negocios, tenes un negocio, o lo que sea que quieras promocionar, podemos mencionar a tu empresa en los sorteos. Podes [mandarme un privado ahora mismo](/README.md#contacto).
 
 ***
 
