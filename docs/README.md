@@ -13,7 +13,8 @@ Quiero que aprendas el “tema cripto”, mi deseo es que no te sientas solo en 
 
 ?> Mi misión creando “LocademiaCripto” es darle la posibilidad a las personas de conocer y apasionarse por el universo de las criptomonedas. Después el “uso” que le vaya a dar cada persona, es algo particular. Tú eres el dueño de tus decisiones, hazte responsable; y usa el dinero de forma inteligente. No se lo regales a nadie, _¡tampoco a tu gobierno!_
 
-Podes ponerte en contacto directamente conmigo a través de Telegram, mi “alias” y arroba es [@WaLddo](https://t.me/walddo) y el del canal principal: [@LocademiaCripto](https://t.me/LocademiaCripto) - O si deseas comunicarme algo más formal, por correo electrónico directamente a _hola@locademiadigital.com_ o bien con el formulario de contacto aquí: https://www.locademiadigital.com/p/contacto.html
+### Contacto
+Podes ponerte en contacto directamente conmigo a través de Telegram, mi “alias” y arroba es [@WaLddo](https://t.me/walddo) y el del canal principal: [@LocademiaCripto](https://t.me/LocademiaCripto); también a través de [Twitter: @LocademiaCripto](https://twitter.com/LocademiaCripto) - O si deseas comunicarme algo más formal, por correo electrónico directamente a _hola@locademiadigital.com_ o bien con el formulario de contacto aquí: https://www.locademiadigital.com/p/contacto.html
 
 
 ## LocademiaCripto

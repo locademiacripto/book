@@ -8,6 +8,10 @@ Se generará contenido en distintas redes, de ese contenido generado, se deberá
 - Aumentar seguidores en [Twitter](https://twitter.com/LocademiaCripto) y [YouTube](https://youtube.com/LocademiaCripto).
 - Aumentar los lectores del sitio web "[LocademiaDigital.com](https://www.locademiadigital.com)"
 
+## SPONSORS
+
+Si brindas servicios relacionados a las criptomonedas, servicios profesionales de negocios, tenes un negocio, o lo que sea que quieras promocionar, podemos mencionar a tu empresa en los sorteos. Podes [mandarme un privado ahora mismo](/docs/README.md#contacto).
+
 ***
 
 ## ¿Qué es esto?
@@ -29,9 +33,9 @@ Los Lunes, sería el día 1, y el día Sábado o Domingo (a más tardar) se deti
 
 Al lunes siguiente, volver a publicar una nueva misión. 
 
-### Misiones pasadas
+### Misiones activas
 
-- LocaMision1: 25 de Abril - Ganador/a: 
+- LocaMision1: _próximamente_ - Ganador/a: _próximamente_ 
 
 ## Condiciones :id=tyc
 - Ser seguidor de las redes sociales oficiales de LocademiaCripto, listadas aquí: https://lnk.bio/LocademiaCripto
@@ -52,3 +56,6 @@ Al lunes siguiente, volver a publicar una nueva misión.
   - etc
 - Merchandising (el problema es el envío internacional, aunque podría sortear ésto para los de Argentina)
 
+***
+
+_Esta página aún está en redacción y se está depurando todo, si tenes alguna idea de lo que puede ser la próxima misión, si queres participar como SPONSOR, podes enviarme un mensaje privado por Twitter, o bien, en Telegram_
