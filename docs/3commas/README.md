@@ -10,9 +10,10 @@ La interfaz está orientada a usuarios novatos, sin embargo, aún si eres nuevo 
 
 > Es una plataforma web que lleva buen tiempo y reputación en el mercado. Puedes comprobarlo haciendo tu propia investigación.
 
-En sí misma, 3commas es una plataforma. Su página oficial es https://3commas.io
+En sí misma, 3commas es una plataforma integradora para operar con criptomonedas, ya sea HODL (comprar para mantener a largo plazo) o bien trading. La plataforma en sí misma NO guarda tus criptomonedas, sino que se conecta a las demás empresas de intercambio ofreciendote una experiencia distinta y simplificada.
 
 Posee apps oficiales para móviles. Si eres nuevo, te recomiendo comenzar dominando el sitio web.
+
 En este curso de LocademiaCripto, las capturas de pantalla y los enlaces de referencia serán para profundizar el sitio web, y sacarle el máximo jugo posible.
 
 ## Por qué
