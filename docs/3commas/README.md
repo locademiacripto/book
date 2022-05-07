@@ -1,5 +1,7 @@
 # 3commas
 
+> Me gusta presentar 3commas como una web que ofrece **"TODO en UNO"**.
+
 Con 3commas podemos manejar todas las cuentas de los exchanges desde una misma pantalla. Basta de entrar y salir de sesiones, basta de contraseñas múltiples. La interfaz de esta plataforma te permite hacer trading de forma inteligente, y además, podes activar (o desactivar) robots automáticos, muchos de ellos gratuitos -que vos mismo configuras al máximo, otros se pueden comprar para que respondan a señales de sitios web que se dedican a análisis del mercado.
 
 La interfaz está orientada a usuarios novatos, sin embargo, aún si eres nuevo en el mundo de las criptomonedas, vas a necesitar una mano. Por ello, estoy aquí dando inicio al curso gratis sobre 3commas en español. Ayudame con la difusión de este enlace, así más personas pueden nutrirse de estos conocimientos sin pagar nada.
