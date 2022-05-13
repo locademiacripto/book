@@ -39,9 +39,13 @@ Paso por paso, más simple de lo que crees!
 
 Los siguientes pasos, creación de cuenta, conectar la exchange, y comenzar a operar todo te guío a través de sesiones semanales, particulares, uno a uno conmigo. Nadie más, sin publicidad, sin engaños, y todo en español.
 
-### Más info pronto
+## Binance + 3commas
 
-Esta página se está actualizando e irá sumando enlaces para ampliar el paso a paso anterior.
+Si no tienes cuenta en Binance, te ofrezco un paquete de descuentos exclusivo:
 
-Habrá videos, así que si aún no estás suscripto, sumate al canal de [YouTube: LocademiaCripto](https://youtube.com/LocademiaCripto) (y activa la campanita de notificaciones)
+- Invitación Plus de LocademiaCripto a Binance: https://bit.ly/LocaBinance
+- Invitación Recargada a 3commas: https://bit.ly/3criptos
 
+Si usas este pack (ambos enlaces), y creas tus cuentas, te ayudo paso por paso a unirlas para disfrutar de todo el poder de Binance a través de herramientas de trading inteligente, y BOTs automáticos que ofrece 3Commas. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/walddo) para coordinar conmigo las clases particulares a través de Meet o Zoom.
+
+![](../assets/img/binance-3commas.png)
