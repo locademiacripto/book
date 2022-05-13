@@ -21,9 +21,7 @@ Aquí, en **LocademiaCripto** siempre tratamos de ofrecer información ya "masti
 
 ?> Esta página se actualizará a medida que las **cripto-oportunidades** aparecen
 
-- **Binance** (CeFi): envías 1 centavo de BUSD o USDT ($ 0,01) a otro usuario de Binance, y Binance te regala un voucher por igual valor o hasta 777 BUSD. Requisito: [Tener cuenta de [Binance](https://bit.ly/LocaBinance) gratuita, última versión de la app móvil, y enviar al menos $ 0,01] - [Leer cómo funciona](https://t.me/LocademiaCripto/7115). - `Vencimiento: 08 de Mayo (11:59 PM (UTC))`.
-- **Anchor Protocol** (DeFi): ofrece entre 15% y 20% de interés anual a cambio de tu dinero. Requisito: stake de `UST`. No hay mínimos, ni máximos, y por ahora, no hay periodo de vencimiento. [Verificar aquí cuánto paga](https://app.anchorprotocol.com/earn) ahora mismo.
-  - [Cómo llevar desde USDT (red trx) a UST (red terra), para poner en Anchor Protocol](https://twitter.com/LocademiaCripto/status/1516995703393951747?s=20&t=QWWAV8Jc3kN7C9ZMMtCCdA) - Les cuento mi propia experiencia para llevar USDT a UST, y poner a trabajar esos cripto dólares en Anchor Protocol.
+- **3commas** ofrece una sola plataforma web (o app móvil) para trabajar con los principales exchanges del mundo. Con [este enlace especial](3commas/README.md#empezar) tienes acceso al 50% de descuento en tu primer año de suscripción, o bien tres días gratis.
 
 
 
