@@ -27,14 +27,15 @@ Sumándote a tu primer plan anual, te regalo 50% de descuento en el plan que eli
 
 ## Empezar
 
-Paso por paso, directo al tema:
+Paso por paso, más simple de lo que crees!
 
-1. Crear cuenta en 3commas; aquí te doy dos opciones más:
+1. Me seguis en Twitter: https://twitter.com/LocademiaCripto y en YouTube: https://youtube.com/LocademiaCripto
+2. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/walddo), que te vas a sumar a 3commas con esta invitación exclusiva del 50% de descuento en tu primer año.
+3. Crear cuenta en 3commas; aquí te doy dos opciones más:
    - Puedes crear la cuenta sin pagar nada con [este enlace](https://3commas.io/?c=cripto), y tienes 3 días gratis con súper poderes (plan PRO)
    - Puedes crear la cuenta sin pagar nada con [este enlace](https://3commas.io/?c=cripto), y tienes 50% de descuento en tu primer plan anual (el plan que elijas)
-2. Crear la conexión al exchange
-3. Conectar 3commas al exchange
-4. Decidir cómo operar
+
+Los siguientes pasos, creación de cuenta, conectar la exchange, y comenzar a operar todo te guío a través de sesiones semanales, particulares, uno a uno conmigo. Nadie más, sin publicidad, sin engaños, y todo en español.
 
 ### Más info pronto
 
@@ -42,4 +43,3 @@ Esta página se está actualizando e irá sumando enlaces para ampliar el paso a
 
 Habrá videos, así que si aún no estás suscripto, sumate al canal de [YouTube: LocademiaCripto](https://youtube.com/LocademiaCripto) (y activa la campanita de notificaciones)
 
-Si te has registrado con mi enlace de descuento especial, mandame ya mismo un privado vía [Telegram](https://t.me/walddo) o bien, por [Twitter](https://twitter.com/LocademiaCripto), así te guío de forma particular con lo que vayas a necesitar hacer.
