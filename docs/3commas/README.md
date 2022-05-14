@@ -74,4 +74,4 @@ Indice de temas a ver en la lista de YouTube (cuando tengan enlaces, es que los 
   - Smart Trading (trading inteligente)
   - Grid Bots
 
->Si ya tenes cuenta en 3Commas y queres recomendar o solicitar un tema, tenes dudas, algún problema, podes [comentar aquí]((https://youtu.be/tnvAPUgtKYI)) y se te responderá a la brevedad; y si es algo urgente, contactame por [Telegram @WaLddo](https://t.me/walddo).
+>Si ya tenes cuenta en 3Commas y queres recomendar o solicitar un tema, tenes dudas, algún problema, podes [comentar aquí](https://youtu.be/tnvAPUgtKYI) y se te responderá a la brevedad; y si es algo urgente, contactame por [Telegram @WaLddo](https://t.me/walddo).
