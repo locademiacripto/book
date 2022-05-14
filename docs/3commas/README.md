@@ -58,7 +58,7 @@ El curso gratis es particular, es decir, tú y yo. Nadie más. A tu ritmo.
 
 En la lista de videos de YouTube: "[3Commas desde cero](https://www.youtube.com/playlist?list=PLzQ2nY1vA4kKTUpevnVk98pX1VX3E8ZuE)" se publican video tutoriales informativos con contenido muy importante, pero no necesariamente es el mismo contenido que se da a quienes obtienen el beneficio de las clases gratuitas de 3Commas.
 
-### RoadMap del curso
+#### RoadMap de la lista en YouTube :id=youtube
 
 Indice de temas a ver en la lista de YouTube (cuando tengan enlaces, es que los videos están publicados y listos para disfrutar)
 
