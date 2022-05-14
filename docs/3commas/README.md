@@ -39,7 +39,7 @@ Paso por paso, más simple de lo que crees!
 
 Los siguientes pasos, creación de cuenta, conectar la exchange, y comenzar a operar todo te guío a través de sesiones semanales, particulares, uno a uno conmigo. Nadie más, sin publicidad, sin engaños, y todo en español.
 
-## BONUS PACK: 3Commas + Binance :id=binance
+## BONUS PACK: 3Commas + Binance :id=binance {docsify-ignore
 
 Si no tienes cuenta en Binance, te ofrezco un BONUS Pack de descuentos exclusivo:
 
