@@ -8,14 +8,20 @@ _Aquí iré publicando puntos relevantes a Binance_
 
 ## Lecturas
 
+- [Por qué elegir Binance](https://www.locademiadigital.com/2020/09/por-que-binance.html)
+- [Comisiones de Binance versus la empresa que quieras](https://www.locademiadigital.com/2022/05/comisiones-binance-vs-competencia.html)
 - [Cómo ver el Binance ID](https://www.locademiadigital.com/2022/01/como-visualizar-binance-id.html)
 - [Qué es la Inversión Dual y cómo funciona](https://www.locademiadigital.com/2022/01/que-es-inversion-dual-como-funciona.html)
+- [Cómo ser cajero o comerciante verificado en Binance](https://www.locademiadigital.com/2022/03/como-ser-cajero-binance.html)
 - [Binance: Modo ahorro](https://www.locademiadigital.com/2021/10/binance-savings.html)
 - [Cómo contactar con Binance](https://www.locademiadigital.com/2021/04/como-contactar-binance.html)
+- [Guía: Trading Futuros](https://www.locademiadigital.com/2022/03/trading-futuros-binance.html)
 
 ## Binance P2P
 
-- [Comerciante por bloques](https://www.binance.com/es-LA/blog/p2p/lo-que-debes-saber-sobre-el-comercio-en-bloque-421499824684903353)
+- Cómo comprar en Binance P2P
+- Cómo vender en Binance P2P
+- Qué es la triangulación bancaria en P2P
 
 ***
 

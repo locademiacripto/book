@@ -63,7 +63,7 @@ En la lista de videos de YouTube: "[3Commas desde cero](https://www.youtube.com/
 Indice de temas a ver en la lista de YouTube (cuando tengan enlaces, es que los videos están publicados y listos para disfrutar)
 
 - [3Commas en Español: Bonus Pack](https://youtu.be/tnvAPUgtKYI)
-- 3Commas desde cero
+- [3Commas: Registro y configuración](https://youtu.be/oDMwU_26cqI)
   - Cómo me registro
   - Qué configuro después (seguridad)
 - Cómo elegir el plan que es adecuado para mi
