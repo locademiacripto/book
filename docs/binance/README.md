@@ -2,6 +2,10 @@
 
 _Aquí iré publicando puntos relevantes a Binance_
 
+## Video Tutoriales
+
+- Listado completo: [Binance desde cero](https://www.youtube.com/playlist?list=PLzQ2nY1vA4kKaDeQHxoTaW9RDZh4n4UVk)
+
 ## Lecturas
 
 - [Cómo ver el Binance ID](https://www.locademiadigital.com/2022/01/como-visualizar-binance-id.html)

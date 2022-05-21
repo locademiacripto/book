@@ -11,6 +11,7 @@ El "**sé tu propio banco**" se logra cuando entiendes que puedes almacenar tu d
 Te recomiendo leer: [¿Billeteras para Criptomonedas?](https://www.locademiadigital.com/2017/12/wallet-billetera-o-monedero.html)
 
 Es muy importante que comprendas los conceptos que se explico en ese artículo.
+Si algo no se entiende, por favor, [dímelo ahora](https://t.me/WaLddo).
 
 ## Llaves privadas
 
@@ -21,6 +22,17 @@ Cuando estamos en presencia de criptomonedas, cualquiera sea, trabaja con una te
 !> **PELIGRO:** Si usted, comparte sus "palabras clave" ya sea a una persona física, a una persona virtual, o bien en un sitio web, la persona que recibe esta información puede en menos de un minuto, entrar a su billetera, sacar todos sus fondos, y no habrá forma de recuperar dicho dinero.
 
 La mejor analogía para representar este tema, es que pienses que estás regalandole una copia exacta de las llaves de tu casa, a un desconocido. ¿Para qué lo haces? Si después el descocido va a tu casa, entra y la vacía, no podrás culpar a la policía, ni al banco, ni a la aseguradora de tu hogar, porque tú mismo le dista las llaves de tu casa a un desconocido.
+
+## SEGURIDAD
+
+Una vez leí un usuario que decía:
+>Es muy peligroso dar la dirección de la walet privada a un desconocido porque te la pueden hackear 
+>Es recomendable dar dirección de un exchange
+
+Esto no es verdad. Dar una "dirección de wallet" no es peligroso, ni inseguro.
+Le consulté al usuario a qué se refería y me explicó que conoce personas que han recibido criptomonedas en sus wallets, y que después han sido hackeadas al querer usar esas criptomonedas. He ampliado este tema en el apartado de [ESTAFAS:Monedas](../estafas.md#monedas), recomiendo darle una leída.
+
+
 
 ## Hardware Wallets
 
