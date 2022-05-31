@@ -13,7 +13,7 @@ Quiero que aprendas el “tema cripto”, mi deseo es que no te sientas solo en 
 
 ?> Mi misión creando “LocademiaCripto” es darle la posibilidad a las personas de conocer y apasionarse por el universo de las criptomonedas. Después el “uso” que le vaya a dar cada persona, es algo particular. Tú eres el dueño de tus decisiones, hazte responsable; y usa el dinero de forma inteligente. No se lo regales a nadie, _¡tampoco a tu gobierno!_
 
-### Contacto
+## Contacto :id=contacto
 Podes ponerte en contacto directamente conmigo a través de Telegram, mi “alias” y arroba es [@WaLddo](https://t.me/walddo) y el del canal principal: [@LocademiaCripto](https://t.me/LocademiaCripto); también a través de [Twitter: @LocademiaCripto](https://twitter.com/LocademiaCripto) - O si deseas comunicarme algo más formal, por correo electrónico directamente a _hola@locademiadigital.com_ o bien con el formulario de contacto aquí: https://www.locademiadigital.com/p/contacto.html
 
 
@@ -52,6 +52,11 @@ Se actualizarán distintas versiones en la parte de [RELEASE](https://github.com
 ¿Por dónde arrancar? Esta es una pregunta válida en un mar de temas tan profundo.
 
 Junto con distintos colaboradores de LocademiaCripto, buscamos presentar este sitio como una guía fácil para que cualquier persona sin conocimientos en informática ni finanzas pueda entender y poder sumergirse en el mar de conocimientos sobre criptomonedas.
+
+Hay dos reglas de ORO que se aplican en todo lo que estás por estudiar:
+
+- "Haz tu propia investigación" (esto se conoce como DYOR: Do Your Own Research)
+- "NO CONFIES EN NADA ni en NADIE, VERIFICA"
 
 Podes comenzar por donde quieras, al costado izquierdo el sitio tiene un buscador, y podes buscar por la palabra que quieras. También tenes un menú izquierdo, con temas principales, dandole cierto "orden" de lectura.
 

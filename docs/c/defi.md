@@ -1,6 +1,10 @@
 # DeFi
 
-Finanzas Descentralizadas
+>Finanzas Descentralizadas
+
+- "Si algo se puede romper, se va a romper"
+- Siempre analizar de dónde viene la rentabilidad que promete una dApp.
+- 
 
 ## Bridges
 
