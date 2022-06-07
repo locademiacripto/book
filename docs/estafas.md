@@ -53,6 +53,19 @@ No hay nada imposible en Internet. Justamente por esta "libertad" donde la imagi
 
 Entonces, yo (mientras escribo esto), puedo existir en otro lugar en el Internet. Tú, lector, mientras me lees ahora, podrías estar 10 veces más repartido por otras redes sociales. De ahí la importancia de la verificación de identidad online, todo un campo de estudio a nivel tecnología, donde la cadena de bloques también está estudiando cómo solucionar este problema de la "duplicación de identidad" más conocido como clones.
 
+## Recuperar dinero
+
+Aquí entran en juego varios factores, y no puedo afirmar que en todos los casos es posible recuperar el dinero. Pero sí, hay probabilidades de recuperar el dinero cuando la empresa en la que invertimos aún tiene su sitio web activo, y se cumplen una serie de condiciones.
+
+He atendido numerosos casos. No se puede generalizar, cada caso es particular.
+
+Depende MUCHO de cómo hayas sido estafado y de tu manera de reaccionar ante la estafa.
+
+Si después de que te diste cuenta que has sido estafado, inmediatamente acusas a la persona de estafador, estás poniéndote un cartel de que ya te has dado cuenta, si bien el estafador no podrá sacarte más dinero, también le estás dando la señal de HUIR y CAMUFLARSE. De esta forma el estafador, borra todo, cubre sus huellas, y desaparece en el Internet para nunca más volver sobre su víctima (que eres tú). Si es tu caso, ya es imposible encontrar al estafador para cazarlo.
+
+Distinto es cuando la víctima detecta que ha sido estafada, y sigue su juego… sin dar más dinero, pero ya me contacta para que con el grupo podamos "cazar" al estafador. Ahí hay más chances de recuperar dinero. Si es tu caso, mandame un privado con el caso completo y lo estudiamos.
+
+
 ## Directorio de Estafas
 
 > [Listado de sitios web de Fraudes y Estafas](https://www.locademiadigital.com/p/scam-alert.html)

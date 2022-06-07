@@ -25,7 +25,7 @@ Si estás decidido a invertir poco capital en el mundo de las criptomonedas, en 
 Con 3commas, **todos los exchanges estan en una sola página web**. De hecho, puedes ver en tiempo real cómo te está yendo con cada operación, sin importar si es SPOT, Futuros, o un Grid Bot. Sin importar en qué exchange estés trabajando.
 
 En este curso cubriré todo lo que puedes hacer con 3commas, y cómo hacerlo.
-Sumándote a tu primer plan anual, te regalo 50% de descuento en el plan que elijas, más consultas ilimitadas conmigo a través de Telegram.
+Sumándote a tu primer plan anual, [te regalo 50% de descuento en el plan que elijas](https://3commas.io/?c=cripto), más consultas ilimitadas conmigo a través de Telegram.
 
 ## Empezar
 
