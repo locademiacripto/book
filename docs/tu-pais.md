@@ -1,6 +1,6 @@
 # Tu país
 
-Tu país = Tu caos
+Tu país + [Tu moneda](c/fiat.md) = Tu caos
 
 Las criptomonedas surgen SIN jurisdicción. Nacen en Internet, libres de las manos de los políticos, de los gobiernos, de los bancos, etcétera. 
 
