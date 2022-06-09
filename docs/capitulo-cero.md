@@ -63,6 +63,10 @@ Este ebook y su contenido es absolutamente gratis, no se exige ninguna contribuc
 
 Si alguien te vendió este libro, lamento mucho que lo hayas pagado. Su contenido es gratuito. Ahora has aprendido la lección de no creer en lo que alguien en internet te habrá dicho para venderte el contenido de este libro.
 
+>Cuidado si buscas "cómo ganar dinero" en internet
+
+Automáticamente pasas a estar en la lista de las personas a quienes les interesa el tema dinero en internet, y te llegará mucha publicidad sobre cómo hacer dinero. Cómo ganar dinero, y similares. También recibirás publicidad de sitios donde supuestamente se gana dinero, gurúes de las finanzas que te dicen dónde y cómo debes invertir. CUIDADO!
+
 ## Preguntas Frecuentes
 
 ### ¡No tengo TIEMPO de leer todo esto! 

@@ -1,8 +1,6 @@
 # FIAT
 
-?>Cuando se habla de dinero, siempre es FIAT. Quizás ya es una regla socialmente aceptada. ¿Valida? No por mucho tiempo.
-?>
-?>Hablemos sobre el dinero que emiten los países. Monedas nacionales y soberanas. Bañadas en sangre, bañadas en el sudor de los ciudadanos. Eso sí, ellos nunca sudan, ellos nunca sangran. Ellos son los políticos. Manejan tu vida, tu economía y tu dinero, también tu salud, tus sentimientos, tu imaginación... en fin, te manejan. ¿Queres ser libre? DEJA DE USAR DINERO FIAT!
+?>Cuando se habla de dinero, siempre es FIAT. Quizás ya es una regla socialmente aceptada. ¿Valida? No por mucho tiempo. Hablemos sobre el dinero que emiten los países. Monedas nacionales y soberanas. Bañadas en sangre, bañadas en el sudor de los ciudadanos. Eso sí, ellos nunca sudan, ellos nunca sangran. Ellos son los políticos. Manejan tu vida, tu economía y tu dinero, también tu salud, tus sentimientos, tu imaginación... en fin, te manejan. ¿Queres ser libre? DEJA DE USAR DINERO FIAT!
 
 
 ## ¿Qué es el dinero FIAT?
