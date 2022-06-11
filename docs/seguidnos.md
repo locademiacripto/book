@@ -22,7 +22,6 @@ No te creo nada, si me dices que NO tienes un correo electrónico, porque hoy en
   - [Telegram: LocademiaCripto](https://t.me/LocademiaCripto)
   - [Instagram: LocademiaCripto](https://instagram.com/LocademiaCripto)
   - [Facebook: LocademiaCripto](https://facebook.com/LocademiaCripto)
-  - [Twitter: LocademiaCripto](https://twitter.com/LocademiaCripto)
   - [Twitch: LocademiaCripto](https://twitch.com/LocademiaCripto)
   - [Reddit: LocademiaCripto](https://reddit.com/r/LocademiaCripto)
   - [TikTok: LocademiaCripto](https://tiktok.com/LocademiaCripto)
