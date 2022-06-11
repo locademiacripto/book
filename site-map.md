@@ -22,11 +22,12 @@
     ├── lecturas.md
     ├── locamision.md
     ├── mineria.md
-    ├── oportunidad.md (s)
+    ├── oportunidad.md
     ├── privacidad.md
     ├── recomendaciones.md (s)
-    ├── recursos.md (s)
+    ├── recursos.md
     ├── riesgos.md (s)
+    ├── seguidnos.md (s)
     ├── sentimiento.md
     ├── tu-pais.md (s)
     └── c
