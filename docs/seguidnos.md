@@ -26,3 +26,6 @@ No te creo nada, si me dices que NO tienes un correo electrónico, porque hoy en
   - [Reddit: LocademiaCripto](https://reddit.com/r/LocademiaCripto)
   - [TikTok: LocademiaCripto](https://tiktok.com/LocademiaCripto)
 
+### Mirror
+
+>Misma página: https://www.locademiadigital.com/p/seguidnos.html
