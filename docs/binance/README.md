@@ -1,6 +1,12 @@
 # Binance
 
-_Aquí iré publicando puntos relevantes a Binance_
+Es la plataforma más grande del mundo, no hay discusión sobre éste tema.
+
+- Sumate Gratis con este enlace https://bit.ly/LocaBinance
+- Si te registras con nuestro enlace de invitación, tienes 20% de descuento adicional de por vida en todas las comisiones que vayas a pagar. Y además, acceso VIP a 5 clases particulares 1 a 1 conmigo para que aprendas todo sobre Binance, trading, y criptomonedas.
+- Si usaste este enlace de invitación, enviame un mensaje privado por telegram: [WaLddo](https://t.me/walddo)
+
+¿Quieres comparar comisiones? He comparado comisiones de Binance contra la empresa que quieras... puedes leer aquí la comparación.
 
 ## Video Tutoriales
 
@@ -27,4 +33,4 @@ _Aquí iré publicando puntos relevantes a Binance_
 
 ### Help Wanted! <!-- {docsify-ignore} -->
 
-!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/walddo)
+!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [WaLddo](https://t.me/walddo)
