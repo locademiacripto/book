@@ -6,8 +6,6 @@ Es la plataforma más grande del mundo, no hay discusión sobre éste tema.
 - Si te registras con nuestro enlace de invitación, tienes 20% de descuento adicional de por vida en todas las comisiones que vayas a pagar. Y además, acceso VIP a 5 clases particulares 1 a 1 conmigo para que aprendas todo sobre Binance, trading, y criptomonedas.
 - Si usaste este enlace de invitación, enviame un mensaje privado por telegram: [WaLddo](https://t.me/walddo)
 
-¿Quieres comparar comisiones? He comparado comisiones de Binance contra la empresa que quieras... puedes leer aquí la comparación.
-
 ## Video Tutoriales
 
 - Listado completo: [Binance desde cero](https://www.youtube.com/playlist?list=PLzQ2nY1vA4kKaDeQHxoTaW9RDZh4n4UVk)
