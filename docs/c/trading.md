@@ -20,7 +20,7 @@ Si te vas al mercado no regulado de las criptomonedas, el riesgo es otro, y las 
 
 Volviendo al grano: "Cómo aprender trading nivel principiante"
 
-1. Hacete una cuenta GRATIS en [TradingView](https://bit.ly/LocaTrading)
+1. Hacete una cuenta GRATIS en [TradingView](https://bit.ly/LocademiaCriptoTV)
 2. Elegí el activo que vayan a operar
 3. Definan lo básico de Análisis Técnico (temporalidad, tendencias, soportes, etc)
 4. Elijan 1 día dónde comprarían y a qué precio, marquen eso en el gráfico.

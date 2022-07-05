@@ -80,7 +80,7 @@ Una vez que tenemos una mínima base de dónde estamos, qué queremos, y entende
 
 A modo de repaso, usaremos:
 
-- TradingView: https://bit.ly/LocaTrading
+- TradingView: https://bit.ly/LocademiaCriptoTV
 - CoinMarketCup: https://bit.ly/LocaCoinmarket
 - 2FA: Authy: https://authy.com/download/
 - Binance: https://bit.ly/LocaBinance
@@ -92,7 +92,7 @@ A modo de repaso, usaremos:
 - La que tú propongas para tu caso particular
 
 #### TradingView
-Creando una cuenta con el enlace de LocademiaCripto: https://bit.ly/LocaTrading, te crearás una cuenta gratis y debes seguir mi usuario para estar al tanto de los análisis técnicos que analicemos en las clases y otras novedades.
+Creando una cuenta con el enlace de LocademiaCripto: https://bit.ly/LocademiaCriptoTV, te crearás una cuenta gratis y debes seguir mi usuario para estar al tanto de los análisis técnicos que analicemos en las clases y otras novedades.
 Si decidieras (es opcional) pasar a una cuenta paga, obtendrás un bonus de 30 dólares (únicamente usando nuestro enlace).
 
 Con qué empezaremos de esta plataforma en nuestras charlas!

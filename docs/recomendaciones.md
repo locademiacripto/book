@@ -5,7 +5,7 @@ Es importante que aunque parezca largo y tediosa la lista, les des una mirada an
 
 Herramientas que usaremos en LocademiaCripto
 
-- TradingView: https://bit.ly/LocaTrading
+- TradingView: https://bit.ly/LocademiaCriptoTV
 - CoinMarketCup: https://bit.ly/LocaCoinmarket
 - 2FA: Authy: https://authy.com/download/
 - Binance: https://bit.ly/LocaBinance

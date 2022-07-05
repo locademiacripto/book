@@ -1,6 +1,6 @@
 # Recursos Web
 
-- TradingView: https://bit.ly/LocaTrading
+- TradingView: https://bit.ly/LocademiaCriptoTV
 - CoinMarketCup: https://bit.ly/LocaCoinmarket
 - 2FA: Authy: https://authy.com/download/
 - Binance: https://bit.ly/LocaBinance
