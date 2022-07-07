@@ -1,54 +1,16 @@
 # LocaMisión (Beta)
 
-La idea es tener un sorteo de un `[PREMIO]`, para quienes cumplan las `condiciones` de la `misión`.
+## AirDrop LocademiaCripto: 5 dólares de arriba
 
-Todo será grabado para que quede auditado por la comunidad de LocademiaCripto. Se usarán plataformas de sorteo de terceros. Si alguien no está de acuerdo, puede optar por no participar. No es algo obligatorio.
+En la jerga cripto, se le llama "airdrop" cuando te "cae de arriba" dinero, y generalmente para anotarse a un airdrop tienen que cumplirse ciertas condiciones, aquí van las de LocademiaCripto para esta oportunidad de tiempo limitado:
 
-## Misión
-Cada misión será distinta, para hacerlo más dinámico y que sea como un juego para los seguidores y miembros de LocademiaCripto. 
+- Invitas a tus amigos a Binance con este enlace: https://bit.ly/LocaBinance *(debe estar escrito igual)*.
+- Cada invitado debe comprar al menos 100 dólares en Binance P2P, si tienen dudas pueden evacuar las mismas por privado conmigo ([WaLddo](https://t.me/waLddo)), directo conmigo, le responderé todas las dudas que tenga tu invitado (únicamente si se registró con el enlace).
+- Por cada uno de tus invitados que cumpla (es decir, se registre con el enlace y compre criptomonedas vía Binance P2P mínimo 100 dólares), te daré 5 BUSD directo a tu billetera fondos.
+- Tiempo limitado del airdrop: 31 de Julio 2022 23:59 hs (UTC)
 
-### Cómo se comunica la misión
+Esto significa que si invitas a 100 personas, y las 100 cumplen la condición que les traerá el beneficio de aprender a ahorrar en criptomonedas, aprenderán a comprar cripto, aprenderán a activar el modo ahorro para ganar dinero mientras duermen, y formarán parte de la comunidad más loca de Binance junto con LocademiaCripto, además **tú podrías ganar 500 BUSD (cripto-dólares)!** 
 
-- A través del canal de [Telegram: @LocademiaCripto](https://t.me/LocademiaCripto)
+Mientras más personas invites, más chances tienes de ganar más y más dinero!
 
-La misión la activa únicamente `@WaLddo en el canal de @LocademiaCripto con un HasgTag #LocaMision`, y el sorteo se realiza únicamente si se llegó a la meta que plantea cada misión. De no llegar a la meta para la fecha de vencimiento, la misión se desactiva, y el importe queda guardado para futuros sorteos.
-
-### Misiones activas
-
-- LocaMision1: _próximamente_ - Ganador/a: _próximamente_ 
-
-## Condiciones :id=tyc
-- Ser seguidor de las redes sociales oficiales de LocademiaCripto, listadas aquí: https://lnk.bio/LocademiaCripto
-- Cada semana se publicará la misión. 
-  - Se publicará en Telegram, hashtag: #LocaMision1, #LocaMision2, y así.
-- Si la misión requiere comentarios, el comentario que escribas debe ser relacionado al contenido donde públicas el comentario. Serás eliminado del sorteo si detectamos que tu comentario no cumple estas condiciones.
-- El fin de semana se depurarán los datos y/o participantes.
-- De no haber misión, no habrá sorteo.
-- Si la persona no cumple las condiciones, será eliminado como participante y se re-sorteará el premio.
-
-## PREMIO
-- Se determinará en cada misión.
-- En principio pensaba en lo mínimo que exige Binance, que sería 10 usdt más comisiones; se pagará únicamente vía Binance Pay.
-- Puede que sea premio no monetario
-  - una charla de 1 Hora sobre criptomonedas
-  - un libro de criptomonedas
-  - un curso de criptomonedas
-  - acceso a "x" servicio/producto de `sponsor`
-- Merchandising cripto (únicamente para participantes de Argentina)
-
-## SPONSORS
-
-Si brindas servicios relacionados a las criptomonedas, servicios profesionales de negocios, tenes un negocio, o lo que sea que quieras promocionar, podemos mencionar a tu empresa en los sorteos. Podes [mandarme un privado ahora mismo](/README.md#contacto).
-
-
-***
-
-_Esta página aún está en redacción y se está depurando todo, si tenes alguna idea de lo que puede ser la próxima misión, si queres participar como SPONSOR, podes enviarme un mensaje privado por Twitter, o bien, en Telegram_
-
-Este apartado es para explicar la idea de LocaMisión, su finalidad principal es apalancar el "alcance" orgánico para el contenido que generamos en LocademiaDigital y LocademiaCripto. LLegar a más usuarios, más amigos de amigos, y poder tener mayor sinergia entre personas que desconocen temas de criptomonedas y aquellos que están aprendiendo todos los días al respecto.
-
-Se generará contenido en distintas redes, de ese contenido generado, se deberá cumplir con la misión.
-
-## ¿Cuál es la meta o el objetivo?
-- Aumentar seguidores en [Twitter](https://twitter.com/LocademiaCripto) y [YouTube](https://youtube.com/LocademiaCripto).
-- Aumentar los lectores del sitio web "[LocademiaDigital.com](https://www.locademiadigital.com)"
+¿Alguna duda, comentario o sugerencia? Me envías privado vía Telegram [WaLddo](https://t.me/waLddo), siempre abierto al diálogo.

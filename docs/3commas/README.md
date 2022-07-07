@@ -32,7 +32,7 @@ Sumándote a tu primer plan anual, [te regalo 50% de descuento en el plan que el
 Paso por paso, más simple de lo que crees!
 
 1. Me seguis en Twitter: https://twitter.com/LocademiaCripto y en YouTube: https://youtube.com/LocademiaCripto
-2. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/walddo), que te vas a sumar a 3commas con esta invitación exclusiva del 50% de descuento en tu primer año.
+2. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/waLddo), que te vas a sumar a 3commas con esta invitación exclusiva del 50% de descuento en tu primer año.
 3. Crear cuenta en 3commas; aquí te doy dos opciones más:
    - Puedes crear la cuenta sin pagar nada con [este enlace](https://3commas.io/?c=cripto), y tienes 3 días gratis con súper poderes (plan PRO)
    - Puedes crear la cuenta sin pagar nada con [este enlace](https://3commas.io/?c=cripto), y tienes 50% de descuento en tu primer plan anual (el plan que elijas)
@@ -46,7 +46,7 @@ Si no tienes cuenta en Binance, te ofrezco un BONUS Pack de descuentos exclusivo
 - Invitación Plus de LocademiaCripto a Binance: https://bit.ly/LocaBinance
 - Invitación Recargada a 3commas: https://bit.ly/3criptos
 
-Si usas este pack (ambos enlaces), y creas tus cuentas, te ayudo paso por paso a unirlas para disfrutar de todo el poder de Binance a través de herramientas de trading inteligente, y BOTs automáticos que ofrece 3Commas. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/walddo) para coordinar conmigo las clases particulares a través de Meet o Zoom, que **incluye clases gratis para dominar Binance y complementar con 3Commas**.
+Si usas este pack (ambos enlaces), y creas tus cuentas, te ayudo paso por paso a unirlas para disfrutar de todo el poder de Binance a través de herramientas de trading inteligente, y BOTs automáticos que ofrece 3Commas. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/waLddo) para coordinar conmigo las clases particulares a través de Meet o Zoom, que **incluye clases gratis para dominar Binance y complementar con 3Commas**.
 
 ![](../assets/img/binance-3commas.png)
 
@@ -75,4 +75,4 @@ Indice de temas a ver en la lista de YouTube (cuando tengan enlaces, es que los 
   - Grid Bots
 - Señales profesionales de entrada/salida para los bots
 
->Si ya tenes cuenta en 3Commas y queres recomendar o solicitar un tema, tenes dudas, algún problema, podes [comentar aquí](https://youtu.be/tnvAPUgtKYI) y se te responderá a la brevedad; y si es algo urgente, contactame por [Telegram @WaLddo](https://t.me/walddo).
+>Si ya tenes cuenta en 3Commas y queres recomendar o solicitar un tema, tenes dudas, algún problema, podes [comentar aquí](https://youtu.be/tnvAPUgtKYI) y se te responderá a la brevedad; y si es algo urgente, contactame por [Telegram @WaLddo](https://t.me/waLddo).

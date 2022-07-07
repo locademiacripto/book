@@ -31,7 +31,7 @@ Los líderes de la comunidad tienen el derecho y la responsabilidad de eliminar,
 Este Código de conducta se aplica en todos los espacios comunitarios y también se aplica cuando una persona representa oficialmente a la comunidad en espacios públicos. Los ejemplos de representar a nuestra comunidad incluyen usar una dirección de correo electrónico oficial, publicar a través de una cuenta oficial de redes sociales o actuar como representante designado en un evento en línea o fuera de línea.
 
 ## Denuncias
-Los casos de comportamiento abusivo, acosador o inaceptable se pueden informar a los líderes de la comunidad responsables de la aplicación en [Telegram: @WaLddo](https://t.me/WaLddo). Todas las quejas serán revisadas e investigadas con prontitud y de manera justa.
+Los casos de comportamiento abusivo, acosador o inaceptable se pueden informar a los líderes de la comunidad responsables de la aplicación en [Telegram: @WaLddo](https://t.me/waLddo). Todas las quejas serán revisadas e investigadas con prontitud y de manera justa.
 
 Todos los líderes comunitarios están obligados a respetar la privacidad y seguridad del informante de cualquier incidente.
 
