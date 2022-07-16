@@ -56,7 +56,7 @@ En este mundo, puedes ver personas en la calle, quizás pienses que son simples 
 
 ¡Ampliaremos el tema de la [minería](mineria.md) en próximos capítulos!
 
-Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. **Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando.** Y la única excepción a esta regla de oro, es que seas un Cripto-Reclutador de LocademiaCripto. 😃
+Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. **Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando.** 😃
 
 Y hablando de dinero…
 Este ebook y su contenido es absolutamente gratis, no se exige ninguna contribución monetaria de ningún tipo, podes haberlo bajado de internet, de alguna red social, o te lo pasó un amigo/a por WhatsApp!

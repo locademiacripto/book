@@ -1,7 +1,7 @@
 # TradingView
 
 ## Seguir ideas
-Esta plataforma te brinda la posibilidad de seguir personas, y podrás seguirme para ver los análisis técnicos que comparto para  LocademiaCripto: https://bit.ly/Locademia-AT, con este enlace te crearás una cuenta gratis y podrás seguir mi usuario para estar al tanto de los análisis técnicos que analicemos en las clases y otras novedades.
+Esta plataforma te brinda la posibilidad de seguir personas, y podrás seguirme para ver los análisis técnicos que comparto para  LocademiaCripto: https://bit.ly/LocademiaCriptoTV, con este enlace te crearás una cuenta gratis y podrás seguir mi usuario para estar al tanto de los análisis técnicos que analicemos en las clases y otras novedades.
 
 >Si decidieras (es opcional) pasar a una cuenta paga, obtendrás un bonus de 30 dólares (únicamente usando nuestro enlace).
 
