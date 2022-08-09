@@ -53,7 +53,7 @@
     └── binance
         ├── binance-bot.md
         ├── binance-p2p.md
-        └── README.md
+        └── README.md (s)
     └── 3commas
         ├── descuento.md
         └── README.md

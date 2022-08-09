@@ -5,5 +5,6 @@
   * [Riesgos](riesgos.md)
     * [Estafas](estafas.md)
 * [Tu país](tu-pais.md)
+* [Todo sobre Binance](/binance/)
 * [Todo en uno: 3Commas](/3commas/)
 * [Seguidnos](seguidnos.md)
