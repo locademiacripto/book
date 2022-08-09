@@ -41,12 +41,14 @@ Recibirás un correo electrónico de confirmación, el cual tienes que leer, y h
 - [Binance: Modo ahorro](https://www.locademiadigital.com/2021/10/binance-savings.html)
 - [Cómo contactar con Binance](https://www.locademiadigital.com/2021/04/como-contactar-binance.html)
 - [Guía: Trading Futuros](https://www.locademiadigital.com/2022/03/trading-futuros-binance.html)
+- [Cómo usar Binance P2P y cómo evitar problemas](https://www.locademiadigital.com/2021/05/como-usar-binance-p2p.html)
 
-## Binance P2P
+## [Binance P2P](/docs/binance/binance-p2p.md)
 
 - Cómo comprar en Binance P2P
 - Cómo vender en Binance P2P
 - Qué es la triangulación bancaria en P2P
+  
 
 ***
 

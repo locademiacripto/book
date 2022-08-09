@@ -30,6 +30,10 @@ En el momento 1, cuando tenemos nuestra cuenta gratis de Binance, y nos hemos ve
 
 Binance P2P puede parecer muy intuitivo, pero hay personas que ante el desconocimiento, tienen miedo de ser estafadas o de perder el dinero, y no usan Binance P2P... si sos de esas personas que por miedo se congelan, este artículo que Locademia Cripto trae, es para vos, para que rompas el miedo y que te unas a los miles de millones de usuarios que trabajan todos los días con criptomonedas.
 
+## Procedimiento y recomendaciones de seguridad
+
+- Artículo crítico: [Cómo usar Binance P2P y cómo evitar problemas](https://www.locademiadigital.com/2021/05/como-usar-binance-p2p.html)
+
 ## ¿Qué necesitamos para usar Binance P2P?
 
 - Una [cuenta gratuita en Binance](https://bit.ly/LocaBinance), y verificada.
