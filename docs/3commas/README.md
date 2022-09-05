@@ -72,12 +72,13 @@ Indice de temas a ver en la lista de YouTube (cuando tengan enlaces, es que los 
   - Cómo me registro
   - Qué configuro después (seguridad)
 - [Por qué usar 3commas](https://youtu.be/11gM2pkE82M)
+- [Menú 3Commas, parte por parte](https://youtu.be/BkXJUdzxd7I)
 - Cómo elegir el plan que es adecuado para mi
 - Características
   - Bots
-    - Copiar un bot
+    - [Copiar un bot](https://youtu.be/ECC2wJP3pJM)
     - Configuración
-  - Smart Trading (trading inteligente):
+  - Smart Trading (trading inteligente)
   - Grid Bots
 - Señales profesionales de entrada/salida para los bots
 
