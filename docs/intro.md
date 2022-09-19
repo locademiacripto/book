@@ -3,6 +3,12 @@
 - Qué es una criptomoneda
 - Quién o qué respalda las criptomonedas
 
+## Qué es una criptomoneda
+
+### Red
+
+La red es la cadena de bloques en la que "vive" esa criptomoneda. Y este tema es crítico y a la vez muy técnico para explicar. Intentaré que se entienda de la forma más simple y enlazaré distintos conceptos para que puedas ampliar el conocimiento a medida que vas leyendo.
+
 ## Respaldo
 
 Antes de hablar del respaldo en criptomonedas, dale una leída al tema [RESPALDO de tu dinero físico](c/fiat.md#respaldo). Quizás creas que alguien o algo físico respalda el dinero que tienes en tu banco o en tu billetera. El papel moneda.
