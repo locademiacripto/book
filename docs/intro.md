@@ -9,9 +9,20 @@ Una criptomoneda, criptodivisa (del inglés cryptocurrency) o criptoactivo es un
 
 Las criptomonedas son un tipo de divisa alternativa o moneda digital. Existe controversia respecto a que las criptomonedas tienen que ser de control descentralizado o monedas centralizadas por los bancos centrales u otra entidad, dejando a estas entidades y/o bancos centrales sin función ninguna. Podría darse el caso en que se adoptara masivamente y convertirse en moneda fiduciaria para todo el planeta. Las criptomonedas generalmente usan control descentralizado en lugar de una moneda digital de un banco central; aunque estas últimas, las emitidas por un Banco Central, cada vez están más presentes... leer [CBDC](tu-pais.md#cbcd).
 
-### Red
+El control de cada moneda funciona a través de una base de datos descentralizada, usualmente una cadena de bloques (en inglés blockchain), que sirve como una base de datos de transacciones financieras pública.
+
+La primera criptomoneda que empezó a operar fue [Bitcoin](c/bitcoin.md) en 2009.
+
+### Red o Blockchain
 
 La red es la cadena de bloques en la que "vive" esa criptomoneda. Y este tema es crítico y a la vez muy técnico para explicar. Intentaré que se entienda de la forma más simple y enlazaré distintos conceptos para que puedas ampliar el conocimiento a medida que vas leyendo.
+
+Hay confusión sobre "qué red elegir" cuando movemos criptomonedas, y esto es por la adopción de Exchanges que tenemos.
+Las empresas de intercambio (exchanges) nos dan la posibilidad de usar criptomonedas de forma "independiente" de la red, y esto es hasta cierto punto, peligroso. Ya que creemos que tener Bitcoin en red BSC es lo mismo que tener Bitcoin en red Bitcoin.
+
+Cada criptomoneda tiene una red "nativa". Bitcoin nace en su red homónima (con su mismo nombre), su blockchain (o red) se llama Bitcoin. Es la primer cadena de bloques que da origen a las criptomonedas como concepto general, y le debemos mínimamente respeto, pese a que tiene sus pros y contras, y todas las críticas que seguramente ya conoces.
+
+
 
 ## Respaldo
 
@@ -67,7 +78,7 @@ Si te estás preguntando quién es Martti, está perfecto. Nadie habla de él, o
 Nadie ha confirmado si detrás de este "nickname" hay UNA o varias personas. Tranquilamente podría ser un grupo. Como sea, un súper cerebro o varios, bajo este pseudónimo se crearon las primeras líneas de lo que hoy es BITCOIN como protocolo, y moneda que gobierna el Internet de una economía descentralizada. Digamos que comenzó la ola, creó las bases, explotó y motivó los cerebros de quienes se unieron al movimiento.
 
 ## Cambio de Paradigma
-Bitcoin es UN uso al blockchain, pero no el único.
+[Bitcoin](c/bitcoin.md) es UN uso al blockchain, pero no el único.
 
 Lo que desató haber conocido bitcoin es sin lugar a dudas un conocimiento libre que motivará a miles de millones de personas alrededor del mundo, y sea de donde sea que estés leyendo esto, la idea que se ocurra, podrá cambiar la vida de millones. La web 3.0 está en camino, y miles de ideas relacionadas a lo que planteó Bitcoin están también en camino. 
 
@@ -137,6 +148,10 @@ Pero el problema del KYC no termina ahí, quienes impulsan la LIBERTAD y la desc
 Recientemente, Abril 2022, el parlamento de la UE está analizando un documento para regular todo el comercio de cripto activos en la Unión Europea, y pone especial énfasis (y presión) sobre las empresas de intercambio cripto, que deben IDENTIFICAR a sus usuarios, y aquí viene lo crítico: quieren que el usuario identifique a las billeteras no custodial. Apunta a identificar a las billeteras frías, entonces si tenes una Cold-Wallet (Trezor, SafePal, o la que sea), para poder hacer envío de dinero a esas billeteras tenes que prestar una declaración jurada donde aceptas que estás enviando dinero a algo de tu propiedad, y de no ser así, tienes que decir de quién es.
 
 >La `regulación 2015/847` es una propuesta de modificación de la regulación que establece normas sobre la información de los pagadores y beneficiarios (ordenantes y beneficiarios para las criptotransacciones), que acompañan a las transferencias de fondos y criptoactivos, con el fin de ayudar a prevenir, detectar e investigar el blanqueo de capitales y la financiación del terrorismo. Ya estaba en vigor para entidades no cripto, lo que se pretende ahora es hacerla extensiva a proveedores de servicios cripto (en adelante, VASPs). - [Ampliar información aquí](https://criscarrascosa.substack.com/p/21-carta-abierta-al-parlamento-europeo)
+
+### Finanzas Descentralizadas
+
+>Seguir tema en [DeFi](c/defi.md)
 
 ***
 

@@ -23,4 +23,16 @@ A diferencia de las infraestructuras públicas de blockchain que respaldan el de
 
 ## Valor de Bitcoin
 
-El tema es que Bitcoin es un activo muy volátil. Si el precio de bitcoin cae fuerte, nuestra billetera de Binance nos dirá cuánto dinero estamos perdiendo, pero CUIDADO aquí, esto no significa que sea pérdida real de dinero. Suponiendo que el precio de Bitcoin esté 10% más arriba que el momento de nuestra compra de bitcoin, la billetera de Binance nos dirá cuánto hemos ganado, y este importe tampoco representa la ganancia REAL en efectivo. Pues no habrá ganancia ni pérdida de dinero hasta que llevemos Bitcoin a una moneda estable, es decir, vendamos Bitcoin por USDT o una moneda que no sea volátil. 
+El tema es que Bitcoin es un activo muy volátil. Si el precio de bitcoin cae fuerte, nuestra billetera de Binance nos dirá cuánto dinero estamos perdiendo, pero CUIDADO aquí, esto no significa que sea pérdida real de dinero. Suponiendo que el precio de Bitcoin esté 10% más arriba que el momento de nuestra compra de bitcoin, la billetera de Binance nos dirá cuánto hemos ganado, y este importe tampoco representa la ganancia REAL en efectivo. Pues no habrá ganancia ni pérdida de dinero hasta que llevemos Bitcoin a una moneda estable, es decir, vendamos Bitcoin por USDT o una moneda que no sea volátil.
+
+## Lightning Network
+
+Lightning Network propone que la escritura sobre la cadena de bloques se utilice exclusivamente para gestionar la apertura y cierre de canales de pagos bidireccionales.
+
+Un usuario puede enviar bitcoines a cualquier otro destino dentro de la red Lightning. Para ello, la red encamina cada transacción mediante enrutamiento «cebolla» entre nodos no confiables, siguiendo una ruta formada por varios canales de pagos contiguos hasta alcanzar al destinatario final. Los pagos se tramitan de manera casi instantánea y con comisiones reducidas. A su vez, el receptor de los fondos puede tener la certeza de que no va a sufrir un ataque de doble gasto, que ninguno de los nodos intermedios puede robar los fondos y que mantiene el control total de los nuevos bitcoines recibidos.
+
+Las transacciones que se tramitan a través de los canales de pagos se hacen fuera de bloque, es decir, no se registran en la cadena de bloques. Cada entidad que mantenga abierto un canal de pagos tiene la responsabilidad de guardar el estado asociado a la última transacción que haya enviado o recibido a través de ese canal, desechando por innecesarias cualquier otra transacción que haya recibido previamente.​ De esta manera, los dispositivos adaptados para el internet de las cosas pueden tramitar miles de transacciones con unos requisitos de hardware mínimos, tanto en capacidad de procesamiento como en almacenamiento de datos.
+
+La red Lightning también permite la interconexión entre distintas cadenas de bloques. En una definición flexible del término, se puede considerar que Lightning Network proporciona una funcionalidad similar a un bus de servicio empresarial para entornos de arquitectura orientada a servicios, aunque en este caso, de acceso abierto y orientado a la coordinación de cadenas de bloques heterogéneas, como cadenas laterales y otras.
+
+Las bajas comisiones hacen que Lightning sea especialmente apropiado para el envío y recepción de micropagos. Como los pagos son fuera de cadena, al menos a nivel teórico, sería posible hacer pagos incluso inferiores a la unidad mínima aceptable en la cadena de bloques (un satoshi, una cienmillonésima de bitcóin).
