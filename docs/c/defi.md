@@ -22,4 +22,4 @@ Las finanzas descentralizadas, buscan usar criptomonedas anónimas que no permit
 
 Puentes entre distintas cadenas de bloques.
 
->Contenido específico: [Bridge](bridge.md)
+>Contenido específico: [Bridge](/docs/c/bridge.md)
