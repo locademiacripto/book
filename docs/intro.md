@@ -5,6 +5,10 @@
 
 ## Qué es una criptomoneda
 
+Una criptomoneda, criptodivisa (del inglés cryptocurrency) o criptoactivo es un medio digital de intercambio que utiliza criptografía fuerte para asegurar las transacciones, controlar la creación de unidades adicionales y verificar la transferencia de activos usando tecnologías de registro distribuido. 
+
+Las criptomonedas son un tipo de divisa alternativa o moneda digital. Existe controversia respecto a que las criptomonedas tienen que ser de control descentralizado o monedas centralizadas por los bancos centrales u otra entidad, dejando a estas entidades y/o bancos centrales sin función ninguna. Podría darse el caso en que se adoptara masivamente y convertirse en moneda fiduciaria para todo el planeta. Las criptomonedas generalmente usan control descentralizado en lugar de una moneda digital de un banco central; aunque estas últimas, las emitidas por un Banco Central, cada vez están más presentes... leer [CBDC](tu-pais.md#cbcd).
+
 ### Red
 
 La red es la cadena de bloques en la que "vive" esa criptomoneda. Y este tema es crítico y a la vez muy técnico para explicar. Intentaré que se entienda de la forma más simple y enlazaré distintos conceptos para que puedas ampliar el conocimiento a medida que vas leyendo.
