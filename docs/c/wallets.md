@@ -8,7 +8,7 @@ El "**sé tu propio banco**" se logra cuando entiendes que puedes almacenar tu d
 
 ## ¿Qué wallet elegir?
 
-Te recomiendo leer: [¿Billeteras para Criptomonedas?](https://www.locademiadigital.com/2017/12/wallet-billetera-o-monedero.html)
+Te recomiendo leer: [¿Billeteras para Criptomonedas?](https://www.locademiacripto.com/p/billeteras.html)
 
 Es muy importante que comprendas los conceptos que se explico en ese artículo.
 Si algo no se entiende, por favor, [dímelo ahora](https://t.me/waLddo).
