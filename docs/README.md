@@ -1,20 +1,20 @@
 # Curso
 
-_Esto está en constante producción, edición, prueba y error -- Por eso es versión alpha, si estás leyendo esto, llegaste temprano_
-
 !> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)
 
 ## Soy Waldo
 Quería empezar presentándome, pues estoy seguro que te interesa saber quién soy, y por qué te estoy escribiendo esto.
 
-Me dicen Waldo. Soy de Córdoba, Argentina, y desde el año 2008 soy Contador Público Nacional. Salí a la calle a “picar piedra” (como quien dice) allá por el año 2006 y tengo experiencia con criptomonedas desde el año 2016.
+Me dicen Waldo. Soy de Córdoba, Argentina, y desde el año 2008 soy Contador Público Nacional. Salí a la calle a “picar piedra” (como quien dice) allá por el año 2006 y tengo experiencia con criptomonedas desde el año 2015.
 
 Quiero que aprendas el “tema cripto”, mi deseo es que no te sientas solo en este camino de aprender todo sobre criptomonedas. Cuando comencé, me hubiese encantado conocer a alguien a quién seguir y a quién preguntarle todo sobre este universo. Si vas a invertir, hazlo sobre algo que conozcas y donde tú quieras.
 
 ?> Mi misión creando “LocademiaCripto” es darle la posibilidad a las personas de conocer y apasionarse por el universo de las criptomonedas. Después el “uso” que le vaya a dar cada persona, es algo particular. Tú eres el dueño de tus decisiones, hazte responsable; y usa el dinero de forma inteligente. No se lo regales a nadie, _¡tampoco a tu gobierno!_
 
 ## Contacto :id=contacto
-Podes ponerte en contacto directamente conmigo a través de Telegram, mi “alias” y arroba es [@WaLddo](https://t.me/waLddo) y el del canal principal: [@LocademiaCripto](https://t.me/LocademiaCripto); también a través de [Twitter: @LocademiaCripto](https://twitter.com/LocademiaCripto) - O si deseas comunicarme algo más formal, por correo electrónico directamente a _hola@locademiadigital.com_ o bien con el formulario de contacto aquí: https://www.locademiadigital.com/p/contacto.html
+Podes ponerte en contacto directamente conmigo a través de distintas redes que puedes consultar en nuestra página oficial de "Seguidnos", aunque estoy centralizando mensajes privados, únicamente a través de Telegram, mi “alias” y arroba es [@WaLddo](https://t.me/waLddo) y el del canal principal: [@LocademiaCripto](https://t.me/LocademiaCripto). 
+
+En 2do nivel de contacto, me encuentras en [Twitter: @LocademiaCripto](https://twitter.com/LocademiaCripto) - O si deseas comunicarme algo más formal, por correo electrónico directamente a _hola@locademiadigital.com_ o bien con el formulario de contacto aquí: https://www.locademiadigital.com/p/contacto.html
 
 
 ## LocademiaCripto
@@ -33,6 +33,8 @@ Habrá **sinergia**, constantemente mientras absorves datos y procesas informaci
 **LocademiaCripto** es algo simple y único. Su finalidad es expandir el conocimiento sobre criptomonedas. Su público objetivo no tiene nivel, ni edad. Ya sea que no tienes ni la más remota idea sobre informática, o con el nivel que vos quieras definirte, el contenido de LocademiaCripto es para ti. 
 
 LocademiaCripto busca romper los esquemas “serios” y “clásicos” (hasta aburridos) sobre el aprendizaje para dar a conocer el universo sobre las criptomonedas, desde cero. Sin límites. Sin costo.
+
+!> Tenemos sector nuevo en Discord que nos permite mezclar con mejor "orden" lo que sería una comunicación fluída como Telegram, y una mejor organización al estilo foro de debate. Puedes sumarte a [**LocademiaCripto en Discord**](https://discord.gg/FNTMUcXbef)
 
 ### Referencias Visuales
 Este libro es más práctico, e interactivo que lo que seguramente estás acostumbrado a leer. 
@@ -59,6 +61,10 @@ Hay dos reglas de ORO que se aplican en todo lo que estás por estudiar:
 - "NO CONFIES EN NADA ni en NADIE, VERIFICA"
 
 Podes comenzar por donde quieras, al costado izquierdo el sitio tiene un buscador, y podes buscar por la palabra que quieras. También tenes un menú izquierdo, con temas principales, dandole cierto "orden" de lectura.
+
+Sin embargo, cada página de este curso tendrá al pié de página un botón verde para guiarte dónde continúa el curso de LocademiaCripto.
+
+?> Si tienes alguna duda sobre los contenidos que hemos compartido aquí, puedes [PREGUNTAR en nuestro HILO de Discord](https://discordapp.com/channels/903989204328005642/903991536071614515/1026194836388323559).
 
 <section class='cover show' style='height: auto; width: auto;'>
 <div class='cover-main'>
