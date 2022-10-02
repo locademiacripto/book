@@ -14,7 +14,7 @@ Quiero que aprendas el “tema cripto”, mi deseo es que no te sientas solo en 
 ## Contacto :id=contacto
 Podes ponerte en contacto directamente conmigo a través de distintas redes que puedes consultar en [nuestra página oficial de "Seguidnos"](https://www.locademiacripto.com/p/seguidnos.html), aunque estoy centralizando mensajes privados, únicamente a través de Telegram, mi “alias” y arroba es [@WaLddo](https://t.me/waLddo) y el del canal principal: [@LocademiaCripto](https://t.me/LocademiaCripto). 
 
-En 2do nivel de contacto, me encuentras en [Twitter: @LocademiaCripto](https://twitter.com/LocademiaCripto) - O si deseas comunicarme algo más formal, por correo electrónico directamente a _hola@locademiadigital.com_ o bien con el formulario de contacto aquí: https://www.locademiadigital.com/p/contacto.html
+En 2do nivel de contacto, me encuentras en [Twitter: @LocademiaCripto](https://twitter.com/LocademiaCripto) - O si deseas comunicarme algo más formal, por correo electrónico directamente a _hola@locademiadigital.com_ o bien con el formulario de contacto aquí: https://www.locademiacripto.com/p/contacto.html
 
 
 ## LocademiaCripto
