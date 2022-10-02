@@ -109,19 +109,16 @@ Una vez registrado es imprescindible que mires este video, donde te presento tod
 #### Binance
 Creando una cuenta y verificando tu identidad con este enlace: https://bit.ly/LocaBinance, recibirás de bonus 20% de descuento en todas las comisiones por trading en spot que hagas. Descuentos en futuros, y acceso a otros beneficios por ser alumno verificado de LocademiaCripto.
 
-No vamos a hablar de la plataforma, directamente les muestro en modo “cuadro” de qué hablaremos en vivo, clase particular para que aprendas a sacarle jugo.
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5NBMeZiDkumkcg2YE16gJuE1ZiDgz88WGm_oB9BE50pL4D8SI-_kQYo1W8bCWTMvB1_M-0K56KV31lszrtPzuXilRsLVgKxCQBdKE1njNOH1BGG1WLmA9lAOI1fPJgj63-7EMEBJb8EpkVHbBhcZg1WnGzCztfQR7xMqmloYnGHXxBRGpQlj3tGfUow/s1600/2.png)
 
-(imagen)
+Tienes muchas opciones para comenzar en Binance, totalmente gratis, no es necesario que inviertas ni un centavo.
+Sí te recomiendo que elijas una invitación de LocademiaCripto, para obtener los distintos beneficios que tenemos para nuestros miembros.
 
-Estos gráficos se irán actualizando y se les irá agregando más contenido, y temas para ir tratando.
+Tienes más información sobre las distintas invitaciones y sus beneficios, aquí: [Invitaciones Exlusivas a Binance](https://www.locademiacripto.com/p/binance.html)
 
-#### Huobi
-Sumando esta plataforma a tu lista de alternativas para las criptomonedas a través  nuestro enlace: https://bit.ly/cripto-obi-one, recibirás descuentos importantes.
-
-Habrá otras plataformas de intercambio para ir por el mundo o universo cripto. Pero por ahora, nos concentraremos en estas dos: Binance y Huobi.
 
 #### 2FA: Authy
-2FA es la sigla para hacer referencia al tema “Autenticación en Dos Pasos”, y quiero ser muy directo con esta recomendación: NO USES GOOGLE Authenticator; usa el programa Authy.
+2FA es la sigla para hacer referencia al tema “Autenticación en Dos Pasos”, y quiero ser muy directo con esta recomendación: NO USES GOOGLE Authenticator; usa el programa Authy. Puedes descargar Authy totalmente gratis, desde aquí: https://authy.com/download/ 
 
 ***
 
