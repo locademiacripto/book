@@ -35,6 +35,7 @@ Las redes sociales, si bien "acercan" el contenido a las personas que me siguen 
   - [TikTok: LocademiaCripto](https://tiktok.com/LocademiaCripto)
   - [Twitch: LocademiaCripto](https://twitch.com/LocademiaCripto)
 - [Lista de Correo](https://cripto.substack.com)
+- [Formulario: Preguntas Cripto](https://bit.ly/preguntasCripto)
 
 **¿Qué es lo que si o si, todo el mundo tiene?** Mínimo: **un correo electrónico**
 No te creo nada, si me dices que NO tienes un correo electrónico, porque hoy en día hasta para tener móvil (celular) es requisito tener una cuenta de gmail (en el caso de que tengas un Android), y si tienes otra marca, casi con seguridad usarás el correo electrónico para recuperar tu sesión y datos móviles.
