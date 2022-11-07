@@ -13,7 +13,7 @@ Aquí mucho cuidado. Aprender a invertir será una misión compleja y un viaje h
 
 ?> Si aún no estás al tanto de todas las estafas a las que podrías exponerte, dale una leída a nuestro capítulo sobre [EL RIESGO](riesgos.md).
 
-Y es muy complicado aprender a invertir. ¿Por dónde comenzamos? ¿Qué hacemos? ¿Cuánto dinero necesito para aprender?
+Y es muy complicado aprender a invertir. ¿Por dónde comenzamos? ¿Qué hacemos? ¿Cuánto dinero necesito para aprender? [¿Qué plataformas de inversión usar?](recomendaciones.md)
 
 ### Expectativas
 
