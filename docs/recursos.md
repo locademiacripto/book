@@ -5,7 +5,7 @@
 - 2FA: Authy: https://authy.com/download/
 - Binance: https://bit.ly/LocaBinance
 - Huobi: https://bit.ly/cripto-obi-one
-- OKX: https://bit.ly/LocaOkx
+- OKX: https://www.okx.com/join/LOCADEMIA15
 - CoinBase: https://bit.ly/LocaCoinbase
 - FTX: https://bit.ly/LocaFTX
 - Kucoin: https://bit.ly/LocaKucoin
