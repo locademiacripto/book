@@ -20,7 +20,7 @@ En este curso de LocademiaCripto, las capturas de pantalla y los enlaces de refe
 
 ## Por qué
 
-Si estás decidido a invertir poco capital en el mundo de las criptomonedas, en el tema TRADING, te habrás dado cuenta que tienes que vivir online, o bien estar muy cerca de los gráficos. Si tienes más de una cuenta en Exchanges, te será dificil llevar el control de tus movimientos. ¿Cuánto estás ganando o perdiendo en Binance? ¿Y en FTX? ¿Y en Kucoin?
+Si estás decidido a invertir poco capital en el mundo de las criptomonedas, en el tema TRADING, te habrás dado cuenta que tienes que vivir online, o bien estar muy cerca de los gráficos. Si tienes más de una cuenta en Exchanges, te será dificil llevar el control de tus movimientos. ¿Cuánto estás ganando o perdiendo en Binance? ¿Y en Kucoin?
 
 Con 3commas, **todos los exchanges estan en una sola página web**. De hecho, puedes ver en tiempo real cómo te está yendo con cada operación, sin importar si es SPOT, Futuros, o un Grid Bot. Sin importar en qué exchange estés trabajando.
 

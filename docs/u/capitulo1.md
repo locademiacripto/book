@@ -87,7 +87,6 @@ A modo de repaso, usaremos:
 - Huobi: https://bit.ly/cripto-obi-one
 - OKX: https://www.okx.com/join/LOCADEMIA15
 - CoinBase: https://bit.ly/LocaCoinbase
-- FTX: https://bit.ly/LocaFTX
 - Kucoin: https://bit.ly/LocaKucoin
 - La que tú propongas para tu caso particular
 
