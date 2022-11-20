@@ -6,6 +6,8 @@ Así mismo, su estudio se basa en la obtención y la administración del [dinero
 
 Las finanzas estudian cómo los agentes económicos (empresas, familias o Estado) deben tomar decisiones de inversión, ahorro y gasto en condiciones de incertidumbre. Al momento de tomar estas decisiones los agentes pueden optar por diversos tipos de recursos financieros tales como: [dinero fiat](c/fiat.md), bonos, acciones o derivados, incluyendo la compra de bienes de capital como maquinarias, edificios y otras infraestructuras. Ver diferencia entre ahorro e inversión.
 
+Se habla de dinero FIAT (cuando hacemos referencia al fiduciario, al emitido por los distintos países, bajo regulación legal y jurisdicción específica). Siempre que lean conceptos como interés o capital, todo hace referencia a dinero. En términos simples y para que no se pierdan, hacemos referencia a poner ahorros como inversión, y ganamos intereses (ya veremos más abajo qué significa), cuando los intereses se suman al dinero que pusimos inicialmente, tenemos "capital invertido".
+
 Las Finanzas se clasifican en dos ramas:
 
 - Finanzas Privadas (personales)
@@ -46,6 +48,19 @@ En una economía de mercado, donde estamos en una plaza (virtual o física), int
 ***
 
 ?>Hablaremos de algunos conceptos claves de las finanzas personales, y nos concentraremos únicamente en estas, ya que este curso apunta a personas, no a Estados, para que aprovechen el mundo de las inversiones en criptomonedas.
+
+## El interés financiero
+
+El concepto de interés tiene dos vertientes. Por un lado, es el índice que sirve para medir la rentabilidad de los ahorros y de las inversiones. Esto quiere decir que, cuando se reserva un dinero y se mantiene en el banco (o plataforma de terceros), en un producto de ahorro o de inversión, dicha cantidad de dinero va generando intereses, que se transforman automáticamente en capital.
+
+En estos casos, el interés se clasifica como:
+
+- Interés simple: el que se genera sobre el capital invertido al principio, sin añadir los que vaya generando el dinero.
+- Interés compuesto: el que se va sumando al capital general y sobre el que se van generando nuevos intereses.
+
+El interés compuesto obedece a una fórmula matemática, bastante compleja para el normal de la población. Así que no profundizaré en detalle sobre la misma, lo que sí debemos tener en cuenta, es que cuando el interés compuesto se aplica, los intereses que ganemos, deben ser re-invertidos sobre el capital inicial, para así tener mayor de éste, y mayor interés a ganar.
+
+![](assets/img/interes-simple-compuesto.png)
 
 ## Mercados Financieros
 
