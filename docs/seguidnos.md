@@ -30,6 +30,7 @@ Las redes sociales, si bien "acercan" el contenido a las personas que me siguen 
   - [Telegram: LocademiaCripto](https://t.me/LocademiaCripto)
     - [Telegram por privado con Waldo](https://t.me/waLddo)
   - [Reddit: LocademiaCripto](https://reddit.com/r/LocademiaCripto)
+  - [Discord: LocademiaCripto - el bar](https://discord.gg/FNTMUcXbef)
   - [Instagram: LocademiaCripto](https://instagram.com/LocademiaCripto)
   - [Facebook: LocademiaCripto](https://facebook.com/LocademiaCripto)
   - [TikTok: LocademiaCripto](https://tiktok.com/LocademiaCripto)
