@@ -33,15 +33,15 @@ Recibirás un correo electrónico de confirmación, el cual tienes que leer, y h
 
 ## Lecturas
 
-- [Por qué elegir Binance](https://www.locademiadigital.com/2020/09/por-que-binance.html)
+- [Por qué elegir Binance](https://www.locademiacripto.com/p/binance.html)
 - [Comisiones de Binance versus la empresa que quieras](https://www.locademiadigital.com/2022/05/comisiones-binance-vs-competencia.html)
 - [Cómo ver el Binance ID](https://www.locademiadigital.com/2022/01/como-visualizar-binance-id.html)
 - [Qué es la Inversión Dual y cómo funciona](https://www.locademiadigital.com/2022/01/que-es-inversion-dual-como-funciona.html)
-- [Cómo ser cajero o comerciante verificado en Binance](https://www.locademiadigital.com/2022/03/como-ser-cajero-binance.html)
-- [Binance: Modo ahorro](https://www.locademiadigital.com/2021/10/binance-savings.html)
-- [Cómo contactar con Binance](https://www.locademiadigital.com/2021/04/como-contactar-binance.html)
-- [Guía: Trading Futuros](https://www.locademiadigital.com/2022/03/trading-futuros-binance.html)
-- [Cómo usar Binance P2P y cómo evitar problemas](https://www.locademiadigital.com/2021/05/como-usar-binance-p2p.html)
+- [Cómo ser cajero o comerciante verificado en Binance](https://www.locademiacripto.com/2022/11/insignia-especial-en-binance-p2p.html)
+- [Binance: Modo ahorro](https://www.locademiacripto.com/2022/08/guia-binance-savings.html)
+- [Cómo contactar con Binance](https://www.locademiacripto.com/2022/08/como-contactar-soporte-binance.html)
+- [Guía: Trading Futuros](https://www.locademiacripto.com/p/binance-futuros.html)
+- [Cómo usar Binance P2P y cómo evitar problemas](https://www.locademiacripto.com/p/binance-p2p.html)
 
 ## [Binance P2P](../binance/binance-p2p.md)
 
