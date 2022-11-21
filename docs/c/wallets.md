@@ -34,7 +34,7 @@ Le consulté al usuario a qué se refería y me explicó que conoce personas que
 
 
 
-## Hardware Wallets
+## Hardware Wallets id=cold
 
 Billeteras físicas, no conectadas a Internet, seguridad extrema.
 
@@ -42,8 +42,8 @@ Para personas más conservadoras que quieren guardar sus criptomonedas de forma 
 
 En el mercado hay representantes destacados:
 
-- [SafePal](https://shop.safepal.io/products/safepal-hardware-wallet-s1-bitcoin-wallet?ref=locademia) (*recomendada*)
-- Ledger
+- [SafePal](https://shop.safepal.io/products/safepal-hardware-wallet-s1-bitcoin-wallet?ref=locademia)
+- [Ledger](https://shop.ledger.com/?r=a7f16c4a50c8)
 - Trezor
 
 [![Comparación Wallets](../assets/img/cold-wallets.png)](https://shop.safepal.io/products/safepal-hardware-wallet-s1-bitcoin-wallet?ref=locademia&tap_a=54950-90aa79)

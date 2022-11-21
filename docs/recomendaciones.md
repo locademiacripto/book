@@ -16,6 +16,7 @@ Herramientas que usaremos en LocademiaCripto
 - CoinEx: https://bit.ly/LocaCoinex
 - xCapit Wallet: https://bit.ly/LocaXcapit
 - 3Commas: https://bit.ly/3criptos
+- [Cold Wallets](c/wallets.md#cold) _(dispositivos para mantener criptos a largo plazo)_
 - La que tú propongas para tu caso particular
 
 Es importante que vayas registrándote en las tres primeras plataformas. Si te interesan las “gemas”, Kucoin es la plataforma que todos usan.
