@@ -34,7 +34,7 @@ Le consulté al usuario a qué se refería y me explicó que conoce personas que
 
 
 
-## Hardware Wallets id=cold
+## Hardware Wallets :id=cold
 
 Billeteras físicas, no conectadas a Internet, seguridad extrema.
 
