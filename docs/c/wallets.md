@@ -57,12 +57,12 @@ En el mercado hay representantes destacados:
 
 ### Ledger
 
-— Una billetera de hardware Ledger, junto con la aplicación Ledger Live, es la mejor solución para proteger, almacenar y gestionar tus activos cripto.
-— Las billeteras de hardware Ledger cuentan con seguridad líder del sector para mantener tus activos cripto seguros en todo momento.
-— La aplicación Ledger Live es la ventanilla única para tus cripto. Compra, vende, cambia y haz crecer tus activos de una forma segura con nuestros socios
-— Con Ledger puedes proteger, guardar y gestionar más de 1800 activos cripto.
-— Ledger fabrica las billeteras de hardware más populares del mundo, con más de 3 millones de ventas.
-— ¿Por qué elegir Ledger? Porque proporcionamos el mejor producto para mantener tus cripto seguras.
+- Una billetera de hardware Ledger, junto con la aplicación Ledger Live, es la mejor solución para proteger, almacenar y gestionar tus activos cripto.
+- Las billeteras de hardware Ledger cuentan con seguridad líder del sector para mantener tus activos cripto seguros en todo momento.
+- La aplicación Ledger Live es la ventanilla única para tus cripto. Compra, vende, cambia y haz crecer tus activos de una forma segura con nuestros socios
+- Con Ledger puedes proteger, guardar y gestionar más de 1800 activos cripto.
+- Ledger fabrica las billeteras de hardware más populares del mundo, con más de 3 millones de ventas.
+- ¿Por qué elegir Ledger? Porque proporcionamos el mejor producto para mantener tus cripto seguras.
 
 Una billetera de hardware Ledger, junto con la aplicación Ledger Live, es la mejor forma de proteger tus fondos. Tu billetera de hardware mantiene protegida tu clave privada en todo momento en un chip seguro certificado. Nadie puede acceder a ella salvo tú.
 
