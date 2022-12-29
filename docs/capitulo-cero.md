@@ -28,27 +28,6 @@ La finalidad de invertir en criptomonedas puede abrir distintas posibilidades:
 - Trading (comprar y vender criptomonedas para ganar rendimiento/comisiones por esas operaciones). Leer más en [Trading](c/trading.md)
 - Ahorros (poner a trabajar el dinero, para que genere más dinero)
 
-
-## Curso Particular (tú y yo) - Demo Gratis
-Este ebook incluye clases particulares gratuitas únicamente para aquellas personas súper nuevas que se registren con los enlaces que pasaré en la sección de [recomendaciones](recomendaciones.md). Si te registraste siguiendo los enlaces que puse ahí, tu próxima tarea es mandarme un mensaje privado a través de Telegram, así verifico tu usuario y comenzamos cuanto antes.
-
-Para quienes ya tienen cuentas en las plataformas donde trabajaremos, pueden seguir leyendo este sitio web aunque no contarán con las clases particulares conmigo, o bien, pueden tomar clases particulares (no gratuitas).
-
-Por ahora, las clases particulares son una introducción, no es un curso donde vas a salir siendo un _master yoda_ de las criptomonedas, ni se entregarán certificados ni nada de eso. Y hablo de “Demo Gratis” porque muchos de mis alumnos le tienen miedo y respeto a lo desconocido, que solicitan “demostración” de lo que es este tema de las criptomonedas. He incluido un “demo” en las clases particulares, para que vean con sus propios ojos cómo es invertir, trabajar, y usar todo, y puedan así, ver que no es una ciencia imposible. 
-
-## ¿Qué es todo esto? ¿A dónde te estás metiendo?
-En todas las redes sociales sobre plataformas referidas a las criptomonedas, siempre hay personas preguntando cómo hacer dinero. Cómo ganar dinero sin poner dinero. ¿Es posible algo así? ¿Qué alternativas tenemos? ¿Qué puede hacer una plataforma? 
-
-Este e-book brindará información para ser tu guía, para que conozcas todas las alternativas, todas las posibilidades, lo que puedes hacer con y sin dinero, cómo ahorrar, cómo generar ingresos pasivos, cómo comprar bitcoin sin tener lo que sale 1 BTC! Cómo ganar dinero cada 24 horas, cómo aprovechar los “lanzamientos” de nuevas criptomonedas, cómo comprar barato, y vender más caro, qué es eso de ganar dinero mientras el mercado “baja”, y un montón de temas más… tantos, que no podría mencionarlos a todos en una página!
-
-Las criptomonedas ¿son una estafa? ¿Son las plataformas manejadas por robots que le roban el dinero a las personas? ¿Hay hackers robando tu dinero en internet? Encontrarás preguntas de este tipo, y muchas otras teorías locas o psicodélicas sobre las criptomonedas y el dinero en general, porque… honestamente, todo lo que involucra dinero, también involucra personas con malas intenciones que solo usan su inteligencia para robarte, o bien, hacer que tú mismo (sí, TU MISMO) les regales el dinero.
-
-Este libro también te ayudará a abrir los ojos con estas cuestiones. Debes desconfiar de todo, si alguien se te acerca en la calle, querrá tu dinero. Si alguien se te acerca en el Internet… ¿adivinaste? **¡QUERRA TU DINERO!** Abre los ojos, porque usarán métodos de ingeniería social para hacerse los amigos, conocidos de amigos, o lo que sea, para que tú bajes las defensas, y confíes… cuando confíes, harás lo que ellos quieran, y si ellos quieren que tú les regales dinero, ¡lo harás!  
-
-Es muy importante que sepas todo esto ANTES de seguir, porque en el eterno Internet, habrá trampas, sitios web falsos, influencers en YouTube que te dirán “pon tu dinero aquí, así ganas el doble para el fin de semana”, o cosas por el estilo… y quiero que estés preparado para decirle NO a esas tentaciones de dinero fácil!
-
-?> Lectura súper recomendada: [RIESGOS](riesgos.md)
-
 ### ¡Cuidado con lo que DIGAS!
 Hay una enorme creencia general donde si le mencionas a alguien que tienes criptomonedas, o una máquina de minería (para criptomonedas), ya creen que tienes mucho dinero. Así que cuidado, ojo a dónde comentas la información. Trata de ser perfil bajo, y me refiero a que no debes hablar de dinero, ni de criptomonedas!
 
@@ -56,37 +35,12 @@ En este mundo, puedes ver personas en la calle, quizás pienses que son simples 
 
 ¡Ampliaremos el tema de la [minería](mineria.md) en próximos capítulos!
 
-Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. **Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando.** 😃
-
-Y hablando de dinero…
-Este ebook y su contenido es absolutamente gratis, no se exige ninguna contribución monetaria de ningún tipo, podes haberlo bajado de internet, de alguna red social, o te lo pasó un amigo/a por WhatsApp!
-
-Si alguien te vendió este libro, lamento mucho que lo hayas pagado. Su contenido es gratuito. Ahora has aprendido la lección de no creer en lo que alguien en internet te habrá dicho para venderte el contenido de este libro.
+Lo mismo pasa con temas de criptomonedas en general, no andes diciendo a tus conocidos cuánto “ganas”, o qué haces. 
+**Siempre: “perfil bajo”, que sea tu regla de oro en este universo en el que te estás adentrando.** 😃
 
 >Cuidado si buscas "cómo ganar dinero" en internet
 
 Automáticamente pasas a estar en la lista de las personas a quienes les interesa el tema dinero en internet, y te llegará mucha publicidad sobre cómo hacer dinero. Cómo ganar dinero, y similares. También recibirás publicidad de sitios donde supuestamente se gana dinero, gurúes de las finanzas que te dicen dónde y cómo debes invertir. CUIDADO!
-
-## Preguntas Frecuentes
-
-### ¡No tengo TIEMPO de leer todo esto! 
-
-¿Existe una forma más fácil y directa de aprender lo que dice este manual?
-
-Todos estamos ocupados, tenemos nuestra vida, y el conocimiento no entrará a nuestra mente por osmosis o por solo leerlo. Estoy seguro de que no tienes tiempo para leer y comprender todo lo que diré en este e-book.
-
-También pensé en esto, y si no quieres aprender gratis leyendo y haciendo lo que dice este e-book, brindo clases particulares 1 a 1, tú y yo, fines de semana, horario a coordinar, para que charlemos sobre lo que tú quieras (del tema cripto), y aprenderás directo de la fuente. Más info sobre esto en el [ANEXO](anexo.md)
-
-### ¿Por qué darme de alta en estas empresas? 
-LocademiaCripto es una comunidad libre, te dejamos hacer lo que quieras hacer, pero usaremos las plataformas que recomendamos para llevarte por el camino del conocimiento cripto, y estaría buenísimo que sigas nuestras recomendaciones, también para apoyar a la comunidad.
-
-Igual tranquilo, porque veremos paso por paso como darse de alta y cómo registrarse en las distintas plataformas. Este manual cripto es tu guía general para todo, no debes preocuparte por nada.
-
-### ¿Por qué se recomienda tener usuario verificado en más de una empresa?
-Más adelante estudiaremos conceptos básicos sobre finanzas personales y como diversificar el riesgo, no tener todas nuestras inversiones en una misma canasta (hay distintas variables del refrán dependiendo de qué país seas). Veremos el tema “verificación KYC” más adelante, para entender por qué hay que verificar (y cuando no hacerlo).
-
-### ¿Qué ocurre si no quieres darte de alta en estas empresas que son requisitos de este curso? 
-Pues no pasa nada realmente. Cada uno es libre de hacer lo que le plazca.
 
 ***
 

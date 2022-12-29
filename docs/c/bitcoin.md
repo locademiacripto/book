@@ -8,7 +8,7 @@
 
 ## Síntesis
 
-¿?
+Vimos gran parte de la historia inicial de Bitcoin en nuestra introducción a las criptomonedas, si aún no lo has leído, [dale una lectura rápida ahora](../intro.md#big-bang)
 
 ## ¿Qué es Bitcoin (BTC)?
 Bitcoin es una criptomoneda peer-to-peer que pretende funcionar como un medio de intercambio y es independiente de cualquier autoridad central. Los bitcoins se transfieren electrónicamente de forma segura, verificable e inmutable.

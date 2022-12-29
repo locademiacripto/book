@@ -37,9 +37,9 @@ En términos simples, un programa informático. Un SISTEMA.
 
 ***
 
-# El Universo Cripto y el Planeta Tierra
+# El Universo Cripto y el Planeta Tierra :id=universo
 
-El universo es infinito, cualquier universo, hay más de los que tú conoces! Aquí usaré analogía con la astronomía (y capaz no compartas conmigo la pasión por el espacio y las estrellas), pero es para entender a dónde estamos parados, y cómo mirar más allá de lo que entendemos.
+El universo es infinito, cualquier universo, hay más de los que tú conoces! Aquí usaré analogía con la astronomía, pero es para entender a dónde estamos parados, y cómo mirar más allá de lo que entendemos.
 
 Pues, como en nuestro Planeta Tierra, desde ahí _-donde sea que estes ahora lector-_ no comprendes qué hay más allá de la Vía Láctea. Con el universo de las criptomonedas es igual, surgió de un -le digamos- “Big Bang”, una cadena de bloques original, la primera, que fue la que le dio nacimiento al Bitcoin tal como hoy lo conocemos (como moneda, surgió en año 2009). Y con el avance de la ciencia, la tecnología y muchas mentes brillantes y anónimas, fueron creando distintos proyectos relacionados (o no) a lo que es bitcoin. Fueron surgiendo distintos ecosistemas, o galaxias inclusive.
 
@@ -55,7 +55,7 @@ Entre estos conceptos, hay universos paralelos, TODOS relacionados, e interactua
 
 No hay UNA cadena de bloques, cuando en internet leen sobre Blockchain hablan del concepto. El concepto (de cadena de bloques) ya existía con anterioridad al bitcoin pero con el proyecto Bitcoin todos los conceptos que pre-existían por separado, se unieron dando lugar a lo que hoy tenemos como tecnología y protocolo bitcoin.
 
-## El big bang (de Bitcoin)
+## El big bang (de Bitcoin) :id=big-bang
 
 > “Me gustaría ayudar con Bitcoin si hay algo que pueda hacer.”
 >
