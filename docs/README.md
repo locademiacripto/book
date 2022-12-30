@@ -1,4 +1,4 @@
-# Hola lector!
+# Hola lector! :id=curso
 
 Bienvenido/a al curso de LocademiaCripto.com ... lo que leerás a continuación es todo el por qué de este curso, quién soy, qué encontrarás aquí, por qué comparto todo esto, etcétera. 
 
