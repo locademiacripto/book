@@ -112,8 +112,8 @@ Sin embargo, cada página de este curso tendrá al pié de página un botón ver
 
 ?> Si tienes alguna duda sobre los contenidos que hemos compartido aquí, puedes [PREGUNTAR en nuestro HILO de Discord](https://discordapp.com/channels/903989204328005642/903991536071614515/1026194836388323559).
 
-<section class='cover show' style='height: 100px; width: auto;'>
-<div class='cover-main'>
+<section class='cta show'>
+<div class='cta-main'>
 <!-- [**Capítulo CERO**](capitulo-cero.md) -->
 <p><a href='#/capitulo-cero'>Capítulo Cero</a></p>
 </div>

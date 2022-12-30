@@ -8,7 +8,7 @@
   <meta name="title" content="Curso Gratis sobre Criptomonedas">
   <meta name="description" content="Tu sitio web favorito para aprender todo sobre criptomonedas de forma fácil, simple y rápida. En tu idioma, y con ejemplos prácticos (también videos).">
   <meta name="keywords" content="bitcoin, criptomonedas, cripto, locademiacripto, academia cripto, academia gratis, cursos gratis, cursos, video tutoriales">
-  <meta name="robots" content="noindex, nofollow">
+  <!-- <meta name="robots" content="noindex, nofollow"> -->
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="language" content="Spanish">
   <meta name="revisit-after" content="1 days">
@@ -33,6 +33,26 @@
     a[href^="https://locademiacripto.github.io/book"]:after {
       content: '';
       margin: 0;
+    }
+
+    section.cta.show {
+    display: flex;
+    }
+    section.cta {
+        position: relative;
+        align-items: center;
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 25vh;
+        width: 100%;
+        display: none;
+    }
+    section.cta .cta-main {
+    flex: 1;
+    margin: 0 16px;
+    text-align: center;
+    position: relative;
     }
   </style>
   
