@@ -1,6 +1,3 @@
-!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)
-
-
 # Hola lector!
 
 Bienvenido/a al curso de LocademiaCripto.com ... lo que leerás a continuación es todo el por qué de este curso, quién soy, qué encontrarás aquí, por qué comparto todo esto, etcétera. 
@@ -14,6 +11,8 @@ Quería empezar presentándome, pues estoy seguro que te interesa saber quién s
 Me dicen Waldo. Soy de Córdoba, Argentina, y desde el año 2008 soy Contador Público Nacional. Salí a la calle a “picar piedra” (como quien dice) allá por el año 2006 y tengo experiencia con criptomonedas desde el año 2015.
 
 Quiero que aprendas el “tema cripto”, mi deseo es que no te sientas solo en este camino de aprender todo sobre criptomonedas. Cuando comencé, me hubiese encantado conocer a alguien a quién seguir y a quién preguntarle todo sobre este universo. Si vas a invertir, hazlo sobre algo que conozcas y donde tú quieras.
+
+!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)
 
 ## Misión de LocademiaCripto
 
@@ -113,7 +112,7 @@ Sin embargo, cada página de este curso tendrá al pié de página un botón ver
 
 ?> Si tienes alguna duda sobre los contenidos que hemos compartido aquí, puedes [PREGUNTAR en nuestro HILO de Discord](https://discordapp.com/channels/903989204328005642/903991536071614515/1026194836388323559).
 
-<section class='cover show' style='height: auto; width: auto;'>
+<section class='cover show' style='height: 100px; width: auto;'>
 <div class='cover-main'>
 <!-- [**Capítulo CERO**](capitulo-cero.md) -->
 <p><a href='#/capitulo-cero'>Capítulo Cero</a></p>
