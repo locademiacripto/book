@@ -10,7 +10,9 @@ Quería empezar presentándome, pues estoy seguro que te interesa saber quién s
 
 Me dicen Waldo. Soy de Córdoba, Argentina, y desde el año 2008 soy Contador Público Nacional. Salí a la calle a “picar piedra” (como quien dice) allá por el año 2006 y tengo experiencia con criptomonedas desde el año 2015.
 
-Quiero que aprendas el “tema cripto”, mi deseo es que no te sientas solo en este camino de aprender todo sobre criptomonedas. Cuando comencé, me hubiese encantado conocer a alguien a quién seguir y a quién preguntarle todo sobre este universo. Si vas a invertir, hazlo sobre algo que conozcas y donde tú quieras.
+Quiero que aprendas sobre inversiones, no solamente el “tema cripto”, mi deseo es que no te sientas solo en este camino de aprender todo sobre criptomonedas. Cuando comencé, me hubiese encantado conocer a alguien a quién seguir y a quién preguntarle todo sobre este universo. Si vas a invertir, hazlo sobre algo que conozcas y donde tú quieras.
+
+Me gusta mucho ayudar a las personas, pero no puedo ayudarles si no me escriben y me piden una mano. Así que si necesitas algo, solamente tenes que pasar por la sección de [CONTACTO](#contacto) y mandarme un mensaje a través del medio que más cómodo te quede.
 
 !> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)
 
