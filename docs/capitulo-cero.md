@@ -44,8 +44,8 @@ Automáticamente pasas a estar en la lista de las personas a quienes les interes
 
 ***
 
-<section class='cover show' style='height: auto; width: auto;'>
-<div class='cover-main'>
+<section class='cta show'>
+<div class='cta-main'>
 <!-- [La Introducción](intro.md) -->
 <p><a href='#/intro'>Introducción</a></p>
 </div>

@@ -155,8 +155,8 @@ Recientemente, Abril 2022, el parlamento de la UE está analizando un documento 
 
 ***
 
-<section class='cover show' style='height: auto; width: auto;'>
-<div class='cover-main'>
+<section class='cta show'>
+<div class='cta-main'>
 <!-- [Capítulo 1](/u/capitulo1.md) -->
 <p><a href='#/u/capitulo1'>Capítulo 1</a></p>
 </div>
