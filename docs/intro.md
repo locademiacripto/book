@@ -22,7 +22,7 @@ Las empresas de intercambio (exchanges) nos dan la posibilidad de usar criptomon
 
 Cada criptomoneda tiene una red "nativa". Bitcoin nace en su red homónima (con su mismo nombre), su blockchain (o red) se llama Bitcoin. Es la primer cadena de bloques que da origen a las criptomonedas como concepto general, y le debemos mínimamente respeto, pese a que tiene sus pros y contras, y todas las críticas que seguramente ya conoces.
 
-
+Para ver el "saldo" de criptomonedas que tienes en determinada red, necesitas un programa informático que pueda "abrir" el bloque y leer la información dentro de la cadena de bloques. Estos programas que interpretan los datos, se conocen como billeteras (o [Wallets](c/wallets.md)).
 
 ## Respaldo
 
