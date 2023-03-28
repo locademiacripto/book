@@ -11,22 +11,22 @@
 .
 └── docs
     ├── README.md
-    ├── anexo.md (s)
+    ├── anexo.md
     ├── biblografia.md
     ├── capitulo-cero.md (s)
-    ├── estafas.md (s)
+    ├── estafas.md 
     ├── finanzas.md
-    ├── gemas.md
-    ├── glosario.md (s)
-    ├── intro.md (s)
+    ├── glosario.md 
+    ├── intro.md
+    ├── indice.md (s)
     ├── lecturas.md
     ├── locamision.md
     ├── mineria.md
     ├── oportunidad.md
     ├── privacidad.md
-    ├── recomendaciones.md (s)
+    ├── recomendaciones.md
     ├── recursos.md
-    ├── riesgos.md (s)
+    ├── riesgos.md
     ├── seguidnos.md (s)
     ├── sentimiento.md
     ├── tu-pais.md (s)
@@ -39,6 +39,7 @@
         ├── dyor.md
         ├── ethereum.md
         ├── fiat.md
+        ├── gemas.md
         ├── nft.md
         ├── oro.md
         ├── poap.md
@@ -49,7 +50,7 @@
         └── web3.md
     └── u
         ├── README.md
-        ├── capitulo1.md
+        ├── capitulo1.md (s)
         └── capitulo2.md
     └── binance
         ├── binance-bot.md
@@ -57,7 +58,7 @@
         └── README.md (s)
     └── 3commas
         ├── descuento.md
-        └── README.md
+        └── README.md (s)
 .
 └── pdf (proyectado)
 
