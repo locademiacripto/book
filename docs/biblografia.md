@@ -21,3 +21,5 @@ La idea de este documento es citar de forma simple, las distintas fuentes que se
   - [Hilo sobre stables](https://twitter.com/JohnGalt_is_www/status/1512858349628530693)
 - Bridge
   - [Hilo sobre bridge y ataque a Ronin](https://twitter.com/tobalgarcia_/status/1509331572423602178)
+- DYOR
+  - [Todos dicen #DYOR pero nadie te cuenta cómo se hace el DYOR](https://murdockinvest.substack.com/p/5-todos-dicen-dyor-pero-nadie-te)
