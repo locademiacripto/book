@@ -19,9 +19,9 @@
     ├── glosario.md 
     ├── intro.md
     ├── indice.md (s)
-    ├── lecturas.md
-    ├── locamision.md
-    ├── mineria.md
+    ├── lecturas.md (-)
+    ├── locamision.md (-)
+    ├── mineria.md (-)
     ├── oportunidad.md
     ├── privacidad.md
     ├── recomendaciones.md
@@ -64,4 +64,4 @@
 
 ```
 
-?> Referencia: `(s)` significa que el archivo está enlazado en `_sidebar.md` (en el menú izquierdo del sitio web)
+?> Referencia: `(s)` significa que el archivo está enlazado en `_sidebar.md` (en el menú izquierdo del sitio web). `(-)` Contenido muy pobre.
