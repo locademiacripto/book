@@ -36,6 +36,7 @@
         ├── bridge.md
         ├── cefi.md
         ├── defi.md
+        ├── dyor.md
         ├── ethereum.md
         ├── fiat.md
         ├── nft.md
