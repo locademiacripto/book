@@ -2,6 +2,8 @@
 
 >Finanzas Descentralizadas
 
+!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)
+
 Entre las personas que usan criptomonedas están los que conocen poco de éstas, y usan exchanges (empresas de intercambio) y otra parte de la población usuaria de criptomonedas que prefieren lo "descentralizado", al 100% se definen como DeFI. No quieren saber nada con crear cuentas con algo que identifique al usuario con algo propio, ejemplo el "email", tu "documento de identidad", y ni hablar de nombres, apellidos, país, fotos, reconocimiento facial, etcétera.
 
 Lo que diferencia el DEFI de todo lo demás es que la relación económica, irrumpe sobre un paradigma clave: "los intermediarios".
