@@ -84,8 +84,6 @@ Son usados para reunir a aquellos que necesitan recursos financieros con aquello
 
 ***
 
-## Lectura recomendada <!-- {docsify-ignore} -->
-
 <section class='cover show' style='height: auto; width: auto;'>
 <div class='cover-main'>
 <!-- [ORO](/c/oro.md) -->

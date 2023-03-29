@@ -21,7 +21,11 @@ Aquí, en **LocademiaCripto** siempre tratamos de ofrecer información ya "masti
 
 ?> Esta página se actualizará a medida que las **cripto-oportunidades** aparecen
 
-- **3commas** ofrece una sola plataforma web (o app móvil) para trabajar con los principales exchanges del mundo. Con [este enlace especial](3commas/README.md#empezar) tienes acceso al 50% de descuento en tu primer año de suscripción, o bien tres días gratis.
+- **3commas** ofrece una sola plataforma web (o app móvil) para trabajar con los principales exchanges del mundo. Con [este enlace especial](3commas/README.md#empezar) tienes acceso un descuento importante en tu primer año de suscripción, o bien tres días gratis.
+
+## Help Wanted! <!-- {docsify-ignore} -->
+
+!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)
 
 
 
