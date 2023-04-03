@@ -2,6 +2,28 @@
 
 _Próximamente un índice general de todos los temas teóricos que se incluirán aquí._
 
+## Índice del Contenido
+
+## Conceptos
+
+* [Bitcoin](/c/bitcoin.md)
+* [Bridge](/c/bridge.md)
+* [CeFi](/c/cefi.md)
+* [DeFi](/c/defi.md)
+* [DYOR](/c/dyor.md)
+* [Ethereum](/c/ethereum.md)
+* [FIAT](/c/fiat.md)
+* [Gemas](/c/gemas.md)
+* [NFT](/c/nft.md)
+* [ORO](/c/oro.md)
+* [POAP](/c/poap.md)
+* [Stable Coins](/c/stable-coins.md)
+* [Trading](/c/trading.md)
+* [Trading View](/c/tradingview.md)
+* [Wallets](/c/wallets.md)
+* [WEB3](/c/web3.md)
+
+
 ## Cuevas <!-- {docsify-ignore} -->
 
 Para empezar, quiero aclarar que el término se presta para la confusión y está mal llamar "cueva" al comercio personal de criptomonedas. Si fuese el caso, todas las personas que hacen comercio cripto, son cuevas en sí mismas (?).

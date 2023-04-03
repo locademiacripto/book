@@ -23,7 +23,7 @@ Al principio, creí que era difícil crear un POAP, que debía firmar transaccio
 
 Lo cierto es que es muy fácil, y todo el proceso es gratis. Vamos a ir paso a paso. Si bien no necesitás una Metamask en el proceso de creación, si te sugiero tener una al momento de reclamar un POAP. Si aún no contas con una, podes seguir este tutorial paso a paso o ver este video para crear una.
 
-Cómo crear un POAP:
+1. Cómo crear un POAP
 Vamos a ingresar a https://app.poap.xyz/admin y vamos a ver esta pantalla. Simplemente le damos click a Manage Events.
 
 2. Vamos a ver la siguiente pantalla, con todos los eventos que se realizaron y que se van a realizar. Podemos ver algunos como ejemplo o simplemente curiosear 👀
@@ -38,8 +38,6 @@ Vamos a completar los campos de nuestro evento o actividad. Es bastante simple e
 - Website: acá podés cargar la web del evento. Yo, personalmente, pongo el link a la tranmisión de mis videos en vivo en cryptochica así la gente puede darle click y ya dirigirse al evento.
 - Template: Este es un detalle estético, pero a mi me importa mucho porque le podés dar los colores de tu marca (branding) al evento y personalizarlo a tu gusto. Si no te interesa o te gustan los colores de POAP, por defecto viene seleccionada la Standard Template. Si querés crear tu propia plantilla, ingresá a https://app.poap.xyz/admin/template y creá la tuya. Podés pedirle a tu diseñador (o si sos el diseñador, llenarlo vos mismo) colores, logos, banners. También podés ver ejemplos de las ya creadas en https://app.poap.xyz/admin/template.
 - Image of the POAP: te sugiero que hagas un diseño bonito. A mi los diseños me los hace https://t.me/Pacha994. Especificaciones del distintivo: es obligatorio el formato PNG. No vas a poder subir una imagen con otra extensión. POAP recomienda las medidas de 500x500px, forma redonda, tamaño inferior a 200KB. Así no queda una imagen desproporcionada.
-
-!()[https://miro.medium.com/max/1189/1*MwwZN0owLoHF1FqthLp9QA.png]
 
 - Edit Code: IMPORTANTE. Guardá este código para editar los detalles de tu evento, cambiar la imagen o cualquier modificación de último momento. Te lo envían a tu email pero no está demás anotarlo en un lugar seguro. Los códigos son diferentes para cada POAP.
 - Email: Es necesario para recibir los links que deberás distribuir a los asistentes de tu evento.
@@ -64,18 +62,12 @@ En este método se levanta un website por un período de tiempo corto. Este mét
 
 #### Poap Delivery
 Dentro del ecosistema POAP, nos encontramos con poap.delivery. Este sistema está orientado a quienes ya tienen las addresses a las que desean otorgarles una insignia.
-Justo escribiendo este artículo, en la comunidad de DeFi Latam el usuario @ALF_200 nos comentó que había visto el siguiente tweet:
-
-!()[https://miro.medium.com/max/605/1*DVimuvxGMmTIU3VW1gLqsA.png]
 
 Todas las personas que pintaron al menos un pixel en poap.art son beneficiarias de un nuevo poap, al que hace alusión el usuario @toms0x
+
 Damos click al link y nos va a redirigir a una página que nos detecta nuestra Metamask. Si usamos otra wallet, insertamos la dirección de Ethereum y damos click en _lookup_.
 
-!()[https://miro.medium.com/max/1059/1*7r_d_MnddOJ3So3EzDpmqA.png]
-
-El sistema detecta que yo tengo una dirección (address) habilitada para reclamar el siguiente POAP. Sólo queda darle click a Reclamar token POAP:
-
-!()[https://miro.medium.com/max/940/1*bwi7cY3G2ETE-IMLxv9fmw.png]
+El sistema detecta que yo tengo una dirección (address) habilitada para reclamar el siguiente POAP. Sólo queda darle click a Reclamar token POAP
 
 El POAP reclamado (muchos castellanizan la expresión “claim” en “claimeado”) queda asociado a tu dirección de Ethereum.
 

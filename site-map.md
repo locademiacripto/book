@@ -11,22 +11,22 @@
 .
 └── docs
     ├── README.md
-    ├── anexo.md (s)
+    ├── anexo.md
     ├── biblografia.md
     ├── capitulo-cero.md (s)
-    ├── estafas.md (s)
+    ├── estafas.md 
     ├── finanzas.md
-    ├── gemas.md
-    ├── glosario.md (s)
-    ├── intro.md (s)
-    ├── lecturas.md
-    ├── locamision.md
-    ├── mineria.md
+    ├── glosario.md 
+    ├── intro.md
+    ├── indice.md (s)
+    ├── lecturas.md (-)
+    ├── locamision.md (-)
+    ├── mineria.md (-)
     ├── oportunidad.md
     ├── privacidad.md
-    ├── recomendaciones.md (s)
+    ├── recomendaciones.md
     ├── recursos.md
-    ├── riesgos.md (s)
+    ├── riesgos.md
     ├── seguidnos.md (s)
     ├── sentimiento.md
     ├── tu-pais.md (s)
@@ -36,8 +36,10 @@
         ├── bridge.md
         ├── cefi.md
         ├── defi.md
+        ├── dyor.md
         ├── ethereum.md
         ├── fiat.md
+        ├── gemas.md
         ├── nft.md
         ├── oro.md
         ├── poap.md
@@ -48,7 +50,7 @@
         └── web3.md
     └── u
         ├── README.md
-        ├── capitulo1.md
+        ├── capitulo1.md (s)
         └── capitulo2.md
     └── binance
         ├── binance-bot.md
@@ -56,10 +58,10 @@
         └── README.md (s)
     └── 3commas
         ├── descuento.md
-        └── README.md
+        └── README.md (s)
 .
 └── pdf (proyectado)
 
 ```
 
-?> Referencia: `(s)` significa que el archivo está enlazado en `_sidebar.md` (en el menú izquierdo del sitio web)
+?> Referencia: `(s)` significa que el archivo está enlazado en `_sidebar.md` (en el menú izquierdo del sitio web). `(-)` Contenido muy pobre.

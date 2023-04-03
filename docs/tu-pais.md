@@ -20,7 +20,7 @@ Y se está debatiendo la posibilidad de que este YUAN tenga fecha de vencimiento
 
 ### Debates
 
-- [Lectura 1](https://twitter.com/healthy_pockets/status/1572166508545179650?s=20&t=pxi7iCA7Baf4buYUiVDTfQ)
+- [Foro de Debate en Discord](https://discord.gg/ZSfUuFcEBA)
 
 
 ## Regulación :id=regulacion

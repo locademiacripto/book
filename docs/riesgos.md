@@ -86,26 +86,7 @@ Este enfoque para gestionar el riesgo, analiza cuánto riesgo estás asumiendo a
 
 El “RRR” se pone mucho en uso cuando se habla de trading, y se analizan operaciones por unidad operativa. No hablaré ahora mismo de esto sin que sepas sobre Stop Loss, pero más adelante habrá un desarrollo completo sobre cómo analizar correctamente el ratio y su cálculo (cálculo que harás tú mismo teniendo en cuenta cuánto estás dispuesto a perder!).
 
->! (https://academy.binance.com/es/articles/what-is-the-risk-reward-ratio-and-how-to-use-it#what-is-the-risk-reward-ratio)
-
-#### Un ejemplo práctico
-Imagine que desea determinar el riesgo de operar con bitcoins. En primer lugar, debe utilizar una fórmula para calcular la proporción:
-
-R = (Precio objetivo - Precio de entrada) / (Precio de entrada - Stop Loss)
-
-Digamos que los precios son los siguientes:
-
-Precio de entrada = $ 34,000
-Stop Loss = $30,000
-Precio objetivo = $40,000
-Usando la fórmula, tenemos:
-
-R = ($40.000 - $34.000) / ($34.000 - $30.000) = 1,5 o 1:1,5
-
-La proporción de 1:1,5 significa que operar no es riesgoso. Puede comenzar a operar porque tiene la oportunidad de obtener ganancias adicionales. Si obtiene una relación inferior a 1:1, es mejor esperar un poco y no operar ahora.
-
->! (Ampliar con otro ejemplo)
-
+>! Lectura recomendada [¿Qué es la Ratio de Riesgo/Beneficio y Cómo se Utiliza?](https://academy.binance.com/es/articles/what-is-the-risk-reward-ratio-and-how-to-use-it?ref=BRR737TH)
 
 ### Tamaño de la posición
 El tamaño de la posición es un método que permite a una persona calcular el riesgo por operación. Su objetivo es calcular qué cantidad de criptomonedas puede comprar un comerciante de forma segura. 
