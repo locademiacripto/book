@@ -24,9 +24,6 @@ Es importante que vayas registrándote en las tres primeras plataformas. Si te i
 
 Apenas entras a cualquier sitio sobre criptomonedas te hablarán de APY, intereses, recompensas, staking, swap y lo principal que verán tus ojos, es un gráfico imposible de entender. Cosas que te chocarán visualmente y te provocarán la sensación de que “esto es muy avanzado”, tu mente lo primero que te dirá es: “No entiendo nada, no entres aquí”.
 
-Ejemplo de gráfico muy simple:
-(imagen)
-
 Con este curso, busco introducirte en conceptos del mercado de valores, el estudio de los mismos, donde aprenderás sobre cómo visualizar, marcar, y estudiar un gráfico, y para todo esto usaremos la herramienta **TradingView** que es el sitio web líder en el mundo, además de que ofrece cuentas gratuitas y nos permite estudiar y perderle el miedo a los gráficos sin necesidad de pagar por ello.
 
 - Hablaremos más sobre [TradingView](c/trading.md)
