@@ -21,6 +21,7 @@ Es importante que aunque parezca largo y tediosa la lista, les des una mirada an
 **Exchanges (Casas de intercambio internacionales)**
 
 - Binance: https://bit.ly/LocaBinance
+- ByBit: https://www.bybit.com/invite?ref=NMKGQD
 - BitGet: https://partner.bitget.com/bg/J0QRMY
 - Huobi: https://bit.ly/cripto-obi-one
 - OKX: https://www.okx.com/join/LOCADEMIA15
