@@ -33,15 +33,13 @@ Este ebook y su contenido es absolutamente gratis, no se exige ninguna contribuc
 
 Si alguien te vendió este libro, lamento mucho que lo hayas pagado. Su contenido es gratuito. Ahora has aprendido la lección de no creer en lo que alguien en internet te habrá dicho para venderte el contenido de este libro.
 
-Se busca que haya **sinergia**, constantemente mientras absorves datos y procesas información podrías participar de nuestra comunidad para hacer preguntas nuevas, o bien ayudar a otras personas que preguntan. Tu mente recibirá retos constantes, pueden ser teóricos o bien prácticos (¿cómo se hace lo que acabas de leer?). Puedes sumarte a [**LocademiaCripto en Discord**](https://discord.gg/FNTMUcXbef)
+Se busca que haya **sinergia**, constantemente mientras absorves datos y procesas información podrías participar de nuestra comunidad para hacer preguntas nuevas, o bien ayudar a otras personas que preguntan. Tu mente recibirá retos constantes, pueden ser teóricos o bien prácticos (¿cómo se hace lo que acabas de leer?). Puedes sumarte a [**LocademiaCripto en Telegram**](https://t.me/LocademiaCripto)
 
 **LocademiaDigital** surge sobre marketing digital, luego fue evolucionando y generando nuevas comunidades como lo es LocademiaCripto. Es el sitio "padre" de los principales negocios digitales que llevamos a cabo, algunos son públicos, otros privados.
 
 **LocademiaCripto** es algo simple y único sobre criptomonedas. Su finalidad es expandir el conocimiento sobre criptomonedas. Su público objetivo no tiene nivel, ni edad. Ya sea que no tienes ni la más remota idea sobre informática, o con el nivel que vos quieras definirte, el contenido de LocademiaCripto es para ti. 
 
 LocademiaCripto busca romper los esquemas “serios” y “clásicos” (hasta aburridos) sobre el aprendizaje para dar a conocer el universo sobre las criptomonedas, desde cero. Sin límites. Sin costo.
-
-!> Tenemos sector nuevo en Discord que nos permite mezclar con mejor "orden" lo que sería una comunicación fluída como Telegram, y una mejor organización al estilo foro de debate. Puedes sumarte a [**LocademiaCripto en Discord**](https://discord.gg/FNTMUcXbef)
 
 ### Referencias Visuales
 Este libro es más práctico, e interactivo que lo que seguramente estás acostumbrado a leer. 
@@ -112,7 +110,7 @@ Podes comenzar por donde quieras, al costado izquierdo el sitio tiene un buscado
 
 Sin embargo, cada página de este curso tendrá al pié de página un botón verde para guiarte dónde continúa el curso de LocademiaCripto.
 
-?> Si tienes alguna duda sobre los contenidos que hemos compartido aquí, puedes [PREGUNTAR en nuestro HILO de Discord](https://discordapp.com/channels/903989204328005642/903991536071614515/1026194836388323559).
+?> Si tienes alguna duda sobre los contenidos que hemos compartido aquí, puedes [PREGUNTAR en nuestro Telegram](https://t.me/LocademiaCripto).
 
 <section class='cta show'>
 <div class='cta-main'>

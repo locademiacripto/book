@@ -52,7 +52,7 @@ Como podrás observar también recomiendo **xCapit Wallet**, es una empresa de A
 
 Apenas entras a cualquier sitio sobre criptomonedas te hablarán de APY, intereses, recompensas, staking, swap y lo principal que verán tus ojos, es un gráfico imposible de entender. Cosas que te chocarán visualmente y te provocarán la sensación de que “esto es muy avanzado”, tu mente lo primero que te dirá es: “No entiendo nada, no entres aquí”.
 
-?> ¿Confundido por tantas plataformas? No te preocupes, sumate a nuestro [DISCORD](https://discord.gg/Nwg8ZsuaKa) para preguntarnos lo que quieras y puedas aprender más sobre las criptomonedas y todas las plataformas que recomendamos.
+?> ¿Confundido por tantas plataformas? No te preocupes, sumate a nuestro [TELEGRAM](https://t.me/LocademiaCripto) para preguntarnos lo que quieras y puedas aprender más sobre las criptomonedas y todas las plataformas que recomendamos.
 
 Seguramente estás pensando que son muchas plataformas, que no tienes tiempo, que no tienes ganas, etcétera. Lo haces en 30 min o menos, simplemente debes hacer clic en los enlaces que te mostré, registrarte, te llega un correo de verificación, lo validas (verifica que eres tú el que ha solicitado la cuenta) y ya.
 

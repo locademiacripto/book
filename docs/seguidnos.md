@@ -6,8 +6,7 @@ Si algo no entiendes... tienes más OPCIONES por estar dentro de LocademiaCripto
 
 Puedes elegir, te dejo las distintas opciones libres:
 - Me contactas por privado via Telegram o Twitter (decime que has leído esto, y qué cosa no entiendes)
-- Me contactas por canal público vía Telegram, Twitter o Discord.
-- Usas nuestro foro de ayuda Cripto en Discord (es público y puedes ser anónimo).
+- Me contactas por canal público vía Telegram, o Twitter
 - Usas el formulario privado de "preguntas cripto" para contactarme por email.
 
 ?>Aquí debajo, te dejo los enlaces a las distintas opciones para que tú (y solo tú) elijas cómo enviarme tus dudas.
@@ -23,14 +22,11 @@ Las redes sociales, si bien "acercan" el contenido a las personas que me siguen 
 
 - **SEGUIR SI O SI:** Canal de Videos Principal: [Youtube: LocademiaCripto](https://www.youtube.com/c/LocademiaCripto?sub_confirmation=1)
 - Página Web Principal: [LocademiaDigital.com](https://www.locademiadigital.com)
-- Foro de Ayuda Cripto: [Debates en Discord](https://discord.gg/ZSfUuFcEBA)
-  - [Preguntas y Respuestas](https://discord.gg/Nwg8ZsuaKa)
 - Redes Sociales, ordenados por frecuencia de uso:
   - [Twitter: LocademiaCripto](https://twitter.com/LocademiaCripto) - *Privados habilitados!*
   - [Telegram: LocademiaCripto](https://t.me/LocademiaCripto)
     - [Telegram por privado con Waldo](https://t.me/waLddo)
   - [Reddit: LocademiaCripto](https://reddit.com/r/LocademiaCripto)
-  - [Discord: LocademiaCripto - el bar](https://discord.gg/FNTMUcXbef)
   - [Instagram: LocademiaCripto](https://instagram.com/LocademiaCripto)
   - [Facebook: LocademiaCripto](https://facebook.com/LocademiaCripto)
   - [TikTok: LocademiaCripto](https://tiktok.com/LocademiaCripto)

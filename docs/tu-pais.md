@@ -18,11 +18,6 @@ Puedes hacer un seguimiento de estos proyectos aquí: https://cbdctracker.org/
 Ejemplo de manipulación y control: China está creando el YUAN digital
 Y se está debatiendo la posibilidad de que este YUAN tenga fecha de vencimiento, obligando a sus tenedores a "gastarlo" y no "ahorrarlo". Es un concepto nuevo, y desconocido hasta el momento en cuanto a dinero corriente emitido por un gobierno: ¿Te imaginas una moneda en la que te paguen tu trabajo, y te den fecha de vencimiento para usar tu dinero? 
 
-### Debates
-
-- [Foro de Debate en Discord](https://discord.gg/ZSfUuFcEBA)
-
-
 ## Regulación :id=regulacion
 
 Temas de “regulación” de criptomonedas lo analizaremos puntualmente por país donde cada uno puede aportar su grano de arena. Desde ya, que no estoy de acuerdo con la regulación de las criptomonedas. Si bien creo que la palabra “regulación” implica aceptación de que hay o habrá mayor adopción del tema cripto, y por ese lado podría ser positivo, pero habría que ver bien, y analizar bien, qué y cómo quieren regular. Quienes quieren regular. Y por qué.

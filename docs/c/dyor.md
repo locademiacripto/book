@@ -52,7 +52,7 @@ Normalmente estos datos se encuentran fácilmente en LinkedIn o en Twitter en lo
 
 Esto es muy buena señal ya que esto ofrece seguridad a los inversores. En otras ocasiones, vemos como pseudónimos populares en las redes sociales crean proyectos bajo su identidad digital, no transmite tanta seguridad, por lo que siempre que podamos contrastar la veracidad de los usuarios nos dará un punto extra.
 
-No descartes utilizar tanto Twitter como Telegram o Discord para comunicarte y expresar tus dudas al equipo. Lo lógico es que puedan responder a todas tus preguntas, en el caso en el que no obtengas respuestas, o seas bloqueado o eliminado del canal, preocupante porque quizás esconden algo.
+No descartes utilizar tanto Twitter como Telegram para comunicarte y expresar tus dudas al equipo. Lo lógico es que puedan responder a todas tus preguntas, en el caso en el que no obtengas respuestas, o seas bloqueado o eliminado del canal, preocupante porque quizás esconden algo.
 
 #### 2. Whitepaper
 Como buenos seguidores del DYOR, necesitaremos ir a la fuente del asunto de la mano del documento técnico conocido como Whitepaper, así como cualquier tipo de documento que esté disponible.
