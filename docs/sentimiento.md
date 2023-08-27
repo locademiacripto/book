@@ -17,7 +17,7 @@ Esto se actualiza ahora, HOY estamos así:
 
 ## Cambio distributivo en Binance
 
-Si vamos al "Resumen de Mercados" en la sección [Mercados de Binance](https://www.binance.com/es/markets) veremos en tiempo real si el sentimiento es negativo (que el precio baja) o positivo (que el precio subirá). Pocas veces es neutral (que lateraliza)
+Si vamos al "Resumen de Mercados" en la sección [Mercados de Binance](https://www.binance.com/es/markets?ref=BRR737TH) veremos en tiempo real si el sentimiento es negativo (que el precio baja) o positivo (que el precio subirá). Pocas veces es neutral (que lateraliza)
 
 ## Analizador de Criptomonedas
 
