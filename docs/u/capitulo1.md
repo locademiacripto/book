@@ -130,6 +130,6 @@ Tienes más información sobre las distintas invitaciones y sus beneficios, aqu�
 <section class='cover show' style='height: auto; width: auto;'>
 <div class='cover-main'>
 <!-- [Capítulo 2](/u/capitulo2.md) -->
-<p><a href='/u/capitulo2'>Capítulo 2</a></p>
+<p><a href='#/u/capitulo2'>Capítulo 2</a></p>
 </div>
 </section>
