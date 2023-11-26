@@ -15,9 +15,9 @@ Pero ANTES de hablar de las plataformas puramente sobre criptomonedas, algo que 
 
 ¿Cómo te organizas? Calculo que, como casi el 99% de las personas en Internet, tienes al menos una cuenta de correo electrónico. Si es así, pues debes aprender a usarla y correctamente. Ve y abre Google, y busca cómo aprovechar tu correo electrónico, sé que no te gustará leer esto aquí, pero aprende sobre filtros, aprende sobre cómo etiquetar o encarpetar a los correos, para que cuando una plataforma te envíe un email, vaya a esa carpeta, y no a cualquiera. Aprende a darle organización a tu vida electrónica, porque por correo electrónico ocurre mucha de la magia necesaria para navegar en el Internet sin complicaciones.
 
-Amigarte con tu correo electrónico cambiará mucho de tu organización digital, y si puedes, aprende también a dominar las herramientas relacionadas a tu correo… por ejemplo con la cuenta de Gmail, tienes acceso a Google Calendario, y ahí dentro, puedes configurar recordatorios, puedes hacerlos semanales, o mensuales, te servirá para organizar lanzamientos de criptomonedas, y no perderte eventos importantes relacionados al tema de las inversiones.
+**Amigarte con tu correo electrónico cambiará mucho de tu organización digital**, y si puedes, aprende también a dominar las herramientas relacionadas a tu correo… por ejemplo con la cuenta de Gmail, tienes acceso a Google Calendario, y ahí dentro, puedes configurar recordatorios, puedes hacerlos semanales, o mensuales, te servirá para organizar lanzamientos de criptomonedas, y no perderte eventos importantes relacionados al tema de las inversiones.
 
-Por supuesto en el Internet, puedes encontrar otras herramientas gratuitas para hacer este tema de los recordatorios, si ya posees un poco de más experiencia o quieres hacer un uso más avanzado del tema organización digital, yo siempre uso [TRELLO](https://trello.com/os_/recommend). 
+Por supuesto en el Internet, puedes encontrar otras herramientas gratuitas para hacer este tema de los recordatorios, si ya posees un poco de más experiencia o quieres hacer un uso más avanzado del tema organización digital, yo siempre uso [TRELLO gratis](https://trello.com/os_/recommend), que te abre la mente y TODO lo que pienses puedes dejarlo plasmado ahí.
 
 ### Tu seguridad digital
 Y aquí, ATENCIÓN máxima, porque no es una cuestión menor, viviendo en un mundo digital, la seguridad también será digital. ¿Qué hacemos para protegernos? Son cinco los pasos básicos que debes dominar para sentirte seguro, y ya hablé de esto en este artículo: “[Cinco (5) claves para la seguridad digital](https://www.locademiadigital.com/2021/06/5-claves-seguridad-digital.html)” (Lectura recomendada en el enlace previo)
@@ -30,17 +30,21 @@ Hay cinco puntos clave que debes dominar antes de seguir sumergiéndote en el un
 - Gestor de Contraseñas
 - Programa de Autenticación en Dos Pasos (2FA)
 
-Si usas un ordenador, debe ser personal. Al menos, si compartes un ordenador, crea una sesión personal para tu persona. Usa tu móvil solo para consultas, googlear, leer twitter, etcétera. Pero ahora que eres principiante en el universo de las criptomonedas, NO usarás el celular para operar, ni hacer transacciones, ni nada crítico. Sí lo usarás para verificar tu identidad en ciertas plataformas que así lo requieren. Debes entender que muchos sitios web prometerán que con tu móvil puedes hacerte millonario, y que habrá robots de minería (bots mineros) y cosas así, pues recuerda el consejo que te di páginas atrás: QUIEREN TU DINERO! Son todas estafas, debes ignorar todo esto de los bots de minería. No caigas en esos engaños.
+**Si usas un ordenador, debe ser personal**. Al menos, si compartes un ordenador, crea una sesión personal para tu persona. Usa tu móvil solo para consultas, googlear, leer twitter, etcétera. Pero ahora que eres principiante en el universo de las criptomonedas, NO usarás el celular para operar, ni hacer transacciones, ni nada crítico. Sí lo usarás para verificar tu identidad en ciertas plataformas que así lo requieren. Debes entender que muchos sitios web prometerán que con tu móvil puedes hacerte millonario, y que habrá robots de minería (bots mineros) y cosas así, pues recuerda el consejo que te di páginas atrás: QUIEREN TU DINERO! Son todas estafas, debes ignorar todo esto de los bots de minería. No caigas en esos engaños.
 
 Los antivirus hoy en día se podría decir que están sub-valorados, al igual que los gestores de contraseñas. Si quieres tomarte en serio esto de invertir tu dinero en temas de criptomonedas, debes aceptar que correrás riesgos (por las recompensas que podrías recibir), y para disminuir esos riesgos es MUY IMPORTANTE que tus dispositivos sean seguros. Si usas Windows, es casi obligatorio te diría que tengas un Antivirus de confianza (pago, sí). Y el gestor de contraseñas (que brinde encriptación) para evitar usar tus neuronas en los miles de sitios web que hoy día tienen usuario y contraseña. Yo personalmente recomiendo 1password, y esto lo digo sin enlaces de invitación, posee encriptación y podes leer más sobre esto acá: 
 https://support.1password.com/1password-security/
 
 Finalmente está el preciado programa 2FA, conocido como Software de Autenticación en Dos Pasos. Muchas personas solo conocen el Google Authenticator. Por fa, no seas de esas personas, te recomiendo cambiar a Authy (100% gratuito y muchísimo mejor que el de Google).
 
+>**Te dejo una tarea, un ejercicio PRACTICO**. Ahora mismo, apaga tu celular... y supón que te lo han robado. ¿Qué harías para entrar a tu cuenta bancaria desde otro móvil u ordenador? ¿Cómo desbloquearías Binance? ¿Puedes acceder al doble factor de autentificación desde un ordenador prestado? ¡Haz la prueba!
+
 ### El Riesgo
 Palabra que pocos parecen comprender y aprenden a gestionar “el riesgo” demasiado tarde.
 
-Seré algo extremo pero es para que entiendas: 
+Hace un par de días, *una persona me envió un privado y me dijo que quería ganar dinero pero no correr riesgos, que cómo le recomendaba hacer*. ¿Se imaginan cómo ganar dinero sin riesgo?
+
+Seré algo extremo pero es para que entiendas el tema "riesgo": 
 
 > “Todo en la vida, implica riesgo”. 
 
@@ -91,8 +95,7 @@ A modo de repaso, usaremos:
 - La que tú propongas para tu caso particular
 
 #### TradingView
-Creando una cuenta con el enlace de LocademiaCripto: https://bit.ly/LocademiaCriptoTV, te crearás una cuenta gratis y debes seguir mi usuario para estar al tanto de los análisis técnicos que analicemos en las clases y otras novedades.
-Si decidieras (es opcional) pasar a una cuenta paga, obtendrás un bonus de 30 dólares (únicamente usando nuestro enlace).
+Creando una cuenta con el enlace de LocademiaCripto: https://bit.ly/LocademiaCriptoTV, te crearás una cuenta gratis y debes seguir mi usuario para estar al tanto de los análisis técnicos que analicemos en las clases y otras novedades. Si decidieras (es opcional) pasar a una cuenta paga, obtendrás un bonus de 30 dólares (únicamente usando nuestro enlace).
 
 Con qué empezaremos de esta plataforma en nuestras charlas!
 
@@ -118,6 +121,9 @@ Tienes más información sobre las distintas invitaciones y sus beneficios, aqu�
 
 #### 2FA: Authy
 2FA es la sigla para hacer referencia al tema “Autenticación en Dos Pasos”, y quiero ser muy directo con esta recomendación: NO USES GOOGLE Authenticator; usa el programa Authy. Puedes descargar Authy totalmente gratis, desde aquí: https://authy.com/download/ 
+
+>**¿Cómo seguimos?**
+>Dime tú cómo quieres seguir, [envíame un privado por Telegram!](https://t.me/walddo) Ahora mismo, dime qué te pareció este contenido, dime qué dudas tienes, todo lo que me digas es un APORTE para todo esto, me ayudará a entender cómo lees y comprendes este capítulo y también podré actualizar la información con mayor contenido.
 
 ***
 

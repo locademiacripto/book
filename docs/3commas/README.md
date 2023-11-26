@@ -14,7 +14,9 @@ La interfaz está orientada a usuarios novatos, sin embargo, aún si eres nuevo 
 
 En sí misma, **3commas es una plataforma integradora para operar con criptomonedas**, ya sea HODL (comprar para mantener a largo plazo) o bien trading. La plataforma en sí misma NO guarda tus criptomonedas, sino que se conecta a las demás empresas de intercambio ofreciendote una experiencia distinta y simplificada.
 
-Posee apps oficiales para móviles. Si eres nuevo, te recomiendo comenzar dominando el sitio web.
+Es importante destacar que 3Commas es Non-KYC, esto significa que no verificará tu identidad, no les importa quién seas, de dónde, qué hagas, etc. Y tampoco guardará tus criptomonedas, en sí misma 3Commas no es una billetera, no es una wallet. No guarda tu dinero en ningún lado, ya que nunca lo tendrá en su poder. La plataforma 3Commas, piensa que es una web, simplemente te "conecta" a otras plataformas cripto, es como un intermediario que no ve tu identidad, ni tiene tu dinero.
+
+Posee apps oficiales para móviles. Si eres nuevo, te recomiendo comenzar dominando una pantalla más grande y no comenzar por una aplicación móvil para celular. Usa la web principal, desde un navegador web.
 
 En este curso de LocademiaCripto, las capturas de pantalla y los enlaces de referencia serán para profundizar el sitio web, y sacarle el máximo jugo posible.
 
@@ -84,3 +86,6 @@ Indice de temas a ver en la lista de YouTube (cuando tengan enlaces, es que los 
 
 
 >Si ya tenes cuenta en 3Commas y queres recomendar o solicitar un tema, tenes dudas, algún problema, podes [comentar aquí](https://youtu.be/tnvAPUgtKYI) y se te responderá a la brevedad; y si es algo urgente, contactame por [Telegram @WaLddo](https://t.me/waLddo).
+
+>**¿Cómo seguimos?**
+>Dime tú cómo quieres seguir, [envíame un privado por Telegram!](https://t.me/walddo) Ahora mismo, dime qué te pareció este contenido, dime qué dudas tienes, todo lo que me digas es un APORTE para todo esto, me ayudará a entender cómo lees y comprendes este capítulo y también podré actualizar la información con mayor contenido.

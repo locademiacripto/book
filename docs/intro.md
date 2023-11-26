@@ -106,7 +106,10 @@ Esta frase la sentirás siempre, y la traducción al español tiene distintas va
 Es una regla de oro que se aplica en contra de la centralización, principalmente contra lo que es CeFi (Finanzas Centralizadas).
 
 Por ejemplo: cuando compramos Bitcoin a una empresa como Binance, estamos pasando nuestro papel dinero a un intermediario (binance), para comprar btc. La cantidad "x" de btc que compramos, la tendremos en una billetera interna dentro de Binance.com
+
 ¿Tenemos las llaves privadas de esa billetera de Binance? La respuesta es no, ya que Binance.com no ofrece esta información a sus usuarios. Lo que significa que, si el día de mañana, Binance.com se cae, desaparece, o el Internet se pierde, no podremos acceder a nuestras monedas.
+
+>Sigue leyendo sobre [Llaves Privadas aquí](./c/wallets.md#llaves-privadas)
 
 ## Privacidad
 
