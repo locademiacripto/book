@@ -15,7 +15,6 @@ Binance P2P es la sección dentro de Binance que permite el intercambio entre mo
 3. La cripto que compras, queda en tu billetera de Binance (billetera fondos)
 4. Podes hacer lo que quieras con la cripto (ver "[expectativas](../capitulo-cero.md#expectativas)")
 
-
 ## Cómo usar Binance P2P
 
 Empecemos definiendo qué es Binance P2P, teniendo en cuenta que P2P es Peer to peer, persona a persona. 
@@ -48,6 +47,8 @@ Si no tenemos cuenta bancaria a nuestro nombre, y tenemos la cuenta de un famili
 ### ¿Puedo usar Paypal, Zelle, Payoneer, u otros intermediarios de pago?
 Como poder, se puede. Pero no se recomienda. De hecho, Binance emite un aviso de riesgo elevado cuando se usan intermediarios de pago adicionales. Y debemos aclarar que Paypal fue removido como opción de Binance, pues estaba siendo usado por muchos estafadores para comprar, y elevar una disputa después de que el vendedor había cumplido su parte al vender criptomonedas.
 
+>Paypal ha sido quitado de Binance, ya no se puede usar Paypal dentro de Binance P2P.
+
 ### ¿Puedo aceptar dinero de terceros? o ¿Puedo pagar con cuentas de terceros?
 NO, Binance P2P es un contrato entre partes (usuarios de Binance), ambos tienen KYC (verificación personal) por lo tanto es un comercio entre partes conocidas. Si se involucra a terceros, estas personas no forman parte del comercio en sí, y podrían desconocer la transacción en la que se los involucra, trayendo consecuencias negativas para alguna (o ambas) partes conocidas.
 
@@ -77,3 +78,35 @@ En este artículo se listarán los problemas frecuentes, e iré inmortalizando c
 - Pagué cuando faltaban 2 segundos para que se cancele la orden, y la orden se canceló, pero el banco me sacó mi dinero. ¿Cómo me devuelven mi dinero?
 - Pagué a los datos bancarios del vendedor, pero ahora el vendedor dice que está mal, y no me quiere liberar las criptomonedas.
 - Recibí el dinero de una cuenta que no tiene los mismos datos del comprador.
+
+## Comerciante Verificado
+
+>? Leer artículo completo sobre [Insignia Especial o Comerciante Verificado](https://www.locademiacripto.com/2022/11/insignia-especial-en-binance-p2p.html)
+
+Aquí siempre se crea confusión, ya que dentro de Binance, sus usuarios pueden usar la sección Binance P2P siempre y cuando hayan verificado su cuenta. Y para "verificar", tienen que pasar por el **proceso KYC**.
+
+>*¿Recuerdas qué era el concepto KYC?* Hablamos de esto en la introducción, cuando hablamos de privacidad. Dale un repaso: [Privacidad : KYC](../intro?id=privacidad)
+
+Entonces, todos los usuarios dentro de Binance P2P (tengan o no un check dorado, una insignia especial), son usuarios verificados. Es decir, son únicos, no repetidos, no duplicados, poseen cierto tiempo en Binance y han aportado su documentación personal para que Binance los "verifique" en materia de seguridad.
+
+A las personas que crean anuncios y hacen transacciones dentro de Binance P2P, se les denomina "Comerciantes", ya que están comerciando, están comprando y/o vendiendo criptomonedas a través del mercado P2P de Binance. Nos pongamos de acuerdo, ser cajero o comerciante es lo mismo. En algunos países se les denomina "cajeros" a las personas que hacen comercio. Binance los llama comerciantes.
+
+Ahora bien, algunos usuarios (comerciantes) dentro de Binance P2P, tienen en el costado derecho de su nombre (de su nombre de usuario, nickname) una insignia especial. La más común, es una insignia dorada como un check dorado... esto significa que son "comerciantes verificados" por Binance.
+
+**Requisitos para ser comerciante verificado en Binance**
+
+- Número total de transacciones
+- Porcentaje de operaciones completadas
+- Tiempo promedio para transferir activos
+- Tiempo medio de pago del pedido
+- Reseñas recibidas y enviadas (reputación)
+- Periodo de registro de la cuenta
+- Volumen de operaciones durante 30 días
+- Volumen total de operaciones
+- Cantidad de dinero (en stable coin) en Binance (depósito de garantía)
+- Tener cuenta en Telegram (con tu propio nombre de usuario -alias)
+
+### Solicitar la insignia dorada
+
+- Necesitas una cuenta gratuita en Binance y [hacer clic aquí para SOLICITAR la verificación dorada](https://p2p.binance.com/es/merchantApplication?ref=BRR737TH).
+

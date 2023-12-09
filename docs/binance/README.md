@@ -48,6 +48,7 @@ Recibirás un correo electrónico de confirmación, el cual tienes que leer, y h
 - Cómo comprar en Binance P2P
 - Cómo vender en Binance P2P
 - Qué es la triangulación bancaria en P2P
+- Qué es un comerciante verificado en P2P
   
 
 ***

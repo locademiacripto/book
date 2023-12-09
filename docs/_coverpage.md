@@ -5,6 +5,7 @@
 - Simple, fácil y gratis
 - En tu idioma
 - Con ejemplos prácticos
+- Si algo no entiendes, [ME LO DICES!](https://t.me/walddo)
 
 Comienza únicamente si aceptas que NADA de lo que lees aquí es consejo financiero. 🧉
 
