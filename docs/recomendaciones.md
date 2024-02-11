@@ -28,6 +28,7 @@ Es importante que aunque parezca largo y tediosa la lista, les des una mirada an
 - CoinBase: https://bit.ly/LocaCoinbase
 - Kucoin: https://bit.ly/LocaKucoin
 - CoinEx: https://bit.ly/LocaCoinex
+- GateIO: https://www.gate.io/signup/AlJBVlte?ref_type=103
 
 **Plataforma Todo en Uno**
 
