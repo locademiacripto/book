@@ -10,4 +10,5 @@
 Comienza únicamente si aceptas que NADA de lo que lees aquí es consejo financiero. 🧉
 
 [Comenzar gratis](#curso)
+
 [Quiero un curso personalizado](https://www.locademiacripto.com/p/cursos.html)
