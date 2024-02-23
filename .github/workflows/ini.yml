@@ -1,4 +1,4 @@
-name: Inicializar
+name: Instalar
 
 on:
   workflow_dispatch:  # Esto permite iniciar el flujo de trabajo manualmente
@@ -18,8 +18,8 @@ jobs:
 
       - name: Inicializar proyecto Node.js
         run: |
-          npm init -y 
-          npm install -g vuepress
+          npm init -y
+          npm install vuepress
         
       - name: Commit y push archivos procesados
         run: |
@@ -39,6 +39,18 @@ jobs:
           fi
 
       - name: Commit y Push
+        if: env.changes == 'true'
+        run: |
+          git add .
+          git commit -m "Instalación"
+          git push
+
+      - name: Create VuePress Project
+        run: |
+          cd docs
+          vuepress build .
+      
+      - name: Commit y Push 2
         if: env.changes == 'true'
         run: |
           git add .
