@@ -1,0 +1,49 @@
+name: Inicializar
+
+on:
+  workflow_dispatch:  # Esto permite iniciar el flujo de trabajo manualmente
+
+jobs:
+  init_project:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v4
+
+      - name: Instalar Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Inicializar proyecto Node.js
+        run: |
+          npm init -y 
+          npm install -g vuepress
+          
+      - name: Create VuePress Project
+        run: vuepress create docs
+        
+      - name: Commit y push archivos procesados
+        run: |
+          git config --local user.email "SidVal@users.noreply.github.com"
+          git config --local user.name "SidVal"
+
+
+      - name: Verificar cambios
+        id: check_changes
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No hay cambios."
+            echo "changes=false" >> $GITHUB_ENV
+          else
+            echo "Hay cambios."
+            echo "changes=true" >> $GITHUB_ENV
+          fi
+
+      - name: Commit y Push
+        if: env.changes == 'true'
+        run: |
+          git add .
+          git commit -m "Instalación"
+          git push
