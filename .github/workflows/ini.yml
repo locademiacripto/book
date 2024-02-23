@@ -22,7 +22,9 @@ jobs:
           npm install -g vuepress
           
       - name: Create VuePress Project
-        run: vuepress create docs
+        run: |
+          cd docs
+          vuepress create .
         
       - name: Commit y push archivos procesados
         run: |
