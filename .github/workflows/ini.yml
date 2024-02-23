@@ -20,11 +20,6 @@ jobs:
         run: |
           npm init -y 
           npm install -g vuepress
-          
-      - name: Create VuePress Project
-        run: |
-          cd docs
-          vuepress build .
         
       - name: Commit y push archivos procesados
         run: |
