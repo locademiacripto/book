@@ -1,0 +1,15 @@
+{
+  "name": "book",
+  "version": "1.0.0",
+  "description": "El libro está en constante redacción.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
