@@ -13,7 +13,7 @@ jobs:
 
       - name: Create VuePress Project
         run: |
-          vuepress build docs
+          npm init vuepress vuepress-starter
         
       - name: Commit y push archivos procesados
         run: |
