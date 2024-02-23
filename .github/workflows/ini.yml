@@ -19,9 +19,11 @@ jobs:
       - name: Inicializar proyecto Node.js
         run: |
           npm init -y 
-          npm install
-          # npm install cheerio //otras dependencias
+          npm install -g vuepress
           
+      - name: Create VuePress Project
+        run: vuepress create docs
+        
       - name: Commit y push archivos procesados
         run: |
           git config --local user.email "SidVal@users.noreply.github.com"
