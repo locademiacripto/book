@@ -18,12 +18,16 @@ Es importante que aunque parezca largo y tediosa la lista, les des una mirada an
 - CoinMarketCup: https://bit.ly/LocaCoinmarket
 - CoinGecko: https://www.coingecko.com/es
 
+**Banco de Criptomonedas**
+
+- Nexo: https://bit.ly/LocaNexo
+
 **Exchanges (Casas de intercambio internacionales)**
 
 - Binance: https://bit.ly/LocaBinance
 - ByBit: https://www.bybit.com/invite?ref=NMKGQD
+- HTX: https://bit.ly/LocaHTX
 - BitGet: https://partner.bitget.com/bg/J0QRMY
-- Huobi: https://bit.ly/cripto-obi-one
 - OKX: https://www.okx.com/join/LOCADEMIA15
 - CoinBase: https://bit.ly/LocaCoinbase
 - Kucoin: https://bit.ly/LocaKucoin
@@ -33,6 +37,7 @@ Es importante que aunque parezca largo y tediosa la lista, les des una mirada an
 **Plataforma Todo en Uno**
 
 - 3Commas: https://bit.ly/3criptos
+  - [Leer cómo usar 3Commas](3commas/)
 
 **Wallets**
 - xCapit Wallet: https://bit.ly/LocaXcapit
@@ -47,9 +52,9 @@ Estoy buscando introducirte en conceptos del mercado de valores, el estudio de l
 
 **CoinMarketCup** será tu aliado para investigar los distintos proyectos, analizar su riesgo, analizar cuándo surgieron, qué son, quién los desarrolla, cuál es su sitio web oficial o comunidad oficial detrás de determinado proyecto. Sitio hermano es *CoinGecko*.
 
-En cuanto a plataformas de intercambio de criptomonedas, ya lo debes imaginar: **Binance** es la empresa más grande del mundo en cuanto a cantidad de usuarios, cantidad de transacciones, y liquidez del mercado. **Huobi** es su competidor más directo, además de tener amplia presencia en países de habla hispana y ha pasado nuestra evaluación de calidad para dar el curso de introducción a las criptomonedas. **Okx** (anteriormente conocido como Okex) es el competidor de Huobi, está haciendo importante carrera para introducirse en el mercado de habla hispana, y para aquellas personas que buscan diversificar, es una importante alternativa. Entre empresas yankis si se quiere decir así, recomendamos **CoinBase**. Presentan excelente reputación y transparencia. Coloqué a **Kucoin**, pues me lo solicitaron varios alumnos, porque se considera Exchange que presenta lindas oportunidades de “gemas”. Veremos este tema más adelante, no te preocupes. Destaco a **CoinEx** que ofrece intercambio global de criptomonedas, y el último agregado es **[BitGet](https://partner.bitget.com/bg/J0QRMY)**, a raíz de que [*Messi* es embajador directo](https://www.bitget.com/es/support/articles/11688898613017-Leo-Messi-se-asocia-a-Bitget) y muchas personas me solicitaron invitación y contenidos sobre este exchange.
+En cuanto a plataformas de intercambio de criptomonedas, ya lo debes imaginar: **Binance** es la empresa más grande del mundo en cuanto a cantidad de usuarios, cantidad de transacciones, y liquidez del mercado. Puedes revisar el ranking de los exchanges aquí y ahora: https://www.coingecko.com/es/intercambios
 
-Como podrás observar también recomiendo **xCapit Wallet**, es una empresa de Argentina que ha trabajado desarrollando una app, que ofrece resguardo a tus criptos, de forma non-custodial (es decir, te brinda las llaves privadas, no almacena cripto en sus servidores), y a la vez, ofrecen apartado de inversiones para staking, y un sistema automatizado para invertir en Binance (una suerte de bot que compra/vende criptos y busca mayor rentabilidad). En paralelo con un sistema automático y mejor interfaz para usuarios un poco más avanzados, recomendamos **3Commas**, goza de reputación internacional y mucho tiempo en el mercado de las criptomonedas, donde su interfaz conecta con la mayoría de los exchanges del mundo.
+En paralelo con un sistema automático y mejor interfaz para usuarios un poco más avanzados, recomendamos **3Commas**, goza de reputación internacional y mucho tiempo en el mercado de las criptomonedas, donde su interfaz conecta con la mayoría de los exchanges del mundo.
 
 Apenas entras a cualquier sitio sobre criptomonedas te hablarán de APY, intereses, recompensas, staking, swap y lo principal que verán tus ojos, es un gráfico imposible de entender. Cosas que te chocarán visualmente y te provocarán la sensación de que “esto es muy avanzado”, tu mente lo primero que te dirá es: “No entiendo nada, no entres aquí”.
 
