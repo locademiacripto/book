@@ -13,7 +13,7 @@ Siempre, la última versión estará en esta web.
 
 ## LocademiaCripto
 
-- Sitio oficial: [LocademiaCripto.com](https://www.locademiacripto.com)
+- Sitio oficial: [LocademiaCripto](https://www.locademiadigital.com)
 - Telegram: [@LocademiaCripto](https://t.me/LocademiaCripto)
 - YouTube: [LocademiaCripto](https://www.youtube.com/LocademiaCripto)
 
