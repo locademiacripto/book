@@ -8,7 +8,9 @@ Con 3commas podemos manejar todas las cuentas de los exchanges desde una misma p
 
 La interfaz está orientada a usuarios novatos, sin embargo, aún si eres nuevo en el mundo de las criptomonedas, vas a necesitar una mano. Por ello, **estoy aquí dando inicio al curso gratis sobre 3commas en español**. Ayudame con la difusión de este enlace, así más personas pueden nutrirse de estos conocimientos sin pagar nada.
 
-## Qué es
+!> Importante: en todo "locademiacripto" hay invitaciones mías con descuentos, promociones y relacionados. NO SON POR TIEMPO INDETERMINADO! Siempre podes enviarme un mensaje privado a Telegram para consultar disponibilidad!
+
+## Qué es 3Commas
 
 > Es una plataforma web que lleva buen tiempo y reputación en el mercado. Puedes comprobarlo haciendo tu propia investigación.
 
@@ -20,7 +22,7 @@ Posee apps oficiales para móviles. Si eres nuevo, te recomiendo comenzar domina
 
 En este curso de LocademiaCripto, las capturas de pantalla y los enlaces de referencia serán para profundizar el sitio web, y sacarle el máximo jugo posible.
 
-## Por qué
+## Por qué usar 3Commas
 
 Si estás decidido a invertir poco capital en el mundo de las criptomonedas, en el tema TRADING, te habrás dado cuenta que tienes que vivir online, o bien estar muy cerca de los gráficos. Si tienes más de una cuenta en Exchanges, te será dificil llevar el control de tus movimientos. ¿Cuánto estás ganando o perdiendo en Binance? ¿Y en Kucoin?
 
@@ -29,7 +31,7 @@ Con 3commas, **todos los exchanges estan en una sola página web**. De hecho, pu
 En este curso cubriré todo lo que puedes hacer con 3commas, y cómo hacerlo.
 Sumándote a tu primer plan anual, [te regalo 50% de descuento en el plan que elijas](https://3commas.io/?c=cripto), más consultas ilimitadas conmigo a través de Telegram.
 
-## Empezar
+## Empezar ahora
 
 Paso por paso, más simple de lo que crees!
 
@@ -45,15 +47,7 @@ Por favor, revisar que en la configuración de tu cuenta, el código `cripto` qu
 
 ![image](https://github.com/user-attachments/assets/d1a9e0b6-34ca-4a3e-a269-ba5c5fc24560)
 
-
-## BONUS PACK: 3Commas + Binance :id=binance {docsify-ignore}
-
-Si no tienes cuenta en Binance, te ofrezco un BONUS Pack de descuentos exclusivo con clases particulares para aprender a sincronizar Binance con 3Commas y llevar el trading a otro nivel.
-
-- Invitación Plus de LocademiaCripto a Binance: https://bit.ly/LocaBinance
-- Invitación Recargada a 3Commas en español: https://bit.ly/escuelita3commas
-
-Si usas este pack (ambos enlaces), y creas tus cuentas, te ayudo paso por paso a unirlas para disfrutar de todo el poder de Binance a través de herramientas de trading inteligente, y BOTs automáticos que ofrece 3Commas. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/waLddo) para coordinar conmigo las clases particulares a través de Meet o Zoom, que **incluye clases gratis para dominar Binance y complementar con 3Commas**.
+***
 
 ## Escuelita 3Commas
 
@@ -87,8 +81,21 @@ Indice de temas a ver en la lista de YouTube (cuando tengan enlaces, es que los 
   - Grid Bots
 - Señales profesionales de entrada/salida para los bots
 
-
 >Si ya tenes cuenta en 3Commas y queres recomendar o solicitar un tema, tenes dudas, algún problema, podes [comentar aquí](https://youtu.be/tnvAPUgtKYI) y se te responderá a la brevedad; y si es algo urgente, contactame por [Telegram @WaLddo](https://t.me/waLddo).
+
+
+***
+
+## BONUS PACK: 3Commas + Binance :id=binance {docsify-ignore}
+
+Si no tienes cuenta en Binance, te ofrezco un BONUS Pack de descuentos exclusivo con clases particulares para aprender a sincronizar Binance con 3Commas y llevar el trading a otro nivel.
+
+- Invitación Plus de LocademiaCripto a Binance: https://bit.ly/LocaBinance
+- Invitación Recargada a 3Commas en español: https://bit.ly/escuelita3commas
+
+Si usas este pack (ambos enlaces), y creas tus cuentas, te ayudo paso por paso a unirlas para disfrutar de todo el poder de Binance a través de herramientas de trading inteligente, y BOTs automáticos que ofrece 3Commas. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/waLddo) para coordinar conmigo las clases particulares a través de Meet o Zoom, que **incluye clases gratis para dominar Binance y complementar con 3Commas**.
+
+***
 
 >**¿Cómo seguimos?**
 >Dime tú cómo quieres seguir, [envíame un privado por Telegram!](https://t.me/walddo) Ahora mismo, dime qué te pareció este contenido, dime qué dudas tienes, todo lo que me digas es un APORTE para todo esto, me ayudará a entender cómo lees y comprendes este capítulo y también podré actualizar la información con mayor contenido.
