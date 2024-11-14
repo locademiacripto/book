@@ -41,16 +41,19 @@ Paso por paso, más simple de lo que crees!
 
 Los siguientes pasos, creación de cuenta, conectar la exchange, y comenzar a operar todo te guío a través de sesiones semanales, particulares, uno a uno conmigo. Nadie más, sin publicidad, sin engaños, y todo en español.
 
+Por favor, revisar que en la configuración de tu cuenta, el código `cripto` quede así: 
+
+![image](https://github.com/user-attachments/assets/d1a9e0b6-34ca-4a3e-a269-ba5c5fc24560)
+
+
 ## BONUS PACK: 3Commas + Binance :id=binance {docsify-ignore}
 
-Si no tienes cuenta en Binance, te ofrezco un BONUS Pack de descuentos exclusivo:
+Si no tienes cuenta en Binance, te ofrezco un BONUS Pack de descuentos exclusivo con clases particulares para aprender a sincronizar Binance con 3Commas y llevar el trading a otro nivel.
 
 - Invitación Plus de LocademiaCripto a Binance: https://bit.ly/LocaBinance
-- Invitación Recargada a 3commas: https://bit.ly/escuelita3commas
+- Invitación Recargada a 3Commas en español: https://bit.ly/escuelita3commas
 
 Si usas este pack (ambos enlaces), y creas tus cuentas, te ayudo paso por paso a unirlas para disfrutar de todo el poder de Binance a través de herramientas de trading inteligente, y BOTs automáticos que ofrece 3Commas. Me envías un mensaje privado por [Telegram @WaLddo](https://t.me/waLddo) para coordinar conmigo las clases particulares a través de Meet o Zoom, que **incluye clases gratis para dominar Binance y complementar con 3Commas**.
-
-![](../assets/img/binance-3commas.png)
 
 ## Escuelita 3Commas
 
@@ -60,7 +63,7 @@ Son clases de 1 hora, una vez por semana. El contenido lo define el usuario, lo 
 - ¿Cómo coordinar clases? Por privado en [Telegram @WaLddo](https://t.me/waLddo)
 - ¿Cuánto cuesta? Todo dependerá de tu [pantalla de "Ajustes" de tu 3Commas](https://3commas.io/es/users/profile?c=cripto), si el código de referido que tienes cargado es `cripto` (así como está escrito aquí), y te has sumado a un plan anual por primera vez, entonces no tienes que pagar nada por 10 clases. Si el código es `cripto` y no deseas pagar ningún plan aún, podemos conversar el costo de cada clase.
 
-Si no tienes código `cripto` y no deseas cambiarlo, entonces que te de clases el que te refirió ;-) 
+Si no tienes código `cripto` y no deseas cambiarlo, entonces que te de clases el que te refirió jajaja ;-) 
 
 ### Curso 3Commas gratis
 En la lista de videos de YouTube: "[3Commas desde cero](https://www.youtube.com/playlist?list=PLzQ2nY1vA4kKTUpevnVk98pX1VX3E8ZuE)" se publican video tutoriales informativos con contenido muy importante, pero no necesariamente es el mismo contenido que se da a quienes obtienen el beneficio de las clases vía estuelita de 3Commas.
