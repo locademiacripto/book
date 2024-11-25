@@ -20,3 +20,14 @@ Renueva tu suscripción a 3Commas hoy mismo y obtén hasta un 50% de descuento e
 > 
 > Te quedaría así: 50% de descuento en el plan de 2 años
 > O bien... si decides renovar por 1 año, tienes 40% de descuento !
+
+*** 
+
+## IMPORTANTE
+
+🗓️ Timeline de la promoción Black Friday
+
+- 📢 Noviembre 25: ¡Lanzamos los primeros teasers!
+- ⏰ Noviembre 29, a la medianoche: 🎉 Comienza la venta Black Friday. ¡No te lo pierdas!
+- 🚨 Diciembre 6, a la medianoche: ⏳ Finaliza la promoción Black Friday. Aprovecha antes de que termine.
+- 👉 Prepárate y no dejes pasar esta oportunidad única. ¡El reloj está corriendo!
