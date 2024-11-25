@@ -12,6 +12,9 @@
 ### BLACKFRIDAY
 
 **BLACKFRIDAY (solo durante la última semana de Noviembre)**
+
+!>**VER FECHAS CLAVE EN CADA SITIO WEB!**
+
   - [TradingView con descuento exclusivo](https://www.tradingview.com/black-friday/?share_your_love=waldd0)
   - **[3Commas](https://app.3commas.io/auth/registration?utm_source=referral&utm_medium=cabinet&c=cripto)** ha estado trabajando intensamente para ofrecer el mejor software de automatización de trading disponible. Aprovecha 3Commas durante este mercado alcista, **¡esta es la OPORTUNIDAD que esperamos todo el año para sumarnos a3Commas!**
     A continuación te destaco cómo puedes aprovechar estos descuentos de acuerdo a tu nivel de experiencia, si eres NUEVO y nunca usaste 3commas, puedes probar el plan PRO por $9.99 durante 1 mes! **LEE A CONTINUACION tus opciones!!!**
