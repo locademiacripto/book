@@ -33,6 +33,14 @@ Renueva tu suscripción a 3Commas hoy mismo y obtén hasta un 50% de descuento e
     > Te quedaría así: 50% de descuento en el plan de 2 años
     > O bien... si decides renovar por 1 año, tienes 40% de descuento !
 
+- **[Ledger](https://shop.ledger.com/pages/black-friday/?r=a7f16c4a50c8)**! Billetera Fría para asegurar tus criptomonedas al máximo nivel posible!
+  - Get $70 of Bitcoin for each purchase of a Ledger Flex™
+  - 40% on select colors of Ledger Nano S Plus™ 
+  - 40% on select colors of Ledger Nano X™ colors
+  - 25% on Ledger Nano S Plus™ Matte Black
+  - 30% on Ledger Nano S Plus BTC Orange [Nueva Oferta!](https://shop.ledger.com/pages/black-friday/?r=a7f16c4a50c8)
+  - 30% on Ledger Nano X BTC Orange [Nueva Oferta!](https://shop.ledger.com/pages/black-friday/?r=a7f16c4a50c8)
+
 - [Movavi BlackFriday Exclusivo](https://movavi.us4.list-manage.com/track/click?u=0885a03ded3d480dca9287f12&id=9ac01bb13e&e=c8a705f520) - Plataforma para compartir videos en youtube (y ganar $ de forma pasiva).
 
 ### Oportunidades Verificadas
