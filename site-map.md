@@ -5,6 +5,7 @@
 - La carpeta "docs" contiene el índice, es decir, en la url del sitio, el archivo va directo.
 - La carpeta "c" contiene "contenido" específico.
 - La carpeta "u" es para "unidades" (pensando en un curso orientado por unidades de estudio)
+- La carpeta "s" es para "shorts" (las historias cortas), de la `v2025`.
 
 
 ```
@@ -16,6 +17,7 @@
     ├── capitulo-cero.md (s)
     ├── estafas.md 
     ├── finanzas.md
+    ├── faq.md
     ├── glosario.md 
     ├── intro.md
     ├── indice.md (s)
@@ -48,6 +50,8 @@
         ├── tradingview.md
         ├── wallets.md
         └── web3.md
+    └── s
+        └── README.md
     └── u
         ├── README.md
         ├── capitulo1.md (s)
