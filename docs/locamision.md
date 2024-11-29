@@ -2,7 +2,7 @@
 
 !>¿Alguna duda, comentario o sugerencia? Me envías privado vía Telegram [WaLddo](https://t.me/waLddo), siempre abierto al diálogo.
 
-## La historia id=historia
+## La historia :id=historia
 
 ## Por qué este libro digital
 Escribo este e-book de sobre criptomonedas porque creo firmemente en la idea de la importancia del conocimiento compartido. Si el conocimiento no fuese compartido, no podría expandirse y fusionarse con otras ideas dando lugar a nuevos conceptos y conocimientos. Hay algo muy interesante, que es la plasticidad de nuestro cerebro. Mientras lees estas líneas -ahora mismo, aún sin entender bien qué estás haciendo, tu cerebro está procesando los datos y está prendido, bajo un proceso denominado plasticidad. Si eres curioso/a, abrirás Google (o tu buscador favorito) y leerás más al respecto, pero lo importante aquí es que tus neuronas ya están trabajando en absorción de conocimientos, luego tu subconsciente hará el resto, ¡y será fantástico!
