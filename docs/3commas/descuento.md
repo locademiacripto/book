@@ -63,6 +63,7 @@ Renueva tu suscripción a 3Commas hoy mismo y obtén hasta un 50% de descuento e
       margin-bottom: 10px;
       font-family: Arial, sans-serif;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+      border: 1px solid #ff9900; /* Borde naranja para resaltar */
       animation: fadeInOut 5s forwards;
     `;
     notification.innerHTML = `${randomMessage.name} ${randomMessage.message}`;
