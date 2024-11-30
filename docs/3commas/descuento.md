@@ -32,3 +32,8 @@ Renueva tu suscripción a 3Commas hoy mismo y obtén hasta un 50% de descuento e
 - 🚨 Diciembre 6, a la medianoche: ⏳ Finaliza la promoción Black Friday. Aprovecha antes de que termine.
 - 👉 Prepárate y no dejes pasar esta oportunidad única. ¡El reloj está corriendo!
 
+<iframe 
+    src="https://locademiacripto.github.io/web/c/noti.html" 
+    style="position: fixed; bottom: 20px; right: 20px; width: 300px; height: auto; border: none; z-index: 1000;" 
+    scrolling="no">
+</iframe>
