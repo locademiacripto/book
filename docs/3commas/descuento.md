@@ -31,3 +31,59 @@ Renueva tu suscripción a 3Commas hoy mismo y obtén hasta un 50% de descuento e
 - ⏰ Noviembre 29, a la medianoche: 🎉 Comienza la venta Black Friday. ¡No te lo pierdas!
 - 🚨 Diciembre 6, a la medianoche: ⏳ Finaliza la promoción Black Friday. Aprovecha antes de que termine.
 - 👉 Prepárate y no dejes pasar esta oportunidad única. ¡El reloj está corriendo!
+
+<!-- Agrega este HTML en tu página -->
+<div id="notification-container" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;"></div>
+
+<script>
+  // Lista de mensajes y nombres aleatorios
+  const messages = [
+    { name: "Pedro", message: "compró el plan PRO por $9.99" },
+    { name: "Mariana", message: "compró el plan PRO con 40% OFF" },
+    { name: "Rocío", message: "compró el plan PRO con 50% OFF" },
+    { name: "Rodrigo", message: "compró por $9.99" },
+    { name: "Carla", message: "aprovechó el descuento especial en el plan PRO" },
+    { name: "Juan", message: "acaba de adquirir el plan PREMIUM por $14.99" },
+  ];
+
+  // Función para mostrar una notificación
+  function showNotification() {
+    const notificationContainer = document.getElementById("notification-container");
+
+    // Selección aleatoria
+    const randomMessage = messages[Math.floor(Math.random() * messages.length)];
+
+    // Crear el elemento de notificación
+    const notification = document.createElement("div");
+    notification.style.cssText = `
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      padding: 10px 20px;
+      border-radius: 8px;
+      margin-bottom: 10px;
+      font-family: Arial, sans-serif;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+      animation: fadeInOut 5s forwards;
+    `;
+    notification.innerHTML = `${randomMessage.name} ${randomMessage.message}`;
+
+    // Agregar y eliminar notificación
+    notificationContainer.appendChild(notification);
+    setTimeout(() => notification.remove(), 5000);
+  }
+
+  // Animación CSS para notificaciones
+  const style = document.createElement("style");
+  style.innerHTML = `
+    @keyframes fadeInOut {
+      0% { opacity: 0; transform: translateY(20px); }
+      10% { opacity: 1; transform: translateY(0); }
+      90% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(-20px); }
+    }
+  `;
+  document.head.appendChild(style);
+
+  // Mostrar notificaciones aleatorias cada 8 segundos
+  setInterval(showNotification, 8000);
+</script>
