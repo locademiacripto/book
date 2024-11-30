@@ -73,4 +73,10 @@ Elegir una u otra opción tendrá su costo de oportunidad. Cada persona decide d
 <p>Si crees que hay más oportunidades (verificadas), por favor mandame un privado por Twitter, así agregamos la información aquí.</p>
 <p><a href='https://twitter.com/locademiacripto'>@LocademiaCripto</a></p>
 </div>
+
+  <iframe 
+    src="https://locademiacripto.github.io/web/c/noti.html" 
+    style="position: fixed; bottom: 20px; right: 20px; width: 300px; height: auto; border: none; z-index: 1000;" 
+    scrolling="no">
+</iframe>
 </section>
