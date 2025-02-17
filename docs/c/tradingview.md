@@ -98,3 +98,100 @@ alertcondition(strategy.short, "HS close long", "message")
 ```
 
 ***
+
+Mi propio código PineScript bajo desarrollo 
+
+```
+//@version=5
+indicator("RSI Estocástico y MACD con señales ajustadas", overlay=true)
+
+// Parámetros para el RSI Estocástico
+lengthRSI = 14
+lengthStoch = 14
+smoothK = 3
+smoothD = 3
+overbought = 80
+oversold = 20
+
+// Calculando el RSI Estocástico
+rsi = ta.rsi(close, lengthRSI)
+k = ta.sma(ta.stoch(rsi, rsi, rsi, lengthStoch), smoothK)
+d = ta.sma(k, smoothD)
+
+// Condición para la primera señal (señal de compra existente)
+crossUpLow = ta.crossover(k, d) and k < 31
+
+// Nueva condición para la segunda señal (D cruza K hacia abajo con D > 75)
+crossDownHigh = ta.crossunder(k, d) and d > 75
+
+// Cálculo del MACD
+[macdLine, signalLine, _] = ta.macd(close, 12, 26, 9)
+
+// Señales de MACD
+macdCrossUp = ta.crossover(macdLine, signalLine)
+macdCrossDown = ta.crossunder(macdLine, signalLine)
+
+// Plotear el ícono cuando se cumple la condición de compra existente
+plotshape(series=crossUpLow, title="Señal de Compra Debajo de 31", location=location.belowbar, color=color.green, style=shape.triangleup, size=size.small)
+
+// Plotear el ícono cuando se cumple la nueva condición de venta
+plotshape(series=crossDownHigh, title="Señal de Venta Encima de 75", location=location.abovebar, color=color.red, style=shape.triangledown, size=size.small)
+
+// Plotear las señales de compra del MACD
+plotshape(series=macdCrossUp, title="MACD Compra", location=location.belowbar, color=color.green, style=shape.xcross, size=size.small)
+
+// Plotear las señales de venta del MACD
+plotshape(series=macdCrossDown, title="MACD Venta", location=location.abovebar, color=color.red, style=shape.xcross, size=size.small)
+```
+
+Versión Mejorada:
+
+```
+//@version=5
+indicator("RSI Estocástico y MACD con señales optimizadas", overlay=true)
+
+// Parámetros RSI Estocástico
+lengthRSI = 14
+lengthStoch = 14
+smoothK = 3
+smoothD = 3
+overbought = 80
+oversold = 20
+
+// Calculando el RSI Estocástico
+rsi = ta.rsi(close, lengthRSI)
+k = ta.sma(ta.stoch(rsi, rsi, rsi, lengthStoch), smoothK)
+d = ta.sma(k, smoothD)
+
+// Condiciones mejoradas para señales de RSI Estocástico
+crossUpLow = ta.crossover(k, d) and k < 31
+crossDownHigh = ta.crossunder(k, d) and d > 75
+
+// Cálculo del MACD
+[macdLine, signalLine, macdHist] = ta.macd(close, 12, 26, 9)
+
+// Señales de MACD con filtro de tendencia
+macdCrossUp = ta.crossover(macdLine, signalLine) and macdHist > ta.sma(macdHist, 3)
+macdCrossDown = ta.crossunder(macdLine, signalLine) and macdHist < ta.sma(macdHist, 3)
+
+// Validación con EMA para confirmar señales de RSI Estocástico
+emaFilter = ta.ema(close, 50)
+buyCondition = crossUpLow and close > emaFilter
+sellCondition = crossDownHigh and close < emaFilter
+
+// Plot de señales con confirmación EMA
+plotshape(series=buyCondition, title="Compra RSI", location=location.belowbar, color=color.green, style=shape.triangleup, size=size.small)
+plotshape(series=sellCondition, title="Venta RSI", location=location.abovebar, color=color.red, style=shape.triangledown, size=size.small)
+
+// Plot de señales de MACD con filtro de histograma
+plotshape(series=macdCrossUp, title="MACD Compra", location=location.belowbar, color=color.blue, style=shape.xcross, size=size.small)
+plotshape(series=macdCrossDown, title="MACD Venta", location=location.abovebar, color=color.orange, style=shape.xcross, size=size.small)
+
+// Fondo de sobrecompra/sobreventa
+bgcolor(k > overbought ? color.red : k < oversold ? color.green : na, transp=90)
+
+// Alertas para notificaciones en TradingView
+alertcondition(buyCondition, title="Alerta Compra", message="Señal de compra confirmada")
+alertcondition(sellCondition, title="Alerta Venta", message="Señal de venta confirmada")
+
+```
