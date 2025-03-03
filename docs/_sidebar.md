@@ -2,7 +2,7 @@
 * [Todo sobre Binance](/binance/)
 * [Todo en uno: 3Commas](/3commas/)
 
-## Estudiar <!-- {docsify-ignore} -->
+***
 
 * [Intro](intro.md)
 * [Capítulo Cero](capitulo-cero.md)
