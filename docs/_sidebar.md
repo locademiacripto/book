@@ -2,7 +2,12 @@
 * [Todo sobre Binance](/binance/)
 * [Todo en uno: 3Commas](/3commas/)
 
-## Estudiar
+## Estudiar <!-- {docsify-ignore} -->
+
+* [Intro](intro.md)
+* [Capítulo Cero](capitulo-cero.md)
+
+***
 
 * [Bitcoin](c/bitcoin.md)
 * [Bridge](c/bridge.md)
@@ -15,31 +20,26 @@
 * [NFT](c/nft.md)
 * [Oro](c/oro.md)
 * [POAP](c/poap.md)
-* [README](c/README.md)
 * [Stable Coins](c/stable-coins.md)
 * [Trading](c/trading.md)
 * [TradingView](c/tradingview.md)
 * [Wallets](c/wallets.md)
 * [Web3](c/web3.md)
-* [Anexo](anexo.md)
-* [Bibliografía](bibliografia.md)
-* [Capítulo Cero](capitulo-cero.md)
 * [Estafas](estafas.md)
-* [FAQ](faq.md)
 * [Finanzas](finanzas.md)
-* [Glosario](glosario.md)
-* [Índice](indice.md)
-* [Intro](intro.md)
 * [Lecturas](lecturas.md)
-* [Locamision](locamision.md)
 * [Minería](mineria.md)
-* [Oportunidad](oportunidad.md)
 * [Privacidad](privacidad.md)
-* [README](README.md)
 * [Recomendaciones](recomendaciones.md)
 * [Recursos](recursos.md)
 * [Riesgos](riesgos.md)
-* [Seguidnos](seguidnos.md)
 * [Sentimiento](sentimiento.md)
-* [Tu País](tu-pais.md)
 
+
+***
+
+* [Locamision](locamision.md)
+* [FAQ](faq.md)
+* [Glosario](glosario.md)
+* [Oportunidad](oportunidad.md)
+* [Tu País](tu-pais.md)
