@@ -28,3 +28,7 @@ Entonces, puntos que debemos entender:
 ## El dinero en el mundo
 
 _(listar por paises las principales monedas del mundo)_
+
+### Artículo en desarrollo <!-- {docsify-ignore} -->
+
+!> Si te interesa ayudar con el contenido, mandame un privado al telegram: [Walddo](https://t.me/waLddo)

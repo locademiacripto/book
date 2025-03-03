@@ -9,4 +9,4 @@
 Comienza únicamente si aceptas que NADA de lo que lees aquí es consejo financiero. 🧉
 
 [Vamos allá](#vamos)
-[Quiero un curso personalizado](https://www.locademiacripto.com/p/cursos.html)
+[Quiero un curso particular](https://www.locademiacripto.com/p/cursos.html)

@@ -21,32 +21,12 @@ Antes de decir cómo, creo que es interesante al menos dedicarle un párrafo a l
 
 Al principio, creí que era difícil crear un POAP, que debía firmar transacciones con mi Metamask, pagar fees caros, y sinceramente, me daba vergüenza preguntar.
 
-Lo cierto es que es muy fácil, y todo el proceso es gratis. Vamos a ir paso a paso. Si bien no necesitás una Metamask en el proceso de creación, si te sugiero tener una al momento de reclamar un POAP. Si aún no contas con una, podes seguir este tutorial paso a paso o ver este video para crear una.
-
-1. Cómo crear un POAP
-Vamos a ingresar a https://app.poap.xyz/admin y vamos a ver esta pantalla. Simplemente le damos click a Manage Events.
-
-2. Vamos a ver la siguiente pantalla, con todos los eventos que se realizaron y que se van a realizar. Podemos ver algunos como ejemplo o simplemente curiosear 👀
-Pero básicamente, vamos a dar click en Create new POAP.
-
-3. Completar los campos.
-Vamos a completar los campos de nuestro evento o actividad. Es bastante simple e intuitivo. Vas a necesitar:
-- Nombre del evento
-- Descripción del evento
-- Virtual event, City, Country: Si es un evento virtual, marcás la casilla de verificación. Si es un evento presencial, podés agregar la ciudad y el país. Esto es opcional, pero sirve para situar y circunstanciar el evento si así lo deseás o necesitás.
-- Multi-day event: Duración del evento en días. Si vas a tener un evento de varias jornadas, debés ingresar la fecha de inicio y la fecha de finalización. Se va a desplegar un calendario donde podrás seleccionar la fecha. Si es un evento de un sólo día o momento, sólo se habilita el día de inicio.
-- Website: acá podés cargar la web del evento. Yo, personalmente, pongo el link a la tranmisión de mis videos en vivo en cryptochica así la gente puede darle click y ya dirigirse al evento.
-- Template: Este es un detalle estético, pero a mi me importa mucho porque le podés dar los colores de tu marca (branding) al evento y personalizarlo a tu gusto. Si no te interesa o te gustan los colores de POAP, por defecto viene seleccionada la Standard Template. Si querés crear tu propia plantilla, ingresá a https://app.poap.xyz/admin/template y creá la tuya. Podés pedirle a tu diseñador (o si sos el diseñador, llenarlo vos mismo) colores, logos, banners. También podés ver ejemplos de las ya creadas en https://app.poap.xyz/admin/template.
-- Image of the POAP: te sugiero que hagas un diseño bonito. A mi los diseños me los hace https://t.me/Pacha994. Especificaciones del distintivo: es obligatorio el formato PNG. No vas a poder subir una imagen con otra extensión. POAP recomienda las medidas de 500x500px, forma redonda, tamaño inferior a 200KB. Así no queda una imagen desproporcionada.
-
-- Edit Code: IMPORTANTE. Guardá este código para editar los detalles de tu evento, cambiar la imagen o cualquier modificación de último momento. Te lo envían a tu email pero no está demás anotarlo en un lugar seguro. Los códigos son diferentes para cada POAP.
-- Email: Es necesario para recibir los links que deberás distribuir a los asistentes de tu evento.
-
-Una vez llenados estos campos, recibirás un mail donde el equipo de POAP te preguntará cuántos codes (códigos) necesitás para tu evento. ¿Cómo lo calculás? Depende de cuánta asistencia esperes. En mis eventos, últimamente hay 80 asistentes por transmisión, pero no todos reclaman su POAP (espero que después de este artículo sea más accesible ❤ ) entonces suelo pedir 50 códigos. Los códigos son entregados en formato .txt vía email, y ese archivo contiene los links. Es importante que se entregue un link por persona. ¿Hay un máximo de links? No. Pero básicamente, el protocolo cuida que sean pedidos razonables. Siempre se pueden pedir más códigos en caso de que te hayas quedado sin ellos.
+Lo cierto es que es muy fácil, y todo el proceso es gratis. Vamos a ir paso a paso, en el sitio oficial que te mencioné está todo explicado.
 
 ### ¿Cómo distribuyo los POAPs a los asistentes de mi evento?
 
 Hay 3 métodos. Voy a describir uno por uno, pero primero, te los presento:
+
 - POAP-Bot
 - POAP.website
 - POAP.delivery

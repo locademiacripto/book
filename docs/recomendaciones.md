@@ -40,7 +40,6 @@ Es importante que aunque parezca largo y tediosa la lista, les des una mirada an
   - [Leer cómo usar 3Commas](3commas/)
 
 **Wallets**
-- xCapit Wallet: https://bit.ly/LocaXcapit
 - [Cold Wallets](c/wallets.md#cold) _(dispositivos para mantener criptos a largo plazo)_
 
 - La herramienta tú propongas para tu caso particular --> [Contacto con LocademiaCripto](../#contacto)

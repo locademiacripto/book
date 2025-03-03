@@ -6,10 +6,22 @@ Son capítulos MUY cortos, que tengan la posibilidad de saltar a distintas parte
 
 Como en la vida, elegis hacia dónde ir... tu propia aventura relacionada al tema cripto.
 
-## Abriste la puerta id=vamos
+## Abriste la puerta :id=vamos
 
->Detrás de la puerta cuando buscas inversiones te encuentras con...
+>Detrás de la puerta cuando buscas ganar dinero te encuentras con...
 
-1. "Ganas el 10% por día, ven que te muestro cómo."
-2. "Primero, debes aprender la teoría para invertir en algo que conoces".
-3. "Finanzas Personales".
+- "Ganas el 10% por día, ven que te muestro cómo."
+- "Primero, debes aprender la teoría para invertir en algo que conoces".
+- "Gurúes para ser tu propio jefe y tener ferraries".
+- "Máster Archi-Alfas que te muestran que viven en mansiones de lujo."
+
+## ¡BASTA DE ESTUPIDECES!
+
+Invertir para ganar dinero es fácil si sabes cómo. PUNTO.
+
+¿No sabes cómo? Pues bien, requisito: tener pasta ($ = DINERO).
+No puedes invertir si no tienes dinero. Verdad irrefutable.
+Si pedis prestamo, o le sacas dinero a tus padres, es otro tema.
+En tu cuenta debe haber $ para invertir.
+
+Si ya tienes $ (pasta, dinerillo en tu cuenta bancaria) sigue aquí

@@ -34,6 +34,4 @@ Ahora bien, las criptomonedas NO son ilegales. Aún -al momento de publicar este
 
 >Lectura recomendada: "[Todo sobre las cuevas cripto](https://www.locademiadigital.com/2021/11/cuevas-cripto.html)"
 
-### Help Wanted! <!-- {docsify-ignore} -->
 
-!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)

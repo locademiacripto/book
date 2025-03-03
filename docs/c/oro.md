@@ -1,28 +1,50 @@
 # ORO
 
-Es un metal precioso blando de color amarillo dorado. Además, es uno de los metales más apreciados en joyería por sus propiedades físicas, al tener baja alterabilidad, ser muy maleable, dúctil y brillante, y valorado por su rareza, al ser un metal difícil de encontrar en la naturaleza.
+El oro es un metal precioso, blando y de color amarillo dorado. Es uno de los más valorados en joyería gracias a sus propiedades físicas: tiene baja alterabilidad, es muy maleable, dúctil y brillante. Pero, además de sus características técnicas, lo que realmente lo hace especial es su **rareza** . El oro es un metal **difícil de encontrar en la naturaleza** , y esto es clave para entender por qué siempre tuvo tanto valor.  
 
-Lo clave es eso: "Metal difícil de encontrar en la naturaleza". Esto último debe entenderse como "LIMITADO", no hay ORO de forma infinita en el mundo. Y la humanidad no puede "crar" ORO. Entonces, es un activo cuyo valor debería aumentar a medida que se demanda.
+En pocas palabras: el oro es **limitado** . No existe oro infinito en el mundo, y la humanidad no puede "fabricar" más oro de la nada. Por eso, a medida que la demanda aumenta y la disponibilidad sigue siendo la misma, su valor tiende a crecer con el tiempo.
 
-Pero... ¿te has puesto a pensar en la burocracia moderna si queres comprar ORO? ¿Puedes llevar en tu bolsillo un lingote de ORO? ¿Puedes ir a la panadería y pagar con el lingote de oro? ¿Cómo llevas el lingote desde tu ciudad a Tokio? ¿Realmente quieres comprar un lingote de ORO?
+Hasta acá, todo parece perfecto. Pero ahora te invito a hacerte algunas preguntas simples:
 
-Analicemos el tema del "Patrón ORO", que es algo que muchas personas repiten cuando hablan de que el dólar está respaldado en oro.
+*   ¿Alguna vez pensaste en lo complicado que es comprar oro hoy en día?
+*   ¿Podrías llevar en tu bolsillo un lingote de oro?
+*   ¿Podrías ir a la panadería y pagar con ese lingote?
+*   ¿Cómo harías para trasladarlo desde tu ciudad hasta Tokio?
+*   Y la más importante: ¿realmente querés comprar un lingote de oro?
 
-## Patrón ORO
+Ahí es donde aparece la otra cara de la historia: el oro es valioso, sí, pero también es incómodo de usar como dinero en el mundo moderno. Y para entenderlo mejor, vale la pena repasar un concepto que muchos mencionan sin investigar demasiado: el famoso **Patrón Oro** .
 
-Wikipedia en un par de párrafos lo sintetiza de forma esquisita, sin desperdicio, así que no dejes de leer los siguientes párrafos, así no repetis como loro lo que mucha gente escucha y repite sin investigar:
 
->El patrón oro es un sistema monetario que fija el valor de la unidad monetaria en términos de una determinada cantidad de oro. El emisor de la divisa garantiza que pueda dar al poseedor de sus billetes la cantidad de oro consignada en ellos. Una alternativa es el patrón bimetálico, en el que la moneda está respaldada por una parte de oro y otra de plata.
->
->Históricamente, la vigencia del patrón oro empezó durante el siglo XIX como base del sistema financiero internacional. Terminó a raíz de la Primera Guerra Mundial, puesto que los gobiernos beligerantes necesitaron imprimir mucho dinero fiduciario para financiar el esfuerzo bélico sin tener la capacidad de respaldar ese dinero en metal precioso.
->
->Durante los Acuerdos de Bretton Woods, se decidió adoptar el dólar estadounidense como divisa internacional, bajo la condición de que la Reserva Federal (el banco central de ese país) sostuviera el patrón oro **pero a partir de 1971 el mismo se quiebra definitivamente**; por lo que el dólar se convirtió de facto en una moneda fíat respaldada por una imposición gubernamental estadounidense y sin valor intrínseco, pero con un valor legal propio.
+## Patrón Oro
 
-## Burocracia Corrupta
+Según explica Wikipedia:
 
-Desde épocas antes de Cristo que la humanidad está detrás del ORO. Y no, no quiero entrar a dar clases de historia ni citar las miles de referencias que hay en Google sobre estos temas. Te invito a hacer la investigación sobre la historia de nuestro planeta y la carrera por el ORO.
+> _El patrón oro es un sistema monetario que fija el valor de la unidad monetaria en términos de una determinada cantidad de oro. El emisor de la divisa garantiza que puede dar al poseedor de sus billetes la cantidad de oro consignada en ellos. Una alternativa es el patrón bimetálico, en el que la moneda está respaldada por una parte de oro y otra de plata._
 
-A medida que fuimos avanzando como sociedad (algo más civilizado), aparecieron ciertos interlocutores (intermediarios) que quizás inicialmente tenían un papel importante pero a medida que la historia siguió avanzando todo se fue desnaturalizando, y corrompiendo por el poder (y no necesariamente el poder del ORO).
+Históricamente, el patrón oro se utilizó durante el siglo XIX como base del sistema financiero internacional. Pero terminó con la Primera Guerra Mundial, cuando los gobiernos empezaron a imprimir enormes cantidades de dinero para financiar los gastos de guerra, sin tener suficiente oro que respaldara esos billetes.
 
-A lo que voy con estos párrafos es que ahora si queres comprar un lingote de ORO, no podes hacerlo líbremente.
-Y suponiendo que lo logres, NO podes circular líbremente con tu lingote de ORO.
+Más adelante, durante los Acuerdos de Bretton Woods, se decidió que el dólar estadounidense funcionaría como moneda internacional, siempre y cuando estuviera respaldado en oro. Sin embargo, en 1971, ese acuerdo se rompió definitivamente. Desde entonces, el dólar se convirtió en una moneda **fíat** : no tiene valor intrínseco ni respaldo físico, solo vale porque los gobiernos y las personas seguimos aceptándolo como medio de pago.
+
+
+## Burocracia moderna y oro
+
+La obsesión de la humanidad por el oro viene desde antes de Cristo. No hace falta que te dé una clase de historia: te invito a investigar por tu cuenta sobre las civilizaciones, guerras y exploraciones que giraron en torno al oro.
+
+Lo que sí quiero señalar es que, con el paso del tiempo, aparecieron intermediarios que administraban, regulaban y "custodiaban" el oro. Al principio, quizás cumplían un rol necesario. Pero, como suele pasar, el poder fue corrompiendo las reglas y complicando el acceso.
+
+Hoy, si querés comprar un lingote de oro, no es tan simple. Necesitás cumplir requisitos legales, justificar el origen de los fondos, pagar impuestos y declarar la operación. Y suponiendo que lográs comprarlo, tampoco podrías circular libremente con tu lingote. Hay normativas aduaneras y de seguridad que te complicarían moverlo entre países.
+
+En resumen: aunque el oro sigue siendo un activo valioso y limitado, su uso práctico como dinero en el mundo moderno es cada vez más difícil. Si buscás proteger tu patrimonio o resguardar valor, el oro puede ser una opción. Pero si pensás usarlo como medio de pago o ahorro cotidiano, probablemente descubras que quedó atrapado en un sistema burocrático que le quitó esa función.
+
+
+## Comprar ORO "digital"
+
+Me imagino que perdiste las ganas de almacenar oro físico leyendo los párrafos anteriores. Y pleno siglo 21, quiero creer que ya sabes que existe un ORO digital en el mercado de valores, donde puedes comprar un instrumento financiero que representa el valor del ORO. Es decir, compras un "papel" digital, que dice que compraste cuando el ORO salía 3000 dólares por ejemplo... y podrías venderlo cuando valga 5000.
+
+## ¿Qué necesito para comprar ORO en el mercado de valores?
+
+Un broker, por ejemplo ahora uso:
+
+[![Wallbit Broker](/docs/assets/img/wallbit-broker.png)](http://wallbit.io/store)
+
+PD: colocando el Código de referido: `JT1MRD36` te regala $5 😃 

@@ -8,7 +8,6 @@
 - OKX: https://www.okx.com/join/LOCADEMIA15
 - CoinBase: https://bit.ly/LocaCoinbase
 - Kucoin: https://bit.ly/LocaKucoin
-- xCapit Wallet: https://bit.ly/LocaXcapit
 - 3Commas: https://bit.ly/3criptos
 
 ## Scam
@@ -78,6 +77,6 @@ Es una plataforma para revisar y analizar wallets digitales. El enlace que dejé
 
 ## Apps
 
-- [Matrix](https://matrix.org/)
-- [Context](https://context.app/trending)
-Es una plataforma de tiempo real para rastrear la actividad del mercado de NFTs.
+### Artículo en desarrollo <!-- {docsify-ignore} -->
+
+!> Si te interesa ayudar con el contenido, mandame un privado al telegram: [Walddo](https://t.me/waLddo)

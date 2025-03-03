@@ -2,10 +2,6 @@
 
 > Un Sistema de Efectivo Electrónico Peer-to-Peer.
 
-### Help Wanted! <!-- {docsify-ignore} -->
-
-!> Se buscan **colaboradores**, si te interesa ayudar con el contenido o la difusión del mismo, mandame un privado al telegram: [Walddo](https://t.me/waLddo)
-
 ## Síntesis
 
 Vimos gran parte de la historia inicial de Bitcoin en nuestra introducción a las criptomonedas, si aún no lo has leído, [dale una lectura rápida ahora](../intro.md#big-bang)
@@ -25,7 +21,11 @@ A diferencia de las infraestructuras públicas de blockchain que respaldan el de
 
 El tema es que Bitcoin es un activo muy volátil. Si el precio de bitcoin cae fuerte, nuestra billetera de Binance nos dirá cuánto dinero estamos perdiendo, pero CUIDADO aquí, esto no significa que sea pérdida real de dinero. Suponiendo que el precio de Bitcoin esté 10% más arriba que el momento de nuestra compra de bitcoin, la billetera de Binance nos dirá cuánto hemos ganado, y este importe tampoco representa la ganancia REAL en efectivo. Pues no habrá ganancia ni pérdida de dinero hasta que llevemos Bitcoin a una moneda estable, es decir, vendamos Bitcoin por USDT o una moneda que no sea volátil.
 
-<iframe src="https://www.blockchaincenter.net/static/rainbow-chart.html"  scrolling="no" style=" width: 100%; height: 650px;  overflow: hidden;" frameBorder="0" style="border: 0;"></iframe><br><div style="text-align:center;"><a href="https://www.blockchaincenter.net" target="_new" title="Blockchaincenter.net"><img style="width:100px" src="https://www.blockchaincenter.net/wp-content/uploads/Blockchaincenter.net%20Logo.png" title="Blockchaincenter.net"/></a></div>
+![alt text](/docs/assets/img/bitcoin-rainbow.png)
+
+<br><div style="text-align:center;"><a href="https://www.blockchaincenter.net" target="_new" title="Blockchaincenter.net"><img style="width:100px" src="https://www.blockchaincenter.net/wp-content/uploads/Blockchaincenter.net%20Logo.png" title="Blockchaincenter.net"/></a></div>
+
+
 
 ## Lightning Network
 
