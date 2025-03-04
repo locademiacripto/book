@@ -1,3 +1,5 @@
+<!-- markdownlint-disable first-line-h1 -->
+
 * <a href="/#/?id=curso" target="_self">Inicio</a>
 * [Todo sobre Binance](/binance/)
 * [Todo en uno: 3Commas](/3commas/)
