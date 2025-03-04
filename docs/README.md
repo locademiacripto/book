@@ -4,6 +4,8 @@ Bienvenido/a al curso de LocademiaCripto.com ... lo que leerás a continuación 
 
 Si no te interesa NADA de esto, y solamente estás aquí por el conocimiento sobre criptomonedas, directamente [pasa de página AHORA](capitulo-cero.md) y comienza tu propio camino por el conocimiento de las inversiones y el universo de las cripto.
 
+Este libro se actualizará a medida que voy recibiendo retroalimentación sobre lo que lees. No tengas miedo ni timidez de decirme cualquier cosa sobre lo que lees, especialmente si está mal, o que le falta desarrollo, [estoy aquí](/#soy-waldo), inclusive te daré la posibilidad de editarlo y proponer tus cambios a esta página web, aquí explico [cómo colaborar con el conocimiento](https://github.com/locademiacripto/book/wiki) (sin dinero de por medio).
+
 
 ## Soy Waldo
 Quería empezar presentándome, pues estoy seguro que te interesa saber quién soy, y por qué te estoy escribiendo esto.
@@ -25,7 +27,7 @@ En 2do nivel de contacto, con el formulario de contacto aquí: [https://www.loca
 
 ## Preguntas Frecuentes
 
-- Sería interesante que pases por la [sección de preguntas frecuentes](/faq.md)
+- Sería interesante que pases por la [sección de preguntas frecuentes sobre este curso](/faq.md) y también te invito a que me envíes más preguntas que te puedes estar haciendo ahora mismo! 
 
 ## Comenzar
 
@@ -35,14 +37,14 @@ Junto con distintos colaboradores de LocademiaCripto, buscamos presentar este si
 
 Hay dos reglas de ORO que se aplican en todo lo que estás por estudiar:
 
-- "Haz tu propia investigación" (esto se conoce como **DYOR: Do Your Own Research**)
+- "Haz tu propia investigación" (esto se conoce como **[DYOR](c/dyor.md): Do Your Own Research**)
 - "NO CONFIES EN NADA ni en NADIE, VERIFICA"
 
-Podes comenzar por donde quieras, al costado izquierdo el sitio tiene un buscador, y podes buscar por la palabra que quieras. También tenes un menú izquierdo, con temas principales, dandole cierto "orden" de lectura.
+Podes comenzar por donde quieras, al costado izquierdo el sitio tiene un buscador, y podes buscar por la palabra que quieras. También tenes un menú izquierdo, con temas principales!
 
 Sin embargo, cada página de este curso tendrá al pié de página un botón verde para guiarte dónde continúa el curso de LocademiaCripto.
 
-?> Si tienes alguna duda sobre los contenidos que hemos compartido aquí, puedes [PREGUNTAR en nuestro Telegram](https://t.me/LocademiaCripto).
+?> Sigue de cerca el canal [de LocademiaCripto en Telegram](https://t.me/LocademiaCripto) y por supuesto en YouTube donde te muestro todo en videos paso por paso.
 
 <section class='cta show'>
 <div class='cta-main'>

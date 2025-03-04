@@ -1,6 +1,6 @@
 # Trading
 
-## Cómo aprender desde cero
+## Qué es el trade (trading)
 
 >Trading, trading, trading ... 
 
@@ -9,6 +9,8 @@ Vas a encontrarte con gente que dice que esto es el casino, que son apuestas, et
 El trade, es comprar y vender. Punto. No hay mucha ciencia; bah, se podría decir que hay técnicas y estudios. Puedes usar miles de estrategias para el trading, de gente que ha probado muchas veces -y las comparte (o las vende), o la propia donde vos estudias el comportamiento de un activo en el tiempo, lo compras en determinado momento, esperando a que el mercado se comporte a tu favor para luego vender.
 
 El internet explotó las capacidades de los usuarios (abrió ojos), aumentó el interés y te permite no depender de "un" broker, podes si queres conocer a cualquier broker en el mundo, y participar de cualquier mercado de valores del mundo. 
+
+
 
 ### Broker
 
@@ -115,6 +117,22 @@ Entonces, resumiendo:
 8. Opcional: si has hecho 2 operaciones, es decir, compraste y después vendiste (o al revez), felicitaciones!!! Has hecho trading!!! Ya eres un trader!!! 
 
 Ahora los conceptos clave...
+
+#### Ganancia/Pérdida No Realizada :id=profit-loss
+
+Supongamos que hemos comprado BTC (bitcoin) usando USDT, pusimos 100 dólares cuando BTC valía 100 dólares, justo... en ese momento, compramos 1 BTC y vendimos 100 USDT. El par: BTC/USDT en Binance.
+
+Lo que suponemos arriba es una operación de trading dentro de Binance. Nuestra billetera spot dirá que tenemos 1 BTC.
+
+Explicaré a continuación el concepto: "Pérdida NO realizada" continuando el supuesto anterior.
+
+Si el precio de bitcoin cae fuerte, nuestra billetera de Binance nos dirá cuánto dinero estamos perdiendo, nos va a decir -10% (-10 usd), pero CUIDADO aquí, **esto no significa que sea pérdida real de dinero**. Esta es la **"Pérdida No Realizada"**.
+
+Hasta que yo no venda BTC y reciba USDT, no estaré realizando la pérdida, es decir, no veré reflejado en mi billetera la pérdida. Si cuando bitcoin cayó 10% del valor inicial que lo compré, yo vendo mis criptomonedas, estaré vendiendo por debajo del valor de compra, entonces en vez de recibir 100 dólares, recibiré 90 dólares.
+
+Ahora veamos el caso contrario, suponiendo que el precio de Bitcoin esté 10% más arriba que el momento de nuestra compra de bitcoin, la billetera de Binance nos dirá cuánto hemos ganado (dirá por ejemplo +10% (10 dólares) y el saldo de nuestra billetera que será valuada en 110 dólares). Cuidado aquí, porque este importe tampoco representa la ganancia REAL en efectivo. Aquí estamos en presencia de lo que se denomina **"Ganancia NO realizada"**.
+
+Solo tomaremos la ganancia REAL cuando decidamos VENDER la criptomoneda que subió (la que ganó valor despues de haberla comprado), en nuestro ejemplo, si vendemos Bitcoin (su totalidad), habiéndolo comprado a 100 dólares por 1 BTC, si vendemos, recibiremos 110 dólares (el +10% que nos decía la billetera de Binance).
 
 #### TradingView
 La plataforma por excelencia para analizar el mercado donde se hace trading es esta, y es gratis.

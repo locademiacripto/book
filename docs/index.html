@@ -35,39 +35,41 @@
       margin: 0;
     }
 /* Section CTA ini */
-    section.cta.show {
-    display: flex;
-    }
-    section.cta {
-        position: relative;
-        align-items: center;
-        background-position: center center;
-        background-repeat: no-repeat;
-        background-size: cover;
-        min-height: 25vh;
-        width: 100%;
-        display: none;
-    }
-    section.cta .cta-main {
-    flex: 1;
-    margin: 0 16px;
-    text-align: center;
-    position: relative;
-    }
+section.cta.show {
+  display: flex;
+}
+section.cta {
+  position: relative;
+  align-items: center;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 25vh;
+  width: 100%;
+  display: none;
+}
+section.cta .cta-main {
+  flex: 1;
+  margin: 0 16px;
+  text-align: center;
+  position: relative;
+}
 
-    section.cta a {
+section.cta a {
   color: inherit;
   text-decoration: none;
 }
 section.cta a:hover {
   text-decoration: none;
 }
+
 section.cta p {
   line-height: 1.5rem;
   margin: 1em 0;
 }
 
-section.cta .cta-main > p:last-child a {
+/* ✅ Ahora aplica a TODOS los enlaces dentro de p en .cta-main */
+section.cta .cta-main > p > a {
   border-color: #42b983;
   border-color: var(--theme-color, #42b983);
   border-radius: 2rem;
@@ -84,18 +86,13 @@ section.cta .cta-main > p:last-child a {
   text-decoration: none;
   transition: all 0.15s ease;
 }
-section.cta .cta-main > p:last-child a:last-child {
-  background-color: #42b983;
-  background-color: var(--theme-color, #42b983);
-  color: #fff;
-}
-section.cta .cta-main > p:last-child a:last-child:hover {
+section.cta .cta-main > p > a:hover {
   color: inherit;
   opacity: 0.8;
+  text-decoration: none;
 }
-section.cta .cta-main > p:last-child a:hover {
-  color: inherit;
-}
+
+/* Blockquote */
 section.cta blockquote > p > a {
   border-bottom: 2px solid #42b983;
   border-bottom: 2px solid var(--theme-color, #42b983);
@@ -105,6 +102,7 @@ section.cta blockquote > p > a:hover {
   color: #42b983;
   color: var(--theme-color, #42b983);
 }
+
   </style>
   
 </head>

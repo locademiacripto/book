@@ -19,7 +19,7 @@ A diferencia de las infraestructuras públicas de blockchain que respaldan el de
 
 ## Valor de Bitcoin
 
-El tema es que Bitcoin es un activo muy volátil. Si el precio de bitcoin cae fuerte, nuestra billetera de Binance nos dirá cuánto dinero estamos perdiendo, pero CUIDADO aquí, esto no significa que sea pérdida real de dinero. Suponiendo que el precio de Bitcoin esté 10% más arriba que el momento de nuestra compra de bitcoin, la billetera de Binance nos dirá cuánto hemos ganado, y este importe tampoco representa la ganancia REAL en efectivo. Pues no habrá ganancia ni pérdida de dinero hasta que llevemos Bitcoin a una moneda estable, es decir, vendamos Bitcoin por USDT o una moneda que no sea volátil.
+El tema es que Bitcoin es un activo muy volátil, miles de millones de personas (y empresas) lo ven como el verdadero reemplazo del ORO digital, ven potencial en todo lo que BTC ofrece y se negocia (se hace trade) de Bitcoin miles de veces por segundo. Entonces, el mercado de las criptomonedas hace que el valor de Bitcoin representado en dólares, esté en continuo movimiento. 
 
 ![Historia: Valor del Bitcoin](../assets/img/bitcoin-rainbow.png)
 
