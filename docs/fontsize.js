@@ -65,6 +65,16 @@ function styleInject(css, ref) {
 }
 
 var css = `
+#FontSizeDiv {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
 .markdown-section {
     --font-size: 15px;
     font-size: var(--font-size);
@@ -152,12 +162,14 @@ function install(hook, vm) {
         const savedSize = localStorage.getItem('font-size') || 15;
         const lang = document.documentElement.lang;
         const fontSizeText = lang === 'es' ? `Tamaño Letra: ${savedSize}px` : `Font size: ${savedSize}px`;
-        var fontSizeButtons = `
-            <button onclick="adjustFontSize('increase')" class="font-size-button" aria-label="Aumentar tamaño letra" title="Aumentar tamaño letra">A+</button>
-            <button onclick="adjustFontSize('decrease')" class="font-size-button" aria-label="Disminuir tamaño letra" title="Disminuir tamaño letra">A-</button>
-            <div class="font-size-display">${fontSizeText}</div>
+        var fontSizeBlock = `
+            <div id="FontSizeDiv">
+                <button onclick="adjustFontSize('increase')" class="font-size-button" aria-label="Aumentar tamaño letra" title="Aumentar tamaño letra">A+</button>
+                <button onclick="adjustFontSize('decrease')" class="font-size-button" aria-label="Disminuir tamaño letra" title="Disminuir tamaño letra">A-</button>
+                <div class="font-size-display">${fontSizeText}</div>
+            </div>
         `;
-        return fontSizeButtons + html;
+        return fontSizeBlock + html;
     });
 }
 
