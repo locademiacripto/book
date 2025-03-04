@@ -16,6 +16,6 @@ Esto es muy importante, ya que el dinero que invertiremos para ganar más dinero
 
 Lo llevas a una billetera o broker como Wallbit por ejemplo:
 
-[![Wallbit Broker](/docs/assets/img/wallbit-broker.png)](http://wallbit.io/store)
+[![Wallbit Broker](../assets/img/wallbit-broker.png)](http://wallbit.io/store)
 
 PD: colocando el Código de referido: `JT1MRD36` te regala $5 😃 

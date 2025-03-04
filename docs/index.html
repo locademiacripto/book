@@ -163,7 +163,7 @@ section.cta blockquote > p > a:hover {
       onlyCover: false,
       coverpage: true, // Carga del _coverpage.md si es true
       coverpage: ['/', '/s/'], // multiple covers
-      loadNavbar: false, // Loads navbar from the Markdown file _navbar.md if true
+      loadNavbar: true, // Loads navbar from the Markdown file _navbar.md if true
       mergeNavbar: true,
       auto2top: true,
       formatUpdated: '{DD}/{MM}/{YYYY} {HH}:{mm}',
@@ -188,6 +188,8 @@ section.cta blockquote > p > a:hover {
           //   'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG',
           '/binance': '/binance/', // #301
           '/3commas': '/3commas/', // #301
+          '/s': '/s/', // #301
+          '/c': '/c/', // #301
         },
     // CUSTOM PLUGINS
     // -----------------------------------------------------------------
@@ -202,7 +204,7 @@ section.cta blockquote > p > a:hover {
                   url = gitLinkRepoURL +'/blob/main/docs/' + vm.route.file
                 }
                 var editHtml = '[:memo: ' + editThisPageLinkText + '](' + url + ')\n';
-                var wikihtml = ' '+'<a href='+gitWiki+' target="_blank">Leer cómo colaborar</a>'+'\n';
+                var wikihtml = ' '+'<a href='+gitWiki+' target="_blank">¡Dame una mano!</a>'+'\n';
 
                 return (editHtml + wikihtml + html)
 

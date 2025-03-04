@@ -1,4 +1,4 @@
-#### Ganancia/Pérdida No Realizada
+#### Ganancia/Pérdida No Realizada :id=profit-loss
 
 Supongamos que hemos comprado **BTC** (Bitcoin) usando **USDT**.
 

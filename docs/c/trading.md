@@ -118,7 +118,7 @@ Entonces, resumiendo:
 
 Ahora los conceptos clave...
 
-#### Ganancia/Pérdida No Realizada :id=profit-loss
+#### Ganancia/Pérdida No Realizada
 
 Supongamos que hemos comprado BTC (bitcoin) usando USDT, pusimos 100 dólares cuando BTC valía 100 dólares, justo... en ese momento, compramos 1 BTC y vendimos 100 USDT. El par: BTC/USDT en Binance.
 
