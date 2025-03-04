@@ -1,16 +1,19 @@
-# Origen
+# Origen del Dinero que Vas a Invertir
 
-El origen del dinero (de tú dinero)
+Antes de invertir, hay una condición fundamental: **tener dinero con origen claro y comprobable**.
 
-Uno de los requisitos para invertir dinero es "tener dinero". Muchos creen que es algo simple, pero todo lo que tenemos debe tener un origen. Cómo llegó ese dinero a nosotros, lo tenemos que saber. Y no solo "saber", es poder probar que así es como decimos que llegó.
+Aunque suene obvio, es clave poder demostrar cómo llegó ese dinero a vos. No basta con "saberlo", sino que tenés que estar preparado para probarlo ante cualquier consulta de una entidad bancaria, financiera o fiscal.
 
-- Si fue un préstamo, habrá documentación respaldatoria
-- Si es de un familiar, que te prestó el dinero; busca la forma de hacer firmar a ese familiar que el día "x" te realiza dicho prestamo de forma voluntaria (o te lo regala?) ... busca consejo profesional para que este documento pueda ser avalado por un contador público en caso de que una entidad bancaria te exija verificar el origen de los fondos.
-- Si fue sueldo, debería haber documentación respaldatoria.
-- Si fue por un trabajo, debes ser monotributista o facturar ese trabajo.
-- Sea como sea, siempre debes poder probar de dónde viene el dinero.
+Estos son algunos ejemplos:
 
-Esto es muy importante, ya que el dinero que invertiremos para ganar más dinero puede ser cuestionado por entidades financieras y/o bancarias.
+*   Si fue un préstamo: debe existir documentación que lo respalde.
+*   Si proviene de un familiar: firmá un contrato de préstamo o donación. Idealmente, hacelo certificar por un contador público para que tenga validez ante inspecciones.
+*   Si corresponde a tu sueldo: debería estar acreditado mediante recibos de haberes o extractos bancarios.
+*   Si es por trabajos realizados: asegurate de facturar a través de monotributo u otro régimen legal.
+*   En cualquier caso: **siempre debés poder justificar el origen del dinero** con documentación válida.
+
+¿Por qué es tan importante esto?  
+Porque el dinero que vas a invertir para generar ganancias puede ser cuestionado en su origen, y si no podés demostrarlo, podrías tener problemas legales, fiscales o bancarios.
 
 ## Cómo invertir mi dinero
 
@@ -24,6 +27,6 @@ PD: colocando el Código de referido: `JT1MRD36` te regala $5 😃
 
 <section class='cta show'>
 <div class='cta-main'>
-<p><a href='#/c/trading'>TRADING</a></p>
+<p><a href='#/s/ganancia-no-realizada-vs-realizada-trading.md'>GANANCIAS NR o PERDIDAS NR</a></p>
 </div>
 </section>

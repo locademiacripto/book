@@ -45,6 +45,6 @@ Me imagino que perdiste las ganas de almacenar oro físico leyendo los párrafos
 
 Un broker, por ejemplo ahora uso:
 
-[![Wallbit Broker](/docs/assets/img/wallbit-broker.png)](http://wallbit.io/store)
+[![Wallbit Broker](../assets/img/wallbit-broker.png)](http://wallbit.io/store)
 
-PD: colocando el Código de referido: `JT1MRD36` te regala $5 😃 
+PD: colocando el Código de referido: `JT1MRD36` te regala cinco dólares 😃 
