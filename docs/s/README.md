@@ -24,4 +24,10 @@ No puedes invertir si no tienes dinero. Verdad irrefutable.
 Si pedis prestamo, o le sacas dinero a tus padres, es otro tema.
 En tu cuenta debe haber $ para invertir.
 
-Si ya tienes $ (pasta, dinerillo en tu cuenta bancaria) sigue aquí
+Si ya tienes $ (pasta, dinerillo en tu cuenta bancaria) sigue aquí debajo 👇🏼
+
+<section class='cta show'>
+<div class='cta-main'>
+<p><a href='#/s/origen'>ORIGEN</a></p>
+</div>
+</section>

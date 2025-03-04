@@ -19,3 +19,11 @@ Lo llevas a una billetera o broker como Wallbit por ejemplo:
 [![Wallbit Broker](../assets/img/wallbit-broker.png)](http://wallbit.io/store)
 
 PD: colocando el Código de referido: `JT1MRD36` te regala $5 😃 
+
+## Sigue con
+
+<section class='cta show'>
+<div class='cta-main'>
+<p><a href='#/c/trading'>TRADING</a></p>
+</div>
+</section>
