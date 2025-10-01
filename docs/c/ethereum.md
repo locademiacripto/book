@@ -1,6 +1,6 @@
 # Ethereum
 
-# Ethereum: La plataforma de contratos inteligentes
+> La plataforma de contratos inteligentes
 
 Imagina que trabajás en un banco y todos los días procesás préstamos, transferencias, custodia de valores. Cada una de estas operaciones requiere verificaciones, intermediarios, papeleo, y sobre todo: **confianza en la institución**.
 
