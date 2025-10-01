@@ -1,8 +1,12 @@
 # Ethereum
 
+## Programar Eth
+
+> Se viene un curso de programación de contratos inteligentes! Recomiendo lectura de este apartado para [desarrolladores de Blockchain](https://sidval.github.io/dev.web/#/c/blockchain/)
+
 ## Beacon Chain
 
->La versión de ETH 2.0, actualización crítica, pasa de Prueba de Trabajo, a Prueba de Staking.
+> La versión de ETH 2.0, actualización crítica, pasa de Prueba de Trabajo, a Prueba de Staking.
 
 Lecturas recomendadas:
 - [eth-roadmap-faq](https://github.com/timbeiko/eth-roadmap-faq) - _en inglés_
