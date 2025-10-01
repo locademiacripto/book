@@ -330,3 +330,4 @@ Cuando te presenten un proyecto "Web3", preguntate:
 
 - [Web 1.0, Web 2.0 & Web3 Explained](https://dev.to/narottam04/web-10-web-20-web-30-explained-591n)
 - [Guía Web 3.0](https://www.cryptonary.com/cryptoschool/guide-web-3-0/)
+- https://ethereum.org/es/web3/
