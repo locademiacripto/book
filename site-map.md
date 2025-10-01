@@ -29,6 +29,7 @@
     ├── recomendaciones.md
     ├── recursos.md
     ├── riesgos.md
+    ├── satoshi-nakamoto.md
     ├── seguidnos.md (s)
     ├── sentimiento.md
     ├── tu-pais.md (s)
