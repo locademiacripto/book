@@ -28,3 +28,14 @@ Básicamente los participantes se conectan entre sí, sin necesidad de un interm
 Puentes entre distintas cadenas de bloques. 
 **Ejemplo práctico:** si estamos sobre cadena ETH y queremos ir a cadena SOLANA, no se puede hacer directo el envío de una red a otra. Deberíamos usar un "bridge" (o puente). Leer el contenido puntual donde explicamos todo sobre esto: [Bridge](c/bridge.md)
 
+## TradFI
+
+“**TradFi**” es una abreviatura de **Traditional Finance** (“finanzas tradicionales”).
+Se usa en el mundo cripto y fintech para referirse al sistema financiero clásico: bancos, bolsas de valores, fondos de inversión, aseguradoras, reguladores, etc.
+
+👉 **Contexto:**
+
+* En contraposición se habla de **DeFi (Decentralized Finance)**, que son los servicios financieros basados en blockchain (préstamos, exchanges, derivados, etc. sin intermediarios).
+* El término aparece mucho en newsletters y medios de criptomonedas para comparar cómo **TradFi** se adapta, colabora o compite con las innovaciones cripto.
+
+📰 Cuando lees “TradFi Trends” probablemente se refieran a **tendencias en la adopción, regulación o interacción de las finanzas tradicionales** frente al ecosistema cripto/DeFi.
