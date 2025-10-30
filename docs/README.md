@@ -4,7 +4,11 @@ Bienvenido/a al curso de LocademiaCripto.com ... lo que leerás a continuación 
 
 Si no te interesa NADA de esto, y solamente estás aquí por el conocimiento sobre criptomonedas, directamente [pasa de página AHORA](capitulo-cero.md) y comienza tu propio camino por el conocimiento de las inversiones y el universo de las cripto.
 
-Este libro se actualizará a medida que voy recibiendo retroalimentación sobre lo que lees. No tengas miedo ni timidez de decirme cualquier cosa sobre lo que lees, especialmente si está mal, o que le falta desarrollo, [estoy aquí](/#soy-waldo), inclusive te daré la posibilidad de editarlo y proponer tus cambios a esta página web, aquí explico [cómo colaborar con el conocimiento](https://github.com/locademiacripto/book/wiki) (sin dinero de por medio).
+Este libro se actualizará a medida que voy recibiendo retroalimentación sobre lo que lees. No tengas miedo ni timidez de decirme cualquier cosa sobre lo que lees, especialmente si está mal, o que le falta desarrollo, [estoy aquí](/#soy-waldo), inclusive te daré la posibilidad de editarlo y proponer tus cambios a esta página web.
+
+> IMPORTANTE: sumate aquí para recibir novedades sobre criptomonedas en tu correo electrónico
+
+<iframe src="https://cripto.substack.com/embed" width="480" height="320" style="border:1px solid #EEE; background:white;" frameborder="0" scrolling="no"></iframe>
 
 
 ## Soy Waldo
