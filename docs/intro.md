@@ -33,7 +33,7 @@ Las criptomonedas, bajo ellas, tiene un sistema que les da origen. Funcionan baj
 Atrás de Bitcoin no hay empresa, no hay "jefe", ni "director", ni "creador". Es una criptomoneda 100% libre, no depende de nadie. Vive gracias a un sistema programado por miles de personas (quizás millones), cualquier persona puede ver el código del sistema, bajarlo, probarlo, y proponerle cambios. Si los miles de desarrolladores están de acuerdo, se crea un sistema mejor, sino, tus cambios no pasarán.
 
 Pero... entonces, ¿quién respalda las criptomonedas?
-En términos simples, un programa informático. Un SISTEMA.
+En términos simples, un programa informático. Un SISTEMA de programación.
 
 ***
 
